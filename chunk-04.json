@@ -1,0 +1,982 @@
+[
+  {
+    "id": "surgery-t13",
+    "title": "Q5.1: Classification of Salivary Gland Tumours, Pleomorphic Adenoma & Parotidectomy",
+    "children": [
+      {
+        "title": "Covers: KU 25, 24, 23, 22, 17, RGU, TU — Long Essays, Short Essays & Short Answers"
+      },
+      {
+        "title": "1. General Principles (\"Rule of 80s\")",
+        "children": [
+          {
+            "title": "80% of salivary gland neoplasms arise in the major glands, and ~80% of these occur in the Parotid gland"
+          },
+          {
+            "title": "80% of parotid tumours are benign, and 80% of benign parotid tumours are Pleomorphic Adenomas"
+          },
+          {
+            "title": "Smaller the salivary gland, higher the likelihood of malignancy",
+            "children": [
+              {
+                "title": "Parotid: 20% malignant"
+              },
+              {
+                "title": "Submandibular: 50% malignant"
+              },
+              {
+                "title": "Sublingual & Minor salivary glands: 50–85% malignant"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. WHO Classification of Salivary Gland Neoplasms (Table 54.3)",
+        "children": [
+          {
+            "title": "Benign Epithelial Tumours",
+            "children": [
+              {
+                "title": "Pleomorphic adenoma (Mixed tumour — commonest overall)"
+              },
+              {
+                "title": "Warthin’s tumour (Adenolymphoma / Papillary cystadenoma lymphomatosum — second commonest benign tumour)"
+              },
+              {
+                "title": "Basal cell adenoma"
+              },
+              {
+                "title": "Myoepithelioma"
+              },
+              {
+                "title": "Oncocytoma"
+              },
+              {
+                "title": "Canalicular adenoma"
+              },
+              {
+                "title": "Ductal papillomas"
+              }
+            ]
+          },
+          {
+            "title": "Malignant Epithelial Tumours — Low-to-Intermediate Grade",
+            "children": [
+              {
+                "title": "Low-grade Mucoepidermoid carcinoma (commonest salivary malignancy overall and in children)"
+              },
+              {
+                "title": "Acinic cell carcinoma"
+              },
+              {
+                "title": "Polymorphous low-grade adenocarcinoma"
+              },
+              {
+                "title": "Epithelial–myoepithelial carcinoma"
+              }
+            ]
+          },
+          {
+            "title": "Malignant Epithelial Tumours — High Grade",
+            "children": [
+              {
+                "title": "High-grade Mucoepidermoid carcinoma"
+              },
+              {
+                "title": "Adenoid cystic carcinoma (propensity for perineural invasion and “Swiss-cheese” cribriform histology)"
+              },
+              {
+                "title": "Carcinoma ex pleomorphic adenoma"
+              },
+              {
+                "title": "Salivary duct carcinoma"
+              },
+              {
+                "title": "Squamous cell carcinoma"
+              }
+            ]
+          },
+          {
+            "title": "Non-Epithelial / Lymphoid",
+            "children": [
+              {
+                "title": "Haemangioma"
+              },
+              {
+                "title": "Non-Hodgkin’s MALT lymphoma (associated with Sjögren’s syndrome)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Pleomorphic Adenoma (Mixed Parotid Tumour)",
+        "children": [
+          {
+            "title": "Epidemiology",
+            "children": [
+              {
+                "title": "Commonest salivary gland neoplasm"
+              },
+              {
+                "title": "Peaks in the 3rd to 5th decades (average age 45 years)"
+              },
+              {
+                "title": "Slight female preponderance"
+              },
+              {
+                "title": ">80% occur in the parotid (mostly in the superficial lobe / tail of parotid)"
+              }
+            ]
+          },
+          {
+            "title": "Pathology",
+            "children": [
+              {
+                "title": "Macroscopic",
+                "children": [
+                  {
+                    "title": "Well-circumscribed, firm, lobulated/bosselated mass with a whitish-tan, cartilaginous cut surface"
+                  },
+                  {
+                    "title": "Fibrous capsule is incomplete and has microscopic pseudopods (finger-like extensions) projecting into the surrounding normal gland parenchyma"
+                  },
+                  {
+                    "title": "Simple enucleation is contraindicated",
+                    "children": [
+                      {
+                        "title": "It leaves behind pseudopods, leading to multifocal recurrence"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Microscopic (“Mixed Tumour”)",
+                "children": [
+                  {
+                    "title": "Biphasic admixture of epithelial and myoepithelial cells (ducts, sheets, strands) embedded in a mesenchymal-like stroma (myxoid, mucoid, chondroid/cartilaginous, and hyalinised matrix)"
+                  },
+                  {
+                    "title": "Luminal cells express CK7"
+                  },
+                  {
+                    "title": "Myoepithelial cells express p63, S-100, and SMA"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Clinical Presentation (Substantiation of Case [KU 23])",
+            "children": [
+              {
+                "title": "Slow-growing, painless, firm-to-cartilaginous swelling in the parotid region (in front of and below the ear lobule, obliterating the retromandibular groove and lifting the ear lobule)"
+              },
+              {
+                "title": "Freely mobile over deeper structures (becomes less mobile when the masseter is contracted)"
+              },
+              {
+                "title": "Overlying skin is pinchable"
+              },
+              {
+                "title": "Facial nerve is completely intact (0% palsy in benign lesions)"
+              },
+              {
+                "title": "Deep Lobe Tumours (10%)",
+                "children": [
+                  {
+                    "title": "May pass through the stylomandibular tunnel (“dumbbell tumour”) to present as a medial paratonsillar / soft palate bulge pushing the tonsil medially"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Clinical Features Suggestive of Malignant Transformation (Carcinoma ex Pleomorphic Adenoma)",
+            "children": [
+              {
+                "title": "Sudden rapid increase in size of a longstanding swelling"
+              },
+              {
+                "title": "Onset of pain"
+              },
+              {
+                "title": "Facial nerve weakness/palsy (House–Brackmann grading)"
+              },
+              {
+                "title": "Skin infiltration/ulceration"
+              },
+              {
+                "title": "Fixity to underlying masseter/mandible"
+              },
+              {
+                "title": "Trismus"
+              },
+              {
+                "title": "Cervical lymphadenopathy"
+              }
+            ]
+          },
+          {
+            "title": "Investigations",
+            "children": [
+              {
+                "title": "High-Resolution Ultrasonography (USG)",
+                "children": [
+                  {
+                    "title": "First-line imaging"
+                  },
+                  {
+                    "title": "Shows a well-defined, lobulated hypoechoic mass with posterior acoustic enhancement"
+                  }
+                ]
+              },
+              {
+                "title": "Ultrasound-Guided Fine-Needle Aspiration Cytology (FNAC)",
+                "children": [
+                  {
+                    "title": "Reported using the Milan System (Categories I–VI; Pleomorphic adenoma = Category IVA)"
+                  },
+                  {
+                    "title": "96–98% specificity"
+                  },
+                  {
+                    "title": "Core biopsy is reserved for inconclusive cases or suspected lymphoma"
+                  },
+                  {
+                    "title": "Open incisional biopsy is contraindicated due to tumour seeding"
+                  }
+                ]
+              },
+              {
+                "title": "MRI / Contrast CT Scan",
+                "children": [
+                  {
+                    "title": "Indicated for large tumours (>4 cm), suspected deep lobe involvement, recurrent tumours, or suspected malignancy"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Surgical Management (Parotidectomy)",
+            "children": [
+              {
+                "title": "Excision of the tumour with a cuff of normal surrounding parotid tissue while preserving the facial nerve"
+              },
+              {
+                "title": "Superficial Parotidectomy (or Adequate Parotidectomy / Extracapsular Dissection in select mobile tail lesions)",
+                "children": [
+                  {
+                    "title": "For tumours lateral to the facial nerve plane (Patey’s faciovenous plane)"
+                  }
+                ]
+              },
+              {
+                "title": "Total Conservative Parotidectomy",
+                "children": [
+                  {
+                    "title": "Excising both superficial and deep lobes while preserving the facial nerve"
+                  },
+                  {
+                    "title": "For deep lobe tumours"
+                  }
+                ]
+              },
+              {
+                "title": "Radical Parotidectomy",
+                "children": [
+                  {
+                    "title": "Sacrificing the facial nerve with immediate cable nerve grafting using the great auricular nerve or sural nerve, plus neck dissection and adjuvant radiotherapy"
+                  },
+                  {
+                    "title": "For invasive malignancies"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Operative Steps of Superficial Parotidectomy",
+            "children": [
+              {
+                "title": "Incision",
+                "children": [
+                  {
+                    "title": "Lazy-S (Modified Blair) incision (preauricular crease, curving around the ear lobule over the mastoid, and running forward in a neck crease two finger-breadths below the angle of the mandible)"
+                  }
+                ]
+              },
+              {
+                "title": "Flap Elevation",
+                "children": [
+                  {
+                    "title": "Raise an anterior skin flap in the subplatysmal / sub-SMAS plane"
+                  },
+                  {
+                    "title": "Divide the anterior branch of the great auricular nerve while preserving its posterior branch if possible"
+                  }
+                ]
+              },
+              {
+                "title": "Anatomical Landmarks to Identify the Facial Nerve Trunk (Antegrade Technique)",
+                "children": [
+                  {
+                    "title": "Conley’s Tragal Pointer",
+                    "children": [
+                      {
+                        "title": "Facial nerve trunk lies 1 cm deep and 1 cm inferior to the cartilaginous tip of the tragus"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Posterior Belly of Digastric Muscle",
+                    "children": [
+                      {
+                        "title": "Nerve lies just superior to the upper border of the posterior digastric near its mastoid insertion"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Tympanomastoid Suture Line",
+                    "children": [
+                      {
+                        "title": "Nerve lies 6–8 mm deep/inferior to the drop-off of this bony suture line (most constant landmark)"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Styloid Process",
+                    "children": [
+                      {
+                        "title": "Nerve lies superficial to its base"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Retrograde technique",
+                    "children": [
+                      {
+                        "title": "Tracing peripheral branches — e.g., buccal branch parallel to Stensen’s duct or marginal mandibular branch crossing facial vessels — proximally to the trunk"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Dissection",
+                "children": [
+                  {
+                    "title": "Dissect in Patey’s faciovenous plane immediately superficial to the facial nerve branches using fine mosquito forceps and bipolar cautery up to Stensen’s duct, which is ligated"
+                  },
+                  {
+                    "title": "Place a suction drain and close in layers"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Complications of Parotidectomy (Summary Box 54.8)",
+            "children": [
+              {
+                "title": "Early",
+                "children": [
+                  {
+                    "title": "Haematoma"
+                  },
+                  {
+                    "title": "Wound infection"
+                  },
+                  {
+                    "title": "Temporary facial nerve paresis (neuropraxia; commonest in the marginal mandibular branch)"
+                  },
+                  {
+                    "title": "Permanent facial nerve palsy (requires eye care to prevent exposure keratitis)"
+                  },
+                  {
+                    "title": "Sialocele"
+                  },
+                  {
+                    "title": "Salivary fistula"
+                  }
+                ]
+              },
+              {
+                "title": "Late",
+                "children": [
+                  {
+                    "title": "Numbness of the ear lobule (due to division of the great auricular nerve — C2, C3)"
+                  },
+                  {
+                    "title": "Retromandibular hollowing/cosmetic deformity"
+                  },
+                  {
+                    "title": "Tumour recurrence"
+                  },
+                  {
+                    "title": "Frey’s Syndrome"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t14",
+    "title": "Q5.2: Warthin’s Tumour & Frey’s Syndrome",
+    "children": [
+      {
+        "title": "Covers: KU 24, 21, 19, RGU, TU"
+      },
+      {
+        "title": "1. Warthin’s Tumour (Papillary Cystadenoma Lymphomatosum / Adenolymphoma)",
+        "children": [
+          {
+            "title": "Epidemiology",
+            "children": [
+              {
+                "title": "Second most common benign salivary gland tumour (5–15% of parotid neoplasms)"
+              }
+            ]
+          },
+          {
+            "title": "Key Clinical Characteristics",
+            "children": [
+              {
+                "title": "Occurs almost exclusively in the Parotid gland (typically in the lower pole / tail)"
+              },
+              {
+                "title": "Strongly associated with cigarette smoking (8-fold higher risk)"
+              },
+              {
+                "title": "Affects older men in their 6th to 7th decades (male:female historically predominance, now equalising with smoking trends)"
+              },
+              {
+                "title": "10% are bilateral and 10% are multifocal (synchronous or metachronous)"
+              }
+            ]
+          },
+          {
+            "title": "Pathogenesis & Pathology",
+            "children": [
+              {
+                "title": "Thought to arise from heterotopic salivary ductal inclusions trapped within intraparotid lymph nodes during late embryological encapsulation of the parotid"
+              },
+              {
+                "title": "Macroscopic",
+                "children": [
+                  {
+                    "title": "Soft-to-cystic encapsulated mass"
+                  },
+                  {
+                    "title": "Cut surface shows cystic spaces filled with murky, chocolate-brown mucoid fluid (“motor-oil fluid”)"
+                  }
+                ]
+              },
+              {
+                "title": "Microscopic",
+                "children": [
+                  {
+                    "title": "Papillary and cystic structures lined by a characteristic double layer of eosinophilic oncocytic epithelial cells (rich in mitochondria) resting on a dense reactive lymphoid stroma with germinal centres"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Investigations",
+            "children": [
+              {
+                "title": "USG + FNAC (Milan Category IVA)"
+              },
+              {
+                "title": "On Technetium-99m ((99m)Tc) pertechnetate scintigraphy, Warthin’s tumour is uniquely “Hot” (concentrates radioisotope due to high mitochondrial content in oncocytic cells)"
+              },
+              {
+                "title": "Also FDG-avid on PET-CT"
+              }
+            ]
+          },
+          {
+            "title": "Treatment",
+            "children": [
+              {
+                "title": "Conservative superficial parotidectomy / extracapsular dissection"
+              },
+              {
+                "title": "Malignant transformation is exceedingly rare (<1%)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Frey’s Syndrome (Auriculotemporal Syndrome / Gustatory Sweating)",
+        "children": [
+          {
+            "title": "Pathophysiology",
+            "children": [
+              {
+                "title": "Following parotidectomy or parotid trauma, severed postganglionic parasympathetic secretomotor fibres undergo aberrant regeneration and cross-innervate the sympathetic-innervated dermal sweat glands and cutaneous blood vessels of the overlying skin flap"
+              },
+              {
+                "title": "Fibre pathway",
+                "children": [
+                  {
+                    "title": "Inferior salivatory nucleus → Glossopharyngeal nerve [CN IX] → Jacobson’s nerve → lesser petrosal nerve → otic ganglion → auriculotemporal nerve"
+                  }
+                ]
+              },
+              {
+                "title": "Both parasympathetic secretomotor fibres and sympathetic fibres use acetylcholine as their neurotransmitter"
+              }
+            ]
+          },
+          {
+            "title": "Clinical Features",
+            "children": [
+              {
+                "title": "Eating or thinking of food (salivary stimulus) triggers inappropriate sweating, flushing, erythema, and warmth over the preauricular/cheek skin in the distribution of the auriculotemporal nerve"
+              }
+            ]
+          },
+          {
+            "title": "Diagnosis (Minor’s Starch–Iodine Test)",
+            "children": [
+              {
+                "title": "Paint the affected preauricular skin with iodine solution, allow it to dry, dust with dry white starch powder, and give the patient a sialogogue (lemon slice)"
+              },
+              {
+                "title": "Sweating dissolves the iodine to react with starch, turning the affected skin dark blue-black"
+              }
+            ]
+          },
+          {
+            "title": "Prevention (Intraoperative)",
+            "children": [
+              {
+                "title": "Raise a thick skin flap (preserving SMAS)"
+              },
+              {
+                "title": "Or interpose a physical barrier between the parotid bed and skin (e.g., sternocleidomastoid muscle flap, temporalis fascia flap, acellular dermal matrix [Alloderm], or autologous fat graft)"
+              }
+            ]
+          },
+          {
+            "title": "Management of Established Frey’s Syndrome (Summary Box 54.9)",
+            "children": [
+              {
+                "title": "Reassurance (most cases are mild)"
+              },
+              {
+                "title": "Topical antiperspirants (20% Aluminium chlorohydrate roll-on)"
+              },
+              {
+                "title": "Intradermal Botulinum Toxin A injections into the affected skin (gold standard)",
+                "children": [
+                  {
+                    "title": "Blocks presynaptic acetylcholine release at the neuroglandular junction"
+                  },
+                  {
+                    "title": "Effective for 9–12 months"
+                  }
+                ]
+              },
+              {
+                "title": "Tympanic Neurectomy (division of Jacobson’s nerve on the promontory of the middle ear) for refractory cases"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t15",
+    "title": "Q5.3: Ranula, Submandibular Sialolithiasis & Stafne Bone Cyst",
+    "children": [
+      {
+        "title": "Covers: KU 24, 21, 20, 18, 15, RGU, TU"
+      },
+      {
+        "title": "1. Ranula & Plunging Ranula",
+        "children": [
+          {
+            "title": "Definition",
+            "children": [
+              {
+                "title": "A mucous extravasation retention cyst of the floor of the mouth arising from rupture or obstruction of the ducts (ducts of Rivinus / Bartholin’s duct) or acini of the sublingual salivary gland"
+              }
+            ]
+          },
+          {
+            "title": "Clinical Types & Features",
+            "children": [
+              {
+                "title": "Simple (Oral) Ranula",
+                "children": [
+                  {
+                    "title": "Presents in children/young adults as a unilateral, painless, soft, fluctuant, translucent bluish swelling in the anterior floor of the mouth lateral to the frenulum, resembling a frog’s belly (Latin: rana = frog)"
+                  },
+                  {
+                    "title": "Brilliant transillumination is positive"
+                  }
+                ]
+              },
+              {
+                "title": "Plunging (Deep/Cervical) Ranula",
+                "children": [
+                  {
+                    "title": "The mucus collection herniates/insinuates through a dehiscence in the mylohyoid muscle (or around its posterior free border) into the submandibular/submental space"
+                  },
+                  {
+                    "title": "Presenting as a painless neck swelling with or without an intraoral component (bidigitally palpable)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Investigations",
+            "children": [
+              {
+                "title": "Clinical diagnosis"
+              },
+              {
+                "title": "MRI or USG confirms a cystic lesion with a “tail sign” extending into the sublingual space"
+              },
+              {
+                "title": "Aspiration yields thick, viscid, mucinous saliva with high amylase (distinguishing it from a lymphatic malformation/cystic hygroma or dermoid cyst)"
+              }
+            ]
+          },
+          {
+            "title": "Treatment",
+            "children": [
+              {
+                "title": "Excision of the ipsilateral Sublingual Gland along with decompression/evacuation of the cyst via a transoral approach (definitive cure)",
+                "children": [
+                  {
+                    "title": "Simple incision/drainage or marsupialisation has a high recurrence rate because the sublingual gland has multiple autonomous ducts"
+                  }
+                ]
+              },
+              {
+                "title": "Non-surgical alternatives: Intralesional injection of sclerosant OK-432 (Picibanil) or Botulinum toxin"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Submandibular Sialolithiasis (Salivary Calculus)",
+        "children": [
+          {
+            "title": "Epidemiology & Etiology",
+            "children": [
+              {
+                "title": "85% of all salivary calculi occur in the submandibular gland/Wharton’s duct (vs 15% in the parotid)"
+              },
+              {
+                "title": "Reasons",
+                "children": [
+                  {
+                    "title": "Submandibular secretion is rich in mucin, calcium, and phosphate, making it more viscous and alkaline"
+                  },
+                  {
+                    "title": "Wharton’s duct is long, tortuous, and has an antigravity ascending course with a narrow orifice (punctum), predisposing to salivary stasis"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Clinical Features",
+            "children": [
+              {
+                "title": "Classical mealtime syndrome",
+                "children": [
+                  {
+                    "title": "Acute, colicky pain and rapid tense swelling of the submandibular gland just before or during meals (especially sour foods)"
+                  },
+                  {
+                    "title": "Slowly subsides over 1–2 hours after eating"
+                  }
+                ]
+              },
+              {
+                "title": "Examination",
+                "children": [
+                  {
+                    "title": "Enlarged, firm, tender submandibular gland"
+                  },
+                  {
+                    "title": "Reduced saliva from the inflamed sublingual papilla"
+                  },
+                  {
+                    "title": "Stone is palpable on bidigital palpation of the floor of the mouth (palpating from posterior to anterior)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Investigations",
+            "children": [
+              {
+                "title": "Intraoral Lower Occlusal Radiograph",
+                "children": [
+                  {
+                    "title": "80% of submandibular stones are radio-opaque (composed of calcium phosphate and calcium carbonate)"
+                  }
+                ]
+              },
+              {
+                "title": "High-Resolution Ultrasonography or non-contrast CT (detects radiolucent and small stones with acoustic shadowing)"
+              },
+              {
+                "title": "MR Sialography / Diagnostic Sialendoscopy"
+              }
+            ]
+          },
+          {
+            "title": "Treatment",
+            "children": [
+              {
+                "title": "Conservative",
+                "children": [
+                  {
+                    "title": "Hydration, sialogogues, gland massage, and antibiotics if infected"
+                  }
+                ]
+              },
+              {
+                "title": "Stones in Anterior/Distal Wharton’s Duct",
+                "children": [
+                  {
+                    "title": "Small (<5 mm) mobile stones",
+                    "children": [
+                      {
+                        "title": "Sialendoscopic basket extraction"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Larger (>5 mm) impacted stones in the floor of the mouth: Transoral Choanal Duct Slitting (Sialolithotomy)",
+                    "children": [
+                      {
+                        "title": "Place a stay suture behind the stone to prevent it from slipping back into the hilum"
+                      },
+                      {
+                        "title": "Incise the longitudinal axis of Wharton’s duct directly over the stone"
+                      },
+                      {
+                        "title": "Extract stone"
+                      },
+                      {
+                        "title": "Leave the duct open or marsupialise (never suture the duct closed as it causes stricture)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Intraparenchymal / Hilar Stones",
+                "children": [
+                  {
+                    "title": "Sialendoscopy"
+                  },
+                  {
+                    "title": "Extracorporeal Shock Wave Lithotripsy (ESWL for stones <7 mm)"
+                  },
+                  {
+                    "title": "Submandibular Gland Excision (preserving the marginal mandibular nerve, lingual nerve, and hypoglossal nerve)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Stafne Bone Cyst (Static Bone Cavity of Mandible) [KU 18]",
+        "children": [
+          {
+            "title": "A developmental pseudocystic depression on the lingual cortex of the mandible containing ectopic/entrapped submandibular salivary gland tissue and branches of the facial artery"
+          },
+          {
+            "title": "Presentation",
+            "children": [
+              {
+                "title": "Asymptomatic, incidental finding on OPG"
+              },
+              {
+                "title": "A well-corticated, round, unilocular radiolucency (0.5–2 cm) located in the posterior mandible below the inferior alveolar nerve canal between the first molar and the angle of the mandible"
+              }
+            ]
+          },
+          {
+            "title": "Requires reassurance and no surgical intervention"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t16",
+    "title": "Q6.1: Thyroglossal Cyst & Thyroglossal Fistula",
+    "children": [
+      {
+        "title": "Covers: KU 25, 21, 17, 16, 15, RGU, TU"
+      },
+      {
+        "title": "Embryology",
+        "children": [
+          {
+            "title": "The thyroid gland develops from the median endodermal bud at the foramen caecum of the tongue and descends caudally in front of the pharynx as the hollow thyroglossal duct"
+          },
+          {
+            "title": "The duct passes in intimate continuity with (anterior, through, or posterior to) the body of the developing hyoid bone before reaching its final position in the lower neck"
+          },
+          {
+            "title": "The duct normally obliterates by the 6th–8th week"
+          },
+          {
+            "title": "Persistence of an unobliterated segment forms a Thyroglossal Cyst"
+          }
+        ]
+      },
+      {
+        "title": "Anatomical Sites of Thyroglossal Cyst",
+        "children": [
+          {
+            "title": "Subhyoid / Infrahyoid (60–75% — Commonest): Between the hyoid bone and thyroid cartilage"
+          },
+          {
+            "title": "Suprahyoid (20%)"
+          },
+          {
+            "title": "Over the thyroid cartilage (often slightly to the left of the midline)"
+          },
+          {
+            "title": "Floor of the mouth / Intralingual (Foramen caecum)"
+          }
+        ]
+      },
+      {
+        "title": "Clinical Diagnosis",
+        "children": [
+          {
+            "title": "Presents most commonly in children and young adults as a painless, smooth, cystic midline neck swelling"
+          },
+          {
+            "title": "Two Pathognomonic Clinical Signs",
+            "children": [
+              {
+                "title": "Moves upwards with deglutition",
+                "children": [
+                  {
+                    "title": "Attached to the pretracheal fascia/larynx"
+                  }
+                ]
+              },
+              {
+                "title": "Moves upwards on protrusion of the tongue (Tugging Sign)",
+                "children": [
+                  {
+                    "title": "Because the cyst remains tethered to the base of the tongue (foramen caecum) via the patent thyroglossal tract passing through the hyoid bone"
+                  },
+                  {
+                    "title": "Holding the cyst between thumb and index finger while asking the patient to protrude the tongue elicits a distinct upward tug"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complications",
+        "children": [
+          {
+            "title": "Recurrent Infection & Abscess Formation (due to lymphoid tissue in its wall)"
+          },
+          {
+            "title": "Thyroglossal Fistula",
+            "children": [
+              {
+                "title": "Never congenital; always acquired following spontaneous rupture or inadequate surgical incision/drainage of an infected thyroglossal cyst"
+              },
+              {
+                "title": "Presents as a midline pinpoint opening below the hyoid, discharging mucus/pus"
+              },
+              {
+                "title": "Covered by a characteristic crescentic hood of skin (“hood sign”) superiorly that is pulled inwards on tongue protrusion"
+              }
+            ]
+          },
+          {
+            "title": "Malignancy (<1%)",
+            "children": [
+              {
+                "title": "Almost always Papillary Thyroid Carcinoma arising in ectopic thyroid tissue within the cyst wall"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Investigations",
+        "children": [
+          {
+            "title": "Neck Ultrasonography",
+            "children": [
+              {
+                "title": "Confirms the cystic nature of the swelling"
+              },
+              {
+                "title": "Verifies the presence of a normal orthotopic thyroid gland in the lower neck (mandatory before excision, lest the cyst contains the patient’s only functioning thyroid tissue)"
+              }
+            ]
+          },
+          {
+            "title": "Thyroid Function Tests (TSH, Free T4) and FNAC (if a solid mural nodule is seen)"
+          }
+        ]
+      },
+      {
+        "title": "Treatment (Sistrunk’s Operation)",
+        "children": [
+          {
+            "title": "Principle",
+            "children": [
+              {
+                "title": "Excision of the cyst alone has a >40% recurrence rate because microscopic epithelial ductules pass through the hyoid bone up to the foramen caecum"
+              }
+            ]
+          },
+          {
+            "title": "Components of Sistrunk’s Operation: Complete en bloc excision of",
+            "children": [
+              {
+                "title": "The thyroglossal cyst (and fistulous tract with an ellipse of skin, if a fistula is present)"
+              },
+              {
+                "title": "The central segment (body) of the hyoid bone (1–1.5 cm between the lesser cornua)"
+              },
+              {
+                "title": "A core of suprahyoid muscle tissue (mylohyoid, geniohyoid, genioglossus) along the entire embryonic tract up to the foramen caecum"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

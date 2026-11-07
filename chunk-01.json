@@ -1,0 +1,910 @@
+[
+  {
+    "id": "surgery-t01",
+    "title": "Q1.1: Malignant Melanoma (Classification, Clinical Features, Prognostic Factors, Staging & Management)",
+    "children": [
+      {
+        "title": "Covers",
+        "children": [
+          {
+            "title": "KU 24, 21, 18; Short Essay & Short Answers"
+          }
+        ]
+      },
+      {
+        "title": "Definition",
+        "children": [
+          {
+            "title": "Malignant tumour of melanocytes",
+            "detail": "A malignant tumour of melanocytes (cells of neural crest origin located in the basal epidermis)."
+          },
+          {
+            "title": "Sites",
+            "detail": "It can arise in skin, mucosa, retina, and leptomeninges."
+          }
+        ]
+      },
+      {
+        "title": "Epidemiology & Risk Factors",
+        "children": [
+          {
+            "title": "Accounts for <5% of skin malignancies but causes >75% of skin cancer-related deaths"
+          },
+          {
+            "title": "Commonest cancer in young adults (20-39 years)"
+          },
+          {
+            "title": "Risk factors",
+            "children": [
+              {
+                "title": "Ultraviolet radiation (UVR)",
+                "detail": "Especially intense intermittent \"flash-fry\" exposure."
+              },
+              {
+                "title": "Fair skin / red hair"
+              },
+              {
+                "title": ">30 sun-acquired naevi"
+              },
+              {
+                "title": ">=5 severe sunburns before age 16"
+              },
+              {
+                "title": "Family history"
+              },
+              {
+                "title": "Genetic syndromes",
+                "children": [
+                  {
+                    "title": "Xeroderma pigmentosum"
+                  },
+                  {
+                    "title": "FAMMM syndrome"
+                  }
+                ]
+              },
+              {
+                "title": "Giant Congenital Pigmented Naevus (GCPN)"
+              },
+              {
+                "title": "Immunosuppression",
+                "detail": "Increases risk 20-30-fold."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Macroscopic Features Suggestive of Malignant Change in Naevi (ABCDE / Summary Box 45.5)",
+        "children": [
+          {
+            "title": "Asymmetry / Change in shape"
+          },
+          {
+            "title": "Border irregularity"
+          },
+          {
+            "title": "Colour variation"
+          },
+          {
+            "title": "Diameter (>6 mm) / Change in size"
+          },
+          {
+            "title": "Elevation / Thickness",
+            "detail": "Nodularity or ulceration."
+          },
+          {
+            "title": "Satellite lesions"
+          },
+          {
+            "title": "Tingling / itching / serosanguineous discharge",
+            "detail": "Late signs."
+          }
+        ]
+      },
+      {
+        "title": "Macroscopic Classification (Clinical Variants)",
+        "children": [
+          {
+            "title": "Superficial Spreading Melanoma (SSM - 70%)",
+            "children": [
+              {
+                "title": "Most common"
+              },
+              {
+                "title": "Usually arises in a pre-existing naevus after years of slow radial change followed by rapid vertical growth (nodularity)"
+              }
+            ]
+          },
+          {
+            "title": "Nodular Melanoma (NM - 15%)",
+            "children": [
+              {
+                "title": "Aggressive"
+              },
+              {
+                "title": "Arises de novo",
+                "detail": "More common in middle-aged men on trunk/head/neck."
+              },
+              {
+                "title": "Blue/black papules"
+              },
+              {
+                "title": "Lacks a radial growth phase",
+                "detail": "Vertical growth from the outset."
+              },
+              {
+                "title": "Up to 5% are amelanotic"
+              }
+            ]
+          },
+          {
+            "title": "Lentigo Maligna Melanoma (LMM - 5-10%)",
+            "children": [
+              {
+                "title": "Arises from Hutchinson's melanotic freckle (melanoma in situ) on sun-damaged face/neck/hands of elderly patients (women > men)"
+              },
+              {
+                "title": "Slowest to enter vertical growth phase"
+              }
+            ]
+          },
+          {
+            "title": "Acral Lentiginous Melanoma (ALM - 2-8% in whites, 35-60% in Asian/African/Hispanic populations)",
+            "children": [
+              {
+                "title": "Affects glabrous skin of palms, soles, and nail beds (subungual)"
+              }
+            ]
+          },
+          {
+            "title": "Hutchinson's Sign",
+            "children": [
+              {
+                "title": "Pigmentation of the proximal/lateral nail fold widening into a triangular macule with nail dystrophy",
+                "detail": "Diagnostic of subungual melanoma."
+              }
+            ]
+          },
+          {
+            "title": "Miscellaneous",
+            "children": [
+              {
+                "title": "Amelanotic melanoma",
+                "detail": "Flesh-coloured, poor prognosis due to late diagnosis."
+              },
+              {
+                "title": "Desmoplastic melanoma",
+                "detail": "Head/neck, propensity for perineural infiltration and local recurrence."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Microscopic Growth Phases",
+        "children": [
+          {
+            "title": "Horizontal (Radial) Growth Phase",
+            "detail": "Atypical melanocytes spread laterally along the dermoepidermal junction."
+          },
+          {
+            "title": "Vertical Growth Phase",
+            "detail": "Invasion deep into the dermis; confers metastatic potential."
+          }
+        ]
+      },
+      {
+        "title": "Staging & Prognostic Determinants",
+        "children": [
+          {
+            "title": "1. Breslow Thickness (Most important prognostic indicator in Stage I / Node-negative disease)",
+            "children": [
+              {
+                "title": "Measured vertically with an ocular micrometer to the nearest 0.1 mm from the top of the stratum granulosum to the deepest point of tumour invasion"
+              }
+            ]
+          },
+          {
+            "title": "2. Clark's Levels of Invasion (Historical / Anatomical)",
+            "children": [
+              {
+                "title": "Level I: Confined to epidermis (in situ)"
+              },
+              {
+                "title": "Level II: Invasion into papillary dermis"
+              },
+              {
+                "title": "Level III: Filling papillary dermis up to the papillary-reticular dermal interface"
+              },
+              {
+                "title": "Level IV: Invasion into reticular dermis"
+              },
+              {
+                "title": "Level V: Invasion into subcutaneous fat"
+              }
+            ]
+          },
+          {
+            "title": "3. Other Prognostic Factors",
+            "children": [
+              {
+                "title": "Regional lymph node metastasis",
+                "detail": "Single most important overall prognostic index; once clinically involved, 70-85% have occult distant metastases."
+              },
+              {
+                "title": "High mitotic index"
+              },
+              {
+                "title": "Ulceration"
+              },
+              {
+                "title": "Extranodal extension"
+              },
+              {
+                "title": "Elevated serum LDH"
+              }
+            ]
+          },
+          {
+            "title": "AJCC 8th Edition T-Staging",
+            "children": [
+              {
+                "title": "Tis (in situ)"
+              },
+              {
+                "title": "T1 (<= 1.0 mm; T1a <0.8 mm without ulceration)"
+              },
+              {
+                "title": "T2 (1.01-2.0 mm)"
+              },
+              {
+                "title": "T3 (2.01-4.0 mm)"
+              },
+              {
+                "title": "T4 (>4.0 mm)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Management",
+        "children": [
+          {
+            "title": "1. Diagnosis (Biopsy)",
+            "children": [
+              {
+                "title": "Full-thickness excision biopsy with a 2-3 mm clinical margin of skin and a cuff of subdermal fat"
+              },
+              {
+                "title": "Incision biopsy is only done for very large facial/acral lesions where complete excision is disfiguring"
+              }
+            ]
+          },
+          {
+            "title": "2. Wide Local Excision (WLE) Margins (Definitive Local Control)",
+            "children": [
+              {
+                "title": "In situ (Tis): 5 mm margin"
+              },
+              {
+                "title": "Breslow <1 mm (T1): 1 cm margin"
+              },
+              {
+                "title": "Breslow >1 mm (T2-T4): 2 cm margin"
+              }
+            ]
+          },
+          {
+            "title": "3. Management of Regional Lymph Nodes",
+            "children": [
+              {
+                "title": "Clinically Node-Negative (cN0)",
+                "detail": "Offer Sentinel Lymph Node Biopsy (SLNB) for tumours T2a (>1.0 mm) and above (or >0.8 mm with ulceration)."
+              },
+              {
+                "title": "Clinically Node-Positive or Positive SLNB",
+                "detail": "Therapeutic/Completion regional lymphadenectomy."
+              }
+            ]
+          },
+          {
+            "title": "4. Adjuvant & Systemic Therapy (Stage III/IV)",
+            "children": [
+              {
+                "title": "Targeted Therapy",
+                "children": [
+                  {
+                    "title": "BRAF V600 inhibitors (Dabrafenib, Vemurafenib) combined with MEK inhibitor (Trametinib) for the 50% of melanomas harbouring BRAF mutations"
+                  }
+                ]
+              },
+              {
+                "title": "Immunotherapy (Checkpoint Inhibitors)",
+                "children": [
+                  {
+                    "title": "Anti-CTLA-4 (Ipilimumab)"
+                  },
+                  {
+                    "title": "Anti-PD-1 (Nivolumab, Pembrolizumab)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t02",
+    "title": "Q1.2: Basal Cell Carcinoma (Rodent Ulcer) & Mohs Micrographic Surgery",
+    "children": [
+      {
+        "title": "Covers",
+        "children": [
+          {
+            "title": "KU 24, 20, 18, 17, 15"
+          }
+        ]
+      },
+      {
+        "title": "Definition",
+        "children": [
+          {
+            "title": "Slow-growing, locally invasive malignant tumour of pluripotential epithelial cells arising from the basal layer of the epidermis and outer root sheath of hair follicles"
+          },
+          {
+            "title": "Affects pilosebaceous skin; never occurs on palms/soles"
+          }
+        ]
+      },
+      {
+        "title": "Epidemiology & Risk Factors",
+        "children": [
+          {
+            "title": "Commonest skin malignancy in white-skinned populations (outnumbers SCC by 4:1)"
+          },
+          {
+            "title": "95% occur between ages 40 and 80 years; males > females"
+          },
+          {
+            "title": "Predisposing factors",
+            "children": [
+              {
+                "title": "UVR (proportional to initial carcinogen dose)"
+              },
+              {
+                "title": "Arsenic exposure"
+              },
+              {
+                "title": "Coal tar"
+              },
+              {
+                "title": "Aromatic hydrocarbons"
+              },
+              {
+                "title": "Ionising radiation"
+              },
+              {
+                "title": "Immunosuppression"
+              },
+              {
+                "title": "Genetic syndromes",
+                "children": [
+                  {
+                    "title": "Gorlin's syndrome",
+                    "detail": "PTCH1 gene mutation on Chr 9q."
+                  },
+                  {
+                    "title": "Xeroderma pigmentosum"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Macroscopic Types",
+        "children": [
+          {
+            "title": "Localised (90% are nodular/nodulocystic)",
+            "children": [
+              {
+                "title": "Nodular / Nodulocystic",
+                "detail": "Translucent, pearly nodule with surface telangiectasia; central necrosis produces a classic \"Rodent Ulcer\" with a rolled, beaded edge."
+              },
+              {
+                "title": "Cystic",
+                "detail": "Large cystic spaces."
+              },
+              {
+                "title": "Pigmented",
+                "detail": "Contains melanin; mimics malignant melanoma."
+              },
+              {
+                "title": "Naevoid"
+              }
+            ]
+          },
+          {
+            "title": "Generalised",
+            "children": [
+              {
+                "title": "Superficial (Multifocal / Superficial spreading)",
+                "detail": "Erythematous scaly plaques, often on the trunk."
+              },
+              {
+                "title": "Infiltrative (Morphoeic, Ice-pick, Cicatrising)",
+                "detail": "Synthesises type IV collagenase, leading to rapid, ill-defined subclinical spread with scar-like plaques."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Microscopic Features",
+        "children": [
+          {
+            "title": "Nests of ovoid basophilic cells with scant cytoplasm and a characteristic peripheral \"palisading\" single layer of columnar nuclei"
+          },
+          {
+            "title": "Only the outer layer actively divides"
+          }
+        ]
+      },
+      {
+        "title": "Prognostic Stratification",
+        "children": [
+          {
+            "title": "High-Risk BCC",
+            "children": [
+              {
+                "title": "Size >2 cm"
+              },
+              {
+                "title": "High-risk embryonic fusion planes (\"H-zone\" of face: periorbital, nose, ear - risk of cranial invasion)"
+              },
+              {
+                "title": "Recurrent tumours"
+              },
+              {
+                "title": "Immunosuppression"
+              },
+              {
+                "title": "Morphoeic / infiltrative / micronodular histology"
+              }
+            ]
+          },
+          {
+            "title": "Metastasis is exceedingly rare (<0.1%)"
+          }
+        ]
+      },
+      {
+        "title": "Management",
+        "children": [
+          {
+            "title": "1. Surgical Excision",
+            "children": [
+              {
+                "title": "Excision under loupe magnification with a 4 mm peripheral margin for well-defined low-risk lesions (2-15 mm depending on macroscopic variant)"
+              },
+              {
+                "title": "Reconstruction via primary closure, skin graft, or local flaps"
+              }
+            ]
+          },
+          {
+            "title": "2. Mohs Micrographic Surgery (MMS)",
+            "children": [
+              {
+                "title": "Principle",
+                "detail": "Serial horizontal/tangential excision of skin cancer with immediate 100% microscopic mapping of frozen-section margins by a dermatological surgeon before defect reconstruction."
+              },
+              {
+                "title": "Indications",
+                "children": [
+                  {
+                    "title": "Morphoeic / ill-defined BCCs"
+                  },
+                  {
+                    "title": "Recurrent tumours"
+                  },
+                  {
+                    "title": "Lesions in tissue-sparing sites (eyelids, nasal tip, periauricular)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "3. Non-Surgical Modalities",
+            "children": [
+              {
+                "title": "Radiotherapy",
+                "detail": "Reserved for elderly/infirm patients (similar recurrence rates to surgery, but risks radiation-induced malignancy 10-20 years later)."
+              },
+              {
+                "title": "Topical Therapy",
+                "detail": "5-Fluorouracil (5-FU) or Imiquimod (immune response modifier) for biopsy-proven superficial BCCs."
+              },
+              {
+                "title": "Cryotherapy / Curettage & Cautery",
+                "detail": "For small, low-risk superficial lesions."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t03",
+    "title": "Q1.3: Cutaneous Squamous Cell Carcinoma (SCC) & Marjolin's Ulcer",
+    "children": [
+      {
+        "title": "Covers",
+        "children": [
+          {
+            "title": "KU 23, 22, 16, RGU, TU"
+          }
+        ]
+      },
+      {
+        "title": "Definition",
+        "children": [
+          {
+            "title": "Malignant tumour of keratinising cells of the epidermis (stratum spinosum/basalis) or its appendages"
+          },
+          {
+            "title": "Expresses cytokeratins 1 and 10"
+          }
+        ]
+      },
+      {
+        "title": "Etiology & Premalignant Precursors",
+        "children": [
+          {
+            "title": "Risk factors",
+            "children": [
+              {
+                "title": "Cumulative chronic UVR exposure"
+              },
+              {
+                "title": "Ionising radiation"
+              },
+              {
+                "title": "Chemical carcinogens (arsenic, tar, soot)"
+              },
+              {
+                "title": "HPV subtypes 5 and 16"
+              },
+              {
+                "title": "Smoking (doubles risk)"
+              },
+              {
+                "title": "Immunosuppression (renal transplant recipients)"
+              },
+              {
+                "title": "Chronic inflammation"
+              }
+            ]
+          },
+          {
+            "title": "Premalignant / Precursor Lesions",
+            "children": [
+              {
+                "title": "Actinic (Solar) Keratosis",
+                "detail": "Sun-damaged dyskeratotic scaly plaques; up to 20% progress to SCC."
+              },
+              {
+                "title": "Cutaneous Horn",
+                "detail": "Hyperkeratotic projection where height > base diameter (10% harbour underlying SCC at the base)."
+              },
+              {
+                "title": "Keratoacanthoma",
+                "detail": "Rapidly growing dome-shaped nodule with a central keratin plug; now classified as a well-differentiated, self-healing variant of SCC (excision recommended)."
+              },
+              {
+                "title": "Bowen's Disease (SCC in situ)",
+                "detail": "Slowly enlarging erythematous, crusted plaque (full-thickness epidermal atypia). On the glans penis, it is termed Erythroplasia of Queyrat. Treated with topical 5-FU, Imiquimod, or 4 mm surgical excision."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Pathology",
+        "children": [
+          {
+            "title": "Macroscopic",
+            "detail": "Verrucous, papillomatous, or ulcerated lesion with a characteristic heaped-up, everted edge and indurated base."
+          },
+          {
+            "title": "Microscopic",
+            "children": [
+              {
+                "title": "Irregular masses of atypical squamous cells invading the dermis with keratin pearls (epithelial nests)"
+              },
+              {
+                "title": "Graded by Broders' Histological Grading based on the proportion of undifferentiated cells",
+                "children": [
+                  {
+                    "title": "Grade I: <25%"
+                  },
+                  {
+                    "title": "Grade II: 25-50%"
+                  },
+                  {
+                    "title": "Grade III: 50-75%"
+                  },
+                  {
+                    "title": "Grade IV: >75% undifferentiated"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Prognostic Factors (High-Risk SCC)",
+        "children": [
+          {
+            "title": "Depth >2 mm (>6 mm has 15% metastasis rate)"
+          },
+          {
+            "title": "Surface diameter >2 cm"
+          },
+          {
+            "title": "High Broders' grade"
+          },
+          {
+            "title": "Perineural or lymphovascular invasion"
+          },
+          {
+            "title": "Anatomical site (lips, ears, extremities)"
+          },
+          {
+            "title": "Immunosuppression"
+          },
+          {
+            "title": "Marjolin's ulcers"
+          },
+          {
+            "title": "Overall metastasis rate is 2% (low-risk) to 30% (high-risk)"
+          }
+        ]
+      },
+      {
+        "title": "Management",
+        "children": [
+          {
+            "title": "Primary Tumour",
+            "children": [
+              {
+                "title": "Surgical excision under loupe magnification"
+              },
+              {
+                "title": "Tumour <2 cm: 4 mm clearance margin"
+              },
+              {
+                "title": "Tumour >2 cm (or high-risk): 1 cm clearance margin (or Mohs micrographic surgery)"
+              }
+            ]
+          },
+          {
+            "title": "Regional Nodes",
+            "detail": "Ultrasound/FNAC of palpable nodes; therapeutic lymph node dissection (with adjuvant radiotherapy if multiple nodes or extracapsular spread)."
+          }
+        ]
+      },
+      {
+        "title": "Marjolin's Ulcer (Short Note)",
+        "children": [
+          {
+            "title": "Definition",
+            "detail": "A well-differentiated but locally aggressive squamous cell carcinoma arising in a chronic unstable scar, burn wound, chronic venous ulcer, or osteomyelitis sinus tract."
+          },
+          {
+            "title": "Unique Features",
+            "children": [
+              {
+                "title": "Painless",
+                "detail": "Devoid of nerve fibrils due to surrounding dense scar fibrosis."
+              },
+              {
+                "title": "Slow-growing & Initially Lymph-node negative",
+                "detail": "Scar fibrosis obliterates local lymphatic channels; however, once it breaches the scar bed into normal tissue, it metastasises rapidly with a poor prognosis."
+              },
+              {
+                "title": "Clinical Suspicion",
+                "detail": "Foul-smelling discharge, raised everted edge, or fungating growth appearing in a longstanding scar/ulcer."
+              }
+            ]
+          },
+          {
+            "title": "Management",
+            "children": [
+              {
+                "title": "Wedge biopsy from the edge to confirm diagnosis"
+              },
+              {
+                "title": "Wide local excision with a 1-2 cm margin + skin grafting/flap cover (or amputation if underlying bone is invaded)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t04",
+    "title": "Q1.4: Classification of Ulcers",
+    "children": [
+      {
+        "title": "Covers",
+        "children": [
+          {
+            "title": "KU 19"
+          }
+        ]
+      },
+      {
+        "title": "Definition",
+        "children": [
+          {
+            "title": "A discontinuity of an epithelial surface characterised by progressive destruction of surface epithelium and a granulating base"
+          }
+        ]
+      },
+      {
+        "title": "1. Clinical Classification (Based on Progression)",
+        "children": [
+          {
+            "title": "Spreading Ulcer",
+            "children": [
+              {
+                "title": "Surrounding skin is inflamed and oedematous"
+              },
+              {
+                "title": "Floor is covered with profuse offensive slough without healthy granulation tissue"
+              },
+              {
+                "title": "Draining lymph nodes are enlarged and tender"
+              }
+            ]
+          },
+          {
+            "title": "Healing Ulcer",
+            "children": [
+              {
+                "title": "Surrounding inflammation has subsided"
+              },
+              {
+                "title": "Floor has healthy pink/red granular tissue with serous discharge"
+              },
+              {
+                "title": "Edge shows three classic zones",
+                "children": [
+                  {
+                    "title": "Inner red zone of vascular granulation"
+                  },
+                  {
+                    "title": "Middle bluish zone of growing epithelium"
+                  },
+                  {
+                    "title": "Outer white zone of hyperkeratosis"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Callous (Chronic / Stationary) Ulcer",
+            "children": [
+              {
+                "title": "Floor contains pale, avascular granulation tissue"
+              },
+              {
+                "title": "Base and edge are heavily indurated and fibrosed"
+              },
+              {
+                "title": "Shows no tendency towards healing (e.g., chronic venous ulcer)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Etiological Classification (Bailey & Love)",
+        "children": [
+          {
+            "title": "Non-Specific Ulcers",
+            "children": [
+              {
+                "title": "Traumatic",
+                "detail": "Mechanical (dental ulcer of tongue), physical (electrical/radiation), or chemical."
+              },
+              {
+                "title": "Venous",
+                "detail": "Gravitational ulcer in the gaiter area."
+              },
+              {
+                "title": "Arterial (Ischaemic)",
+                "detail": "Atherosclerosis, Buerger's disease."
+              },
+              {
+                "title": "Neuropathic (Trophic / Perforating)",
+                "detail": "Diabetic neuropathy, tabes dorsalis, leprosy, spina bifida."
+              },
+              {
+                "title": "Metabolic & Tropical",
+                "detail": "Diabetes mellitus, tropical phagedenic ulcer, pyoderma gangrenosum, cryoglobulinaemia."
+              }
+            ]
+          },
+          {
+            "title": "Specific Infective Ulcers",
+            "detail": "Tuberculosis, syphilis (hard chancre, gummatous ulcer), actinomycosis, Meleney's ulcer."
+          },
+          {
+            "title": "Malignant Ulcers",
+            "detail": "Squamous cell carcinoma, Basal cell carcinoma (Rodent ulcer), Malignant melanoma, Marjolin's ulcer."
+          }
+        ]
+      },
+      {
+        "title": "3. Morphological Classification Based on Edges",
+        "children": [
+          {
+            "title": "Sloping (Shelving) Edge",
+            "detail": "Healing non-specific or venous ulcers."
+          },
+          {
+            "title": "Punched-Out Edge",
+            "detail": "Deep vertical edge seen in tertiary syphilitic gumma, trophic/neuropathic ulcers, and ischaemic ulcers."
+          },
+          {
+            "title": "Undermined Edge",
+            "detail": "Tuberculous ulcer (infection spreads faster in subcutaneous fat than in overlying skin) and Pyoderma gangrenosum (purple undermined edge)."
+          },
+          {
+            "title": "Rolled (Beaded) Edge",
+            "detail": "Basal cell carcinoma (Rodent ulcer)."
+          },
+          {
+            "title": "Everted (Heaped-Up) Edge",
+            "detail": "Squamous cell carcinoma / adenocarcinoma (rapidly proliferating malignant cells spill over normal skin)."
+          }
+        ]
+      },
+      {
+        "title": "4. Wagner's Classification (Diabetic Foot Ulcers)",
+        "children": [
+          {
+            "title": "Grade 0: Pre-ulcerative lesion / high-risk foot with bony deformity"
+          },
+          {
+            "title": "Grade 1: Superficial ulcer involving full skin thickness only"
+          },
+          {
+            "title": "Grade 2: Deep ulcer penetrating to ligaments, tendons, or joint capsule (no abscess/osteomyelitis)"
+          },
+          {
+            "title": "Grade 3: Deep ulcer with abscess, osteomyelitis, or joint sepsis"
+          },
+          {
+            "title": "Grade 4: Localised gangrene of forefoot or heel"
+          },
+          {
+            "title": "Grade 5: Extensive gangrene of the entire foot"
+          }
+        ]
+      }
+    ]
+  }
+]

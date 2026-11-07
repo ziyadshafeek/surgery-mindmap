@@ -1,0 +1,572 @@
+[
+  {
+    "id": "surgery-t05",
+    "title": "Q1.5: High-Yield Short Answers in Skin & Subcutaneous Tissue",
+    "children": [
+      {
+        "title": "1. Epidermal Cyst (Sebaceous Cyst) [KU 22, 21, 20, 18, 15]",
+        "children": [
+          {
+            "title": "Pathology",
+            "children": [
+              {"title": "Retention cyst lined by true stratified squamous epithelium derived from the hair follicle infundibulum (or traumatic implantation)"},
+              {"title": "Contains cheesy, foul-smelling keratinaceous material (not sebum)"},
+              {
+                "title": "Trichilemmal (pilar) cysts",
+                "children": [
+                  {"title": "90% on scalp, 70% multiple"},
+                  {"title": "Lack a punctum"},
+                  {"title": "Derive from the external root sheath"}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Clinical Features",
+            "children": [
+              {"title": "Smooth, firm, spherical swelling fixed to the skin"},
+              {"title": "Characteristic central bluish/black punctum (blocked duct opening)"},
+              {"title": "Freely mobile over deeper planes"},
+              {"title": "Occurs anywhere except palms and soles"},
+              {"title": "Common on scalp, face, scrotum"}
+            ]
+          },
+          {
+            "title": "Complications",
+            "children": [
+              {"title": "Infection / abscess formation"},
+              {"title": "Ulceration", "detail": "Cock's peculiar tumour — granulating infected scalp cyst mimicking SCC."},
+              {"title": "Sebaceous horn"},
+              {"title": "Calcification"},
+              {"title": "Associated with Gardner's syndrome (FAP)"}
+            ]
+          },
+          {
+            "title": "Treatment",
+            "children": [
+              {"title": "Complete surgical excision of the cyst along with its entire capsule/wall and an elliptical wedge of skin containing the punctum"},
+              {"title": "If infected / abscessed", "detail": "Initial incision and drainage (or avulsion) followed by formal excision once inflammation subsides."}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Carbuncle [KU 24, 18]",
+        "children": [
+          {"title": "Definition", "detail": "An infective gangrene of the skin and subcutaneous tissue caused by Staphylococcus aureus, consisting of multiple communicating furuncles (boils) draining through multiple sieve-like openings on the skin."},
+          {
+            "title": "Clinical Features",
+            "children": [
+              {"title": "Predominantly affects middle-aged/elderly diabetics or immunocompromised patients"},
+              {"title": "Commonest site is the nape of the neck and back (hairy, thick skin with poor vascularity)"},
+              {"title": "Starts as a painful, indurated, dusky-red swelling"},
+              {"title": "Softens centrally into a honeycombed slough (\"cribriform appearance\") discharging pus"},
+              {"title": "Heals leaving a deep crateriform ulcer"}
+            ]
+          },
+          {
+            "title": "Treatment",
+            "children": [
+              {"title": "Control diabetes mellitus"},
+              {"title": "Parenteral anti-staphylococcal antibiotics (Flucloxacillin / Co-amoxiclav)"},
+              {"title": "Surgical cruciate incision and debridement of all necrotic slough and loculi"},
+              {"title": "Followed by daily packing and secondary healing or split-skin grafting"}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Keloid vs Hypertrophic Scar [KU 24, 21, RGU] (Table surgery-tbl-001)",
+        "children": [
+          {
+            "title": "Definition / Growth",
+            "children": [
+              {"title": "Hypertrophic Scar", "detail": "Raised scar that remains strictly within the confines of the original wound."},
+              {"title": "Keloid Scar", "detail": "Claw-like proliferation of immature collagen that extends beyond the original wound margins into normal skin."}
+            ]
+          },
+          {
+            "title": "Genetics & Race",
+            "children": [
+              {"title": "Hypertrophic Scar", "detail": "Non-familial; no racial predisposition."},
+              {"title": "Keloid Scar", "detail": "Genetic predisposition; commoner in darker skin types (African/Asian)."}
+            ]
+          },
+          {
+            "title": "Onset & Natural History",
+            "children": [
+              {"title": "Hypertrophic Scar", "detail": "Appears within weeks of injury; improves/regresses spontaneously over 6–12 months."},
+              {"title": "Keloid Scar", "detail": "May appear months after trivial trauma; continues to grow progressively and rarely regresses."}
+            ]
+          },
+          {
+            "title": "Predilection Sites",
+            "children": [
+              {"title": "Hypertrophic Scar", "detail": "Across flexor surfaces and lines of skin tension."},
+              {"title": "Keloid Scar", "detail": "Presternal region, deltoid, earlobe, face, and neck."}
+            ]
+          },
+          {
+            "title": "Response to Treatment",
+            "children": [
+              {"title": "Hypertrophic Scar", "detail": "Responds well to silicone gel sheeting, compression garments, and intralesional steroids."},
+              {"title": "Keloid Scar", "detail": "High recurrence rate (>50%) after simple excision; treated with intralesional Triamcinolone acetonide, compression, or intralesional excision + adjuvant low-dose radiotherapy."}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Types of Haemangioma & Vascular Malformations [KU 17]",
+        "children": [
+          {
+            "title": "Classification (Mulliken & Glowacki)",
+            "children": [
+              {"title": "Vascular Tumours (Haemangiomas)", "detail": "Endothelial hyperplasia."},
+              {"title": "Vascular Malformations", "detail": "Normal endothelial turnover; structural errors."}
+            ]
+          },
+          {
+            "title": "Haemangiomas",
+            "children": [
+              {"title": "Present at or shortly after birth; female:male = 3:1"},
+              {"title": "Rapid proliferation in the first year followed by slow involution (\"70% resolve by age 7\")"},
+              {"title": "Capillary Haemangioma (Strawberry Naevus)", "detail": "Bright red, raised, compressible lesion on head/neck."},
+              {
+                "title": "Cavernous / Compound Haemangioma",
+                "children": [
+                  {"title": "Deeper bluish-red spongy swelling"},
+                  {"title": "Large lesions can trap platelets causing consumptive thrombocytopenia (Kasabach–Merritt Syndrome)"}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Vascular Malformations",
+            "children": [
+              {"title": "Present at birth; grow proportionately with the child; never involute"},
+              {
+                "title": "Capillary Malformation",
+                "children": [
+                  {"title": "Salmon patch (nape of neck; fades by 1 year)"},
+                  {"title": "Port-Wine Stain", "detail": "Purple macule in V1/V2 trigeminal dermatomes; associated with Sturge–Weber syndrome; treated with Pulsed-Dye Laser."}
+                ]
+              },
+              {"title": "Venous Malformations"},
+              {"title": "Arteriovenous Malformations (High-flow vs Low-flow)"},
+              {"title": "Lymphatic Malformations (Cystic hygroma)"}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t06",
+    "title": "Q2.1: Pathophysiology, Assessment, Classification & Management of Major Thermal Burns",
+    "children": [
+      {
+        "title": "Covers KU 25, 24, 22, 21, 20, 17, 16, 15 — Long Essays, Short Essays & Short Answers",
+        "children": []
+      },
+      {
+        "title": "1. Pathophysiology of Burn Injury",
+        "children": [
+          {
+            "title": "Local Response (Jackson's Three Concentric Zones)",
+            "children": [
+              {"title": "Zone of Coagulation", "detail": "Central area of irreversible coagulative necrosis at the point of maximum heat transfer."},
+              {"title": "Zone of Stasis", "detail": "Surrounding area of decreased tissue perfusion; potentially salvageable with prompt cooling and fluid resuscitation, otherwise progresses to necrosis."},
+              {"title": "Zone of Hyperaemia", "detail": "Outer zone of vasodilation due to inflammatory mediators; recovers fully."}
+            ]
+          },
+          {
+            "title": "Systemic Inflammatory & Circulatory Shock Response (Summary Box 46.6)",
+            "children": [
+              {"title": "Thermal protein alteration and pain fibres trigger complement activation, neuropeptide release, and Hageman factor (Factor XII) activation (driving arachidonic acid, thrombin, and kallikrein cascades)"},
+              {"title": "Massive systemic capillary permeability occurs in burns >15% TBSA in adults (>10% in children)"},
+              {"title": "Shift of water, electrolytes, and plasma proteins into the interstitial space → hypovolaemic burn shock and generalized oedema"}
+            ]
+          },
+          {
+            "title": "Respiratory / Inhalational Injury (Summary Box 46.4 & 46.5)",
+            "children": [
+              {
+                "title": "Warning Signs",
+                "children": [
+                  {"title": "History of fire in an enclosed space"},
+                  {"title": "Burns to face/neck"},
+                  {"title": "Singed nasal vibrissae"},
+                  {"title": "Carbonaceous sputum"},
+                  {"title": "Hoarseness of voice"},
+                  {"title": "Stridor"}
+                ]
+              },
+              {
+                "title": "Three Components",
+                "children": [
+                  {"title": "Supraglottic Upper Airway Thermal Injury", "detail": "Inhaled hot gases cause progressive laryngeal oedema within 4–24 hours → life-threatening airway obstruction."},
+                  {"title": "Subglottic Lower Airway Injury (Chemical Pneumonitis)", "detail": "Inhaled smoke particles and steam cause sloughing of respiratory epithelium, fibrin casts, and ARDS (peaks at 24 hours to 5 days)."},
+                  {
+                    "title": "Metabolic Poisoning",
+                    "children": [
+                      {"title": "Carbon monoxide (CO) binds haemoglobin with 250 times the affinity of oxygen (forming carboxyhaemoglobin) and inhibits cytochrome oxidase"},
+                      {"title": "Hydrogen cyanide (from burning plastics/polymers) binds ferric iron (Fe³⁺) in mitochondrial cytochrome a_3"}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Gastrointestinal, Immune & Metabolic Effects",
+            "children": [
+              {"title": "Splanchnic vasoconstriction → mucosal ischaemia (Curling's ulcer), ileus, bacterial translocation, and abdominal compartment syndrome"},
+              {"title": "Suppression of cell-mediated immunity and hypermetabolic catabolic drive"}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Assessment of Area (TBSA) & Classification of Burn Depth",
+        "children": [
+          {
+            "title": "Assessment of Percentage Total Body Surface Area (% TBSA)",
+            "children": [
+              {"title": "Note: Simple erythema is excluded"},
+              {"title": "Palmar Surface Method", "detail": "Patient's palm and fingers (distal wrist crease to fingertips) = ~1% TBSA (useful for small/patchy burns <10%)."},
+              {
+                "title": "Wallace's Rule of Nines (Adults)",
+                "children": [
+                  {"title": "Head & Neck: 9%"},
+                  {"title": "Each Upper Limb: 9% (× 2 = 18%)"},
+                  {"title": "Anterior Torso (Chest 9% + Abdomen 9%): 18%"},
+                  {"title": "Posterior Torso & Buttocks: 18%"},
+                  {"title": "Each Lower Limb: 18% (× 2 = 36%)"},
+                  {"title": "Perineum / Genitalia: 1%"}
+                ]
+              },
+              {"title": "Clinical Scenario Calculation [KU 24 / TU]", "detail": "Head & neck [9%] + Both upper limbs [18%] + Front & back of chest [9% + 9% = 18%] = 45% TBSA; if abdomen [9%] is also included = 54% TBSA."},
+              {"title": "Modified Lund and Browder Chart", "detail": "Most accurate method, mandatory in children (at birth: head is 18% and each lower limb is 13.5%; for each year up to age 10, subtract 1% from the head and add 0.5% to each leg)."}
+            ]
+          },
+          {
+            "title": "Classification by Depth of Burn (Table surgery-tbl-002)",
+            "children": [
+              {
+                "title": "Epidermal (First Degree)",
+                "children": [
+                  {"title": "Histological Level", "detail": "Epidermis only."},
+                  {"title": "Clinical Appearance, Blanching & Sensation", "detail": "Erythematous, dry, no blisters; brisk capillary refill; painful."},
+                  {"title": "Healing Time & Scarring", "detail": "Heals in 5–7 days without scarring."}
+                ]
+              },
+              {
+                "title": "Superficial Partial-Thickness (Group A)",
+                "children": [
+                  {"title": "Histological Level", "detail": "Up to Papillary Dermis."},
+                  {"title": "Clinical Appearance, Blanching & Sensation", "detail": "Thin-walled blisters; underlying dermis is pink, moist, and weeping; blanches briskly on pressure; hyperaesthetic (very painful to pinprick)."},
+                  {"title": "Healing Time & Scarring", "detail": "Heals spontaneously within 14 days via adnexal structures without scarring."}
+                ]
+              },
+              {
+                "title": "Deep Partial-Thickness (Group B)",
+                "children": [
+                  {"title": "Histological Level", "detail": "Reticular Dermis."},
+                  {"title": "Clinical Appearance, Blanching & Sensation", "detail": "Dry/pale or mottled cherry-red dermis (fixed capillary staining); does not blanch; reduced sensation (cannot distinguish sharp from blunt pinprick)."},
+                  {"title": "Healing Time & Scarring", "detail": "Takes >3 weeks to heal; leads to severe hypertrophic scarring; requires tangential excision & grafting."}
+                ]
+              },
+              {
+                "title": "Full-Thickness (Third Degree - Group B)",
+                "children": [
+                  {"title": "Histological Level", "detail": "Entire dermis destroyed (into subcutis)."},
+                  {"title": "Clinical Appearance, Blanching & Sensation", "detail": "Hard, dry, waxy-white, leathery or charred black eschar; visible thrombosed subcutaneous veins; no blanching; completely anaesthetic to pinprick."},
+                  {"title": "Healing Time & Scarring", "detail": "Cannot heal spontaneously except from margins; requires excision & split-skin grafting."}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Management of a Major Burn Patient (e.g., 60% TBSA Burn)",
+        "children": [
+          {
+            "title": "A. Prehospital Care",
+            "children": [
+              {"title": "Ensure rescuer safety"},
+              {"title": "Stop the burning process (\"Stop, Drop, and Roll\")"},
+              {"title": "Cool the burn with running tepid tap water (15°C for 20 minutes, effective up to 1 hour post-burn; avoid ice/hypothermia)"},
+              {"title": "Administer high-flow oxygen"},
+              {"title": "Cover with clean cling-film"},
+              {"title": "Elevate limbs"}
+            ]
+          },
+          {
+            "title": "B. Primary Survey (ATLS ABCDEF Protocol)",
+            "children": [
+              {"title": "A – Airway with Cervical Spine Control", "detail": "Inspect for signs of inhalational injury. Early elective endotracheal intubation is mandatory for suspected airway burns before laryngeal oedema obliterates the airway (within 4–24 hours)."},
+              {
+                "title": "B – Breathing & Ventilation",
+                "children": [
+                  {"title": "100% high-flow humidified oxygen (reduces half-life of carboxyhaemoglobin from 4 hours to 40 minutes)"},
+                  {"title": "If cyanide toxicity is suspected, give intravenous Hydroxocobalamin (Vitamin B12)"},
+                  {"title": "Nebulised heparin, N-acetylcysteine (mucolytic), and salbutamol (albuterol) for smoke inhalation"},
+                  {"title": "Chest Escharotomy if circumferential full-thickness torso eschar restricts chest excursion"}
+                ]
+              },
+              {"title": "C – Circulation", "detail": "Insert two wide-bore (14G/16G) IV cannulae (through unburned skin if possible), send baseline bloods (FBC, U&E, clotting, lactate, ABG, COHb, group & crossmatch), and insert a Foley urinary catheter to monitor hourly urine output."},
+              {"title": "D – Disability", "detail": "Assess GCS (rule out hypoxia, CO poisoning, or head trauma)."},
+              {"title": "E – Exposure & Environmental Control", "detail": "Remove all jewellery/clothing, assess TBSA, and prevent hypothermia (warmed IV fluids, Bair Hugger, warm room >28°C)."},
+              {
+                "title": "F – Fluid Resuscitation (Indicated for >15% TBSA in adults; >10% TBSA in children)",
+                "children": [
+                  {"title": "Modified Parkland Formula (Crystalloid)", "detail": "Total Fluid in first 24 hours = 4 mL × Body Weight (kg) × % TBSA Burned (Using Ringer's Lactate / Hartmann's solution)."},
+                  {"title": "Rate of Administration", "detail": "Give 50% in the first 8 hours (calculated from the time of the burn injury, not arrival) and the remaining 50% over the next 16 hours."},
+                  {"title": "Example Calculation (60% burn in a 60 kg patient)", "detail": "4 × 60 × 60 = 14,400 mL (7,200 mL in first 8 hours; 7,200 mL over next 16 hours)."},
+                  {"title": "Children", "detail": "Add maintenance dextrose-saline (100 mL/kg for first 10 kg + 50 mL/kg for next 10 kg + 20 mL/kg for each kg >20 kg)."},
+                  {"title": "Muir and Barclay Formula (Colloid alternative after 12h)", "detail": "(0.5 × Weight (kg) × % TBSA/1) = 1 ration of Human Albumin Solution given in 6 rations over 36 hours (three 4-hourly, two 6-hourly, one 12-hourly)."},
+                  {"title": "Monitoring Resuscitation", "detail": "Formulae are only a starting guide; titrate fluids dynamically to maintain Urine Output of 0.5–1.0 mL/kg/hour in adults (1–2 mL/kg/hour in children)."}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "C. Supportive Systemic Care",
+            "children": [
+              {"title": "Analgesia", "detail": "Titrated intravenous morphine (avoid IM route due to unpredictable absorption in shock)."},
+              {"title": "Nutrition", "detail": "For burns ≥ 20% TBSA, insert a nasogastric or nasojejunal tube and start enteral feeding within 6 hours to prevent gut mucosal atrophy and bacterial translocation."},
+              {"title": "Ulcer & DVT Prophylaxis", "detail": "Proton pump inhibitors (for Curling's ulcer), LMWH, and tetanus prophylaxis."}
+            ]
+          },
+          {
+            "title": "D. Wound & Surgical Management",
+            "children": [
+              {
+                "title": "1. Emergency Escharotomy",
+                "children": [
+                  {"title": "Indication", "detail": "Circumferential full-thickness burns of the limbs (causing tourniquet-like ischaemia) or chest wall (causing mechanical respiratory restriction)."},
+                  {
+                    "title": "Technique",
+                    "children": [
+                      {"title": "Incise full thickness of burned eschar into subcutaneous fat using cutting diathermy"},
+                      {"title": "Chest", "detail": "Longitudinal incisions along anterior axillary lines joined by transverse incisions below the clavicles and across the costal margin/xiphisternum."},
+                      {"title": "Upper Limb", "detail": "Mid-axial incisions (passing anterior to the medial epicondyle at the elbow to protect the ulnar nerve)."},
+                      {"title": "Lower Limb", "detail": "Mid-axial incisions (passing posterior to the medial malleolus to spare the long saphenous vein, and anterior to the fibular head to spare the common peroneal nerve)."}
+                    ]
+                  }
+                ]
+              },
+              {"title": "2. Group A (Superficial Partial-Thickness) Wound Care", "detail": "Cleanse, debride ruptured blisters, and apply biological/biosynthetic dressings (Biobrane), hydrocolloids (Duoderm), silicone sheets (Mepitel), or nanocrystalline silver dressings (Acticoat)."},
+              {
+                "title": "3. Group B (Deep Partial-Thickness & Full-Thickness) Excision & Grafting",
+                "children": [
+                  {"title": "Early Tangential Excision (Watson's knife / Humby knife)", "detail": "Shave necrotic burn layers sequentially until brisk punctate dermal/fat bleeding is reached (exploiting the anaesthetic, haemodynamic, and bacterial windows within 48–72 hours). Blood loss is minimised using tourniquets and subcutaneous tumescence with 1:500,000 adrenaline."},
+                  {
+                    "title": "Topical Antimicrobials (whilst awaiting staged surgery)",
+                    "children": [
+                      {"title": "1% Silver sulphadiazine (Flamazine)"},
+                      {"title": "Silver sulphadiazine + Cerium nitrate", "detail": "Forms a sterile leathery eschar and boosts cell-mediated immunity."},
+                      {"title": "5% Mafenide acetate", "detail": "Penetrates eschar/cartilage well; side effect: carbonic anhydrase inhibition causing metabolic acidosis."},
+                      {"title": "Acticoat"}
+                    ]
+                  },
+                  {
+                    "title": "Wound Closure",
+                    "children": [
+                      {"title": "Autologous Split-Thickness Skin Grafts (STSG)", "detail": "Sheet grafts for face/hands/neck; meshed 1:1.5 to 1:6 or Meek micrografting for extensive burns."},
+                      {"title": "If TBSA >50% and donor sites are insufficient", "detail": "Use temporary cadaveric allografts or dermal matrices (Integra or Biodegradable Temporising Matrix [BTM])."}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "E. Rehabilitation & Post-Burn Sequelae",
+            "children": [
+              {"title": "Physiotherapy & Splinting", "detail": "Start from Day 1; splint hands in the position of safe immobilisation (intrinsic-plus), neck in extension, and axillae in 90° abduction."},
+              {"title": "Hypertrophic Scar Management", "detail": "Custom-fitted pressure garments (worn 23 hours/day for 6–18 months), topical silicone gel sheets, intralesional steroid injections, and antipruritics."},
+              {"title": "Surgical Release of Contractures", "detail": "Z-plasty or multiple Y-to-V advancement flaps for linear scar bands; incision + full-thickness skin graft (FTSG), dermal substitutes, tissue expansion (especially for post-burn scalp alopecia), or free flaps for broad contractures. Urgent eyelid release + grafting if ectropion threatens exposure keratitis."}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t07",
+    "title": "Q2.2: Electrical and Chemical Burns",
+    "children": [
+      {
+        "title": "Covers KU 23, 21, 18, RGU",
+        "children": []
+      },
+      {
+        "title": "1. Electrical Burns",
+        "children": [
+          {"title": "Classified into Low-Voltage (<1000 V) and High-Voltage (>1000 V) injuries"},
+          {
+            "title": "Low-Tension (Domestic) Injuries",
+            "children": [
+              {"title": "Alternating current causes muscle tetany (\"let-go phenomenon\"), locking the victim's hand onto the source and causing deep local contact burns in the fingers with underlying nerve/tendon damage"},
+              {"title": "Systemic Danger", "detail": "Disrupts normal cardiac pacing → ventricular fibrillation / cardiac arrest without direct myocardial necrosis."}
+            ]
+          },
+          {
+            "title": "High-Tension Injuries (>1000 V)",
+            "children": [
+              {
+                "title": "Three Mechanisms of Injury",
+                "children": [
+                  {"title": "Flash (arcing superheated air)"},
+                  {"title": "Flame (ignition of clothing)"},
+                  {"title": "Direct Current Conduction (victim acts as a conductor to earth)"}
+                ]
+              },
+              {"title": "Pathophysiology (\"Iceberg Effect\")", "detail": "Small, charred entry and exit wounds mask massive deep myonecrosis along neurovascular bundles and bone (bone has the highest electrical resistance and generates intense heat, cooking surrounding deep muscle bellies)."}
+            ]
+          },
+          {
+            "title": "Complications",
+            "children": [
+              {"title": "Acute Compartment Syndrome", "detail": "Rapid muscle swelling within intact fascia."},
+              {"title": "Rhabdomyolysis & Myoglobinuria", "detail": "Massive release of myoglobin causes dark \"port-wine\" urine and acute tubular necrosis / renal failure."},
+              {"title": "Direct Myocardial Damage & Arrhythmias"},
+              {"title": "Severe Metabolic Acidosis and associated fractures/spinal injuries from blast propulsion"}
+            ]
+          },
+          {
+            "title": "Management of High-Voltage Burns",
+            "children": [
+              {"title": "Aggressive Fluid Resuscitation", "detail": "Maintain a higher target urine output of 1.5–2.0 mL/kg/hour (using Hartmann's solution + sodium bicarbonate to alkalinise urine and mannitol to flush myoglobin casts)."},
+              {"title": "Continuous ECG Monitoring for 24–48 hours"},
+              {"title": "Urgent Decompressive Fasciotomy (not just escharotomy) of affected limb compartments, serial surgical debridement of necrotic muscle, or primary amputation if the limb is unsalvageable"}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Chemical (Acid & Alkali) Burns",
+        "children": [
+          {"title": "Pathophysiology", "detail": "Damage occurs via local tissue corrosion/protein denaturation and systemic toxicity from absorption."},
+          {"title": "Acids", "detail": "Cause coagulative necrosis, forming a coagulum/eschar that limits deeper penetration."},
+          {"title": "Alkalis (Cement, Lime, Bleach, Drain cleaners)", "detail": "Cause liquefactive necrosis and saponification of fats, allowing deeper, progressive tissue destruction (far more dangerous, especially in ocular injuries)."},
+          {
+            "title": "Management",
+            "children": [
+              {"title": "Brush off any dry solid chemical powders first (e.g., elemental sodium, white phosphorus)"},
+              {"title": "Immediate, Copious Water Lavage for 30–60 minutes", "detail": "Dilutes and washes away the agent; do not attempt to neutralise with an opposite chemical as the exothermic reaction worsens thermal injury."}
+            ]
+          },
+          {
+            "title": "Hydrofluoric (HF) Acid Burns (Special Case)",
+            "children": [
+              {"title": "HF chelates tissue calcium and magnesium, causing excruciating pain, deep necrosis, and potentially fatal systemic hypocalcaemia and cardiac arrhythmias"},
+              {"title": "Treated with topical 10% Calcium Gluconate gel, local infiltration, or intra-arterial / intravenous Bier's block with Calcium Gluconate (and urgent excision if concentration >50%)"}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t08",
+    "title": "Q3.1: Skin Grafts (Types, Split-Skin Graft / Thiersch Graft, Full-Thickness / Wolfe Graft)",
+    "children": [
+      {
+        "title": "Covers KU 24, 23, 19, 15, RGU, TU",
+        "children": []
+      },
+      {"title": "Definition", "detail": "A Graft is a piece of tissue completely detached from its blood supply at the donor site and transferred to a recipient bed, from which it must acquire a new blood supply to survive."},
+      {
+        "title": "Mechanism of Skin Graft \"Take\" (Three Phases)",
+        "children": [
+          {"title": "Plasmatic Imbibition (0–48 hours)", "detail": "The graft absorbs nutrients and oxygen via passive diffusion from the plasma exudate of the recipient bed, held by a fibrin layer."},
+          {"title": "Inosculation (48–72 hours)", "detail": "Capillary buds from the recipient bed align and connect with existing cut vessels on the undersurface of the graft."},
+          {"title": "Neovascularisation / Revascularisation (Day 4–7)", "detail": "New blood vessels actively grow into the graft, establishing definitive circulation."}
+        ]
+      },
+      {
+        "title": "Causes of Graft Failure",
+        "children": [
+          {"title": "Haematoma or Seroma collection beneath the graft (prevents capillary contact during inosculation)"},
+          {"title": "Shearing forces (disrupts fragile new capillary buds)"},
+          {"title": "Infection: Specifically Group A β-haemolytic Streptococcus pyogenes", "detail": "Produces fibrinolysins/streptokinase that dissolve the fibrin attachment and destroy the entire graft."},
+          {
+            "title": "Avascular Recipient Bed",
+            "children": [
+              {"title": "Bare cortical bone (devoid of periosteum)"},
+              {"title": "Bare tendon (devoid of paratenon)"},
+              {"title": "Bare cartilage (devoid of perichondrium)"},
+              {"title": "Irradiated tissue"},
+              {"title": "Cannot support a skin graft and require a vascularised Flap"}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Comparison of Split-Thickness vs Full-Thickness Skin Grafts (Table surgery-tbl-003)",
+        "children": [
+          {
+            "title": "Anatomical Composition",
+            "children": [
+              {"title": "Split-Thickness Skin Graft (STSG / Thiersch Graft)", "detail": "Epidermis + a variable fraction of dermis (Thin: 0.15–0.3 mm; Intermediate; Thick: 0.45–0.6 mm)."},
+              {"title": "Full-Thickness Skin Graft (FTSG / Wolfe Graft)", "detail": "Entire Epidermis + Entire Dermis (stripped clean of all subcutaneous fat)."}
+            ]
+          },
+          {
+            "title": "Common Donor Sites",
+            "children": [
+              {"title": "Split-Thickness Skin Graft (STSG / Thiersch Graft)", "detail": "Thigh (anterolateral/medial), buttocks, back, abdominal wall."},
+              {"title": "Full-Thickness Skin Graft (FTSG / Wolfe Graft)", "detail": "Postauricular crease, supraclavicular fossa, upper eyelid, groin crease, flexor wrist crease."}
+            ]
+          },
+          {
+            "title": "Donor Site Healing",
+            "children": [
+              {"title": "Split-Thickness Skin Graft (STSG / Thiersch Graft)", "detail": "Heals spontaneously within 10–14 days by re-epithelialisation from residual dermal adnexa (pilosebaceous units/sweat glands)."},
+              {"title": "Full-Thickness Skin Graft (FTSG / Wolfe Graft)", "detail": "Must be closed primarily with sutures (limits the size of graft that can be harvested)."}
+            ]
+          },
+          {
+            "title": "Graft \"Take\" & Survival",
+            "children": [
+              {"title": "Split-Thickness Skin Graft (STSG / Thiersch Graft)", "detail": "Reliable and rapid take (thin tissue has lower metabolic demand); can be meshed (1:1.5 to 1:6) to cover large areas and allow fluid drainage."},
+              {"title": "Full-Thickness Skin Graft (FTSG / Wolfe Graft)", "detail": "Slower, more precarious take (thick dermis increases diffusion distance); requires an pristine, well-vascularised bed."}
+            ]
+          },
+          {
+            "title": "Contraction",
+            "children": [
+              {"title": "Split-Thickness Skin Graft (STSG / Thiersch Graft)", "detail": "High Primary Contraction (minimal elastin recoil) is low, but Secondary Contraction (myofibroblast-mediated scar contraction during healing) is high."},
+              {"title": "Full-Thickness Skin Graft (FTSG / Wolfe Graft)", "detail": "High primary contraction (40% recoil on harvest), but minimal secondary contraction on the recipient bed."}
+            ]
+          },
+          {
+            "title": "Aesthetics & Function",
+            "children": [
+              {"title": "Split-Thickness Skin Graft (STSG / Thiersch Graft)", "detail": "Poor colour/texture match, hairless, abnormal pigmentation, prone to contracture."},
+              {"title": "Full-Thickness Skin Graft (FTSG / Wolfe Graft)", "detail": "Excellent colour, texture, and elasticity match; retains hair follicles and sweat glands."}
+            ]
+          },
+          {
+            "title": "Indications",
+            "children": [
+              {"title": "Split-Thickness Skin Graft (STSG / Thiersch Graft)", "detail": "Resurfacing large defects, acute burns, granulating ulcers, and flap donor sites."},
+              {"title": "Full-Thickness Skin Graft (FTSG / Wolfe Graft)", "detail": "Face (nose, eyelids, lips), palmar surface of hand/digits (syndactyly release, burn contractures), and over mobile joints."}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Operative Technique of Split-Skin Grafting",
+        "children": [
+          {"title": "Harvested under local or general anaesthesia using a manual skin-grafting knife (Humby's knife, Watson's knife, or Silver's knife) or a powered Dermatome after lubricating the skin and blade with liquid paraffin"},
+          {"title": "The graft is fenestrated/meshed, laid shiny-side (dermis) down on the debrided recipient bed, secured with absorbable sutures/staples or fibrin glue, and immobilised with a bolster (tie-over dressing) or Negative-Pressure Wound Therapy (VAC) for 5 days"},
+          {"title": "The donor site is dressed with calcium alginate (Kaltostat) and left undisturbed for 10–14 days"}
+        ]
+      }
+    ]
+  }
+]

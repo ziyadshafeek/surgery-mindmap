@@ -1,0 +1,830 @@
+[
+  {
+    "id": "surgery-t33",
+    "title": "3. Vascular PYQs",
+    "children": [
+      {
+        "title": "Palomo's Operation (Varicocelectomy) [KU 23]",
+        "children": [
+          {
+            "title": "Definition",
+            "detail": "A retroperitoneal high ligation of the testicular (internal spermatic) vessels performed for symptomatic varicocele or male infertility."
+          },
+          {
+            "title": "Technique",
+            "children": [
+              {
+                "title": "Incision",
+                "detail": "A 3–4 cm transverse muscle-splitting incision made slightly above and medial to the anterior superior iliac spine (at the level of the deep inguinal ring)."
+              },
+              {
+                "title": "Exposure",
+                "detail": "The peritoneum is swept medially to expose the testicular veins (and testicular artery) on the psoas major muscle proximal to the internal ring, where the pampiniform plexus has coalesced into only 1 or 2 trunks."
+              },
+              {
+                "title": "Ligation en masse",
+                "detail": "Vessels are ligated and divided en masse; testicular viability is maintained via the artery to the vas deferens and cremasteric artery."
+              },
+              {
+                "title": "Current practice",
+                "detail": "Today, it is commonly performed laparoscopically, though subinguinal microsurgical varicocelectomy has lower hydrocele and recurrence rates."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Reverse 3 Sign (Frostberg's Inverted 3 Sign) [TU]",
+        "children": [
+          {
+            "title": "Definition",
+            "detail": "A classic radiological sign seen on Plain Chest X-ray (and Barium Swallow) in Coarctation of the Aorta."
+          },
+          {
+            "title": "Frontal chest radiograph — figure-of-“3” contour",
+            "children": [
+              {
+                "title": "Above",
+                "detail": "Pre-stenotic dilatation of the aortic arch and left subclavian artery."
+              },
+              {
+                "title": "Middle",
+                "detail": "Inward indentation of the coarctation waist."
+              },
+              {
+                "title": "Below",
+                "detail": "Post-stenotic dilatation of the descending aorta."
+              }
+            ]
+          },
+          {
+            "title": "Barium-filled oesophagus",
+            "children": [
+              {
+                "title": "Mirror-image “Reverse 3” (or “E”) sign",
+                "detail": "The aortic contour indents the oesophagus in the opposite direction, producing a mirror-image “Reverse 3” (or “E”) sign."
+              },
+              {
+                "title": "Associated sign — Roesler's sign",
+                "detail": "Inferior rib notching of ribs 3 to 9, caused by dilated tortuous posterior intercostal collaterals."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t34",
+    "title": "PART B: MASTER COMPENDIUM OF ALL TEXTBOOK CLASSIFICATIONS",
+    "children": [
+      {
+        "title": "Note",
+        "detail": "Memorise these verbatim for any “Classify…” question."
+      },
+      {
+        "title": "Classification of Skin Layers & Keratinocytes (Ch. 45)",
+        "children": [
+          {
+            "title": "Epidermis (5% of skin thickness)",
+            "children": [
+              {
+                "title": "Structure",
+                "detail": "Stratified squamous keratinised epithelium divided into 5 strata from deep to superficial."
+              },
+              {
+                "title": "(1) Stratum basalis",
+                "detail": "Contains basal keratinocytes, melanocytes, and Merkel cells."
+              },
+              {
+                "title": "(2) Stratum spinosum",
+                "detail": "Contains Langerhans cells."
+              },
+              {
+                "title": "(3) Stratum granulosum",
+                "detail": "Site of active mitosis/differentiation."
+              },
+              {
+                "title": "(4) Stratum lucidum",
+                "detail": "Thick in glabrous skin of palms/soles; absent in eyelids."
+              },
+              {
+                "title": "(5) Stratum corneum",
+                "detail": "Anucleate keratin."
+              }
+            ]
+          },
+          {
+            "title": "Dermis (95% of skin thickness)",
+            "children": [
+              {
+                "title": "(1) Superficial Papillary Dermis",
+                "detail": "Delicate collagen/elastin, dermal papillae, capillary/lymphatic plexuses, Meissner's corpuscles."
+              },
+              {
+                "title": "(2) Deep Reticular Dermis",
+                "detail": "Coarse parallel branching collagen, Pacinian corpuscles, and skin adnexa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Classification of Cutaneous & Soft-Tissue Infections (Ch. 45)",
+        "children": [
+          {
+            "title": "Two axes",
+            "detail": "Classified along two axes: Localised vs Spreading and Non-necrotising vs Necrotising."
+          },
+          {
+            "title": "Non-necrotising — respond to antibiotics alone",
+            "children": [
+              { "title": "Impetigo" },
+              { "title": "Folliculitis / Furuncle" },
+              { "title": "Erysipelas" },
+              { "title": "Cellulitis / Lymphangitis" }
+            ]
+          },
+          {
+            "title": "Localised Necrotising — require surgical drainage + antibiotics",
+            "children": [
+              { "title": "Carbuncle" },
+              { "title": "Hidradenitis suppurativa" },
+              { "title": "Infected sebaceous cyst / abscess" }
+            ]
+          },
+          {
+            "title": "Spreading Necrotising Soft-Tissue Infections (Surgical Emergencies)",
+            "children": [
+              {
+                "title": "Management",
+                "detail": "Require immediate resuscitation, IV broad-spectrum antibiotics, and radical surgical debridement."
+              },
+              { "title": "Necrotising Fasciitis" },
+              { "title": "Meleney's synergistic gangrene" },
+              { "title": "Fournier's gangrene" },
+              { "title": "Purpura fulminans" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Classification of Benign & Premalignant Skin Tumours (Ch. 45)",
+        "children": [
+          {
+            "title": "Epidermal",
+            "children": [
+              { "title": "Basal cell papilloma (Seborrhoeic keratosis / Verruca senilis)" },
+              { "title": "Papillary wart (Verruca vulgaris — HPV)" },
+              { "title": "Freckle (Ephelis)" },
+              { "title": "Solar Lentigo" }
+            ]
+          },
+          {
+            "title": "Melanocytic (Naevi)",
+            "children": [
+              { "title": "Junctional naevus" },
+              { "title": "Compound naevus" },
+              { "title": "Intradermal naevus" },
+              { "title": "Spitz naevus (“juvenile melanoma”)" },
+              { "title": "Spindle cell naevus" },
+              { "title": "Halo naevus" },
+              { "title": "Café-au-lait spot" },
+              { "title": "Naevus spilus" },
+              { "title": "Mongolian spot (sacral)" },
+              { "title": "Blue naevus" },
+              { "title": "Naevus of Ota (trigeminal V1/V2)" },
+              { "title": "Naevus of Ito (shoulder)" }
+            ]
+          },
+          {
+            "title": "Hair Follicle (Pilosebaceous) Tumours",
+            "children": [
+              { "title": "Trichoepithelioma" },
+              { "title": "Pilomatrixoma (Calcifying epithelioma of Malherbe)" },
+              { "title": "Trichilemmoma (Naevus sebaceous of Jadassohn — 10% lifetime risk of BCC)" },
+              { "title": "Adenoma sebaceum (Tuberous sclerosis / Bourneville disease)" },
+              { "title": "Rhinophyma (end-stage acne rosacea; 3% harbour occult BCC)" }
+            ]
+          },
+          {
+            "title": "Sweat Gland Tumours",
+            "children": [
+              { "title": "Cystadenoma (Hidradenoma)" },
+              { "title": "Eccrine poroma" },
+              { "title": "Cylindroma (“Turban tumour” of scalp)" }
+            ]
+          },
+          {
+            "title": "Premalignant Lesions",
+            "children": [
+              { "title": "Extramammary Paget's disease" },
+              { "title": "Giant Congenital Pigmented Naevus (GCPN — 3–5% lifetime melanoma risk)" },
+              { "title": "Atypical / Dysplastic naevus (FAMMM syndrome)" },
+              { "title": "Actinic keratosis" },
+              { "title": "Cutaneous horn" },
+              { "title": "Bowen's disease / Erythroplasia of Queyrat" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Classification of Congenital & Acquired Vascular Skin Lesions (Ch. 45)",
+        "children": [
+          {
+            "title": "Congenital",
+            "children": [
+              {
+                "title": "(1) Vascular Tumours (Haemangiomas)",
+                "children": [
+                  { "title": "Capillary haemangioma (Strawberry naevus)" },
+                  { "title": "Cavernous haemangioma" }
+                ]
+              },
+              {
+                "title": "(2) Vascular Malformations",
+                "children": [
+                  { "title": "Salmon patch" },
+                  { "title": "Capillary vascular malformation (Port-wine stain)" },
+                  { "title": "Venous" },
+                  { "title": "Lymphatic" },
+                  { "title": "Arteriovenous malformations (high-flow vs low-flow)" }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Acquired",
+            "children": [
+              { "title": "Campbell de Morgan spots (Cherry angiomas)" },
+              { "title": "Spider naevi (pregnancy, chronic liver disease)" },
+              { "title": "Pyogenic granuloma" },
+              { "title": "Glomus tumour (Sucquet–Hoyer canal arteriovenous shunt in nail bed)" },
+              { "title": "Angiosarcoma / Lymphangiosarcoma (Stewart–Treves syndrome in chronic lymphoedema)" },
+              { "title": "Kaposi's sarcoma" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Classification of Flaps (Ch. 47)",
+        "children": [
+          {
+            "title": "1. The “Five Cs” Classification",
+            "children": [
+              { "title": "Circulation (Random vs Axial)" },
+              { "title": "Composition (Cutaneous, Fasciocutaneous, Myocutaneous, Muscle, Osseocutaneous, Omentum/Jejunum)" },
+              { "title": "Contiguity (Local, Regional, Distant [Pedicled vs Free])" },
+              { "title": "Contour (Advancement, Rotation, Transposition, Interpolation)" },
+              { "title": "Conditioning (Delayed vs Non-delayed)" }
+            ]
+          },
+          {
+            "title": "2. Cormack and Lamberty Classification of Fasciocutaneous Flaps (1984)",
+            "children": [
+              {
+                "title": "Type A",
+                "detail": "Multiple direct or indirect fascial perforators entering at the base (e.g., Pontén superflap of calf)."
+              },
+              {
+                "title": "Type B",
+                "detail": "Single consistent direct septocutaneous perforator running along the axis of the flap (e.g., Scapular, Parascapular, Medial plantar flaps)."
+              },
+              {
+                "title": "Type C",
+                "detail": "Multiple small segmental perforators arising along the course of a deep source artery running in an intermuscular septum (e.g., Radial forearm [“Chinese”] flap, Lateral arm flap)."
+              },
+              {
+                "title": "Type D",
+                "detail": "Osteomyofasciocutaneous flap supplied by segmental perforators to bone, muscle, fascia, and skin (e.g., Free fibula flap)."
+              }
+            ]
+          },
+          {
+            "title": "3. Mathes and Nahai Classification of Muscle & Myocutaneous Flaps (1981)",
+            "children": [
+              {
+                "title": "Type I",
+                "detail": "One single vascular pedicle (e.g., Gastrocnemius, Tensor fascia lata)."
+              },
+              {
+                "title": "Type II",
+                "detail": "One dominant pedicle + one or more minor pedicles (cannot survive on minor pedicles alone; e.g., Gracilis, Sternocleidomastoid, Soleus, Trapezius, Biceps femoris)."
+              },
+              {
+                "title": "Type III",
+                "detail": "Two dominant pedicles from separate regional arteries (can survive on either pedicle; e.g., Rectus abdominis [superior & deep inferior epigastric arteries — TRAM/DIEP], Gluteus maximus, Temporalis, Pectoralis minor, Serratus anterior)."
+              },
+              {
+                "title": "Type IV",
+                "detail": "Segmental vascular pedicles along the muscle belly (least reliable for wide mobilisation; e.g., Sartorius, Tibialis anterior, Flexor hallucis longus)."
+              },
+              {
+                "title": "Type V",
+                "detail": "One dominant pedicle + multiple secondary segmental pedicles (can survive on either the dominant pedicle or the segmental perforators; e.g., Latissimus dorsi, Pectoralis major)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Brown and Shaw Classification of Maxillectomy Defects (Ch. 53)",
+        "children": [
+          {
+            "title": "Vertical Component (Classes I–VI)",
+            "children": [
+              { "title": "Class I: Maxillectomy without oroantral fistula (alveolar resection)" },
+              { "title": "Class II: Low maxillectomy (not involving orbital floor)" },
+              { "title": "Class III: High maxillectomy involving orbital floor/periorbita with retention of the globe" },
+              { "title": "Class IV: Radical maxillectomy with orbital exenteration" },
+              { "title": "Class V: Orbitomaxillary defect" },
+              { "title": "Class VI: Nasomaxillary defect" }
+            ]
+          },
+          {
+            "title": "Horizontal Palatal Component (a–d)",
+            "children": [
+              { "title": "a: Unilateral palatal defect ≤ 1/2" },
+              { "title": "b: Bilateral or transverse anterior defect" },
+              { "title": "c: Total palatectomy defect" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Milan System for Reporting Salivary Gland Cytopathology (Table 54.4)",
+        "children": [
+          { "title": "Category I: Non-diagnostic (25% risk of malignancy [ROM] → Repeat USG-FNAC)" },
+          { "title": "Category II: Non-neoplastic (10% ROM → Clinical follow-up)" },
+          { "title": "Category III: Atypia of Undetermined Significance (AUS; 20% ROM → Repeat FNAC or surgery)" },
+          { "title": "Category IVA: Benign Neoplasm (<5% ROM → Conservative parotidectomy)" },
+          { "title": "Category IVB: Salivary Gland Neoplasm of Uncertain Malignant Potential (SUMP; 35% ROM → Surgery with frozen section)" },
+          { "title": "Category V: Suspicious for Malignancy (60% ROM → Surgery)" },
+          { "title": "Category VI: Malignant (>90% ROM → Radical/definitive surgery depending on grade)" }
+        ]
+      },
+      {
+        "title": "Classification of Thyroid Swellings (Table 55.3)",
+        "children": [
+          {
+            "title": "1. Simple Goitre (Euthyroid)",
+            "children": [
+              { "title": "Diffuse hyperplastic (Physiological, Pubertal, Pregnancy)" },
+              { "title": "Multinodular goitre" }
+            ]
+          },
+          {
+            "title": "2. Toxic Goitre",
+            "children": [
+              { "title": "Diffuse toxic goitre (Graves' disease)" },
+              { "title": "Toxic multinodular goitre" },
+              { "title": "Toxic adenoma" }
+            ]
+          },
+          {
+            "title": "3. Neoplastic",
+            "children": [
+              { "title": "Benign (Follicular adenoma)" },
+              {
+                "title": "Malignant — Primary",
+                "children": [
+                  { "title": "Follicular-derived differentiated (Papillary, Follicular, Hürthle cell)" },
+                  { "title": "Poorly differentiated / Anaplastic" },
+                  { "title": "Parafollicular (Medullary)" },
+                  { "title": "Lymphoma" }
+                ]
+              },
+              { "title": "Malignant — Secondary: Metastatic (renal cell) or local infiltration" }
+            ]
+          },
+          {
+            "title": "4. Inflammatory (Thyroiditis)",
+            "children": [
+              { "title": "Autoimmune (Chronic lymphocytic / Hashimoto's)" },
+              { "title": "Granulomatous (Subacute de Quervain's)" },
+              { "title": "Fibrosing (Riedel's)" },
+              { "title": "Infective (Acute bacterial/viral, Chronic tuberculous/syphilitic)" }
+            ]
+          },
+          { "title": "5. Other: Amyloid goitre" }
+        ]
+      },
+      {
+        "title": "Classification of Hyperparathyroidism & Hypercalcaemia (Ch. 56)",
+        "children": [
+          {
+            "title": "Hyperparathyroidism",
+            "children": [
+              { "title": "(1) Primary (85% Single adenoma, 15% Hyperplasia, 1% Carcinoma)" },
+              {
+                "title": "(2) Secondary",
+                "detail": "Compensatory parathyroid hyperplasia due to hypocalcaemia/hyperphosphataemia in chronic kidney disease, malabsorption, or vitamin D deficiency."
+              },
+              {
+                "title": "(3) Tertiary",
+                "detail": "Autonomous hypercalcaemic hyperparathyroidism persisting >1 year after successful renal transplantation."
+              }
+            ]
+          },
+          {
+            "title": "Causes of Hypercalcaemia (Table 56.1)",
+            "children": [
+              { "title": "Endocrine (PHPT, Thyrotoxicosis, Phaeochromocytoma, Addisonian crisis)" },
+              { "title": "Malignant — Skeletal metastases (breast/lung/prostate)" },
+              { "title": "Malignant — Multiple myeloma" },
+              { "title": "Malignant — PTHrP-mediated humoral hypercalcaemia of malignancy (squamous cell lung/head & neck, renal)" },
+              { "title": "Renal (Tertiary HPT)" },
+              { "title": "Nutritional/Drugs (Vitamin D/A intoxication, Milk-alkali syndrome, Thiazide diuretics, Lithium)" },
+              { "title": "Granulomatous (Sarcoidosis, Tuberculosis)" },
+              { "title": "Genetic (Familial Hypocalciuric Hypercalcaemia [FHH])" },
+              { "title": "Skeletal (Paget's disease, prolonged immobilisation)" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Classification of Adrenal Insufficiency & Neuroendocrine Tumours (Ch. 57)",
+        "children": [
+          {
+            "title": "Adrenal Insufficiency (Table 57.1)",
+            "children": [
+              {
+                "title": "Primary (Addison's disease — high ACTH, low cortisol & aldosterone)",
+                "children": [
+                  { "title": "Autoimmune adrenalitis (70–90%)" },
+                  { "title": "Tuberculosis" },
+                  { "title": "Bilateral adrenal haemorrhage/infarction (Waterhouse–Friderichsen syndrome)" },
+                  { "title": "Metastases" },
+                  { "title": "CAH" }
+                ]
+              },
+              {
+                "title": "Secondary (low ACTH, low cortisol, normal aldosterone)",
+                "detail": "Pituitary tumour/infarction (Sheehan's syndrome)."
+              },
+              {
+                "title": "Tertiary",
+                "detail": "Abrupt cessation of exogenous steroids or post-Cushing's surgery (CRH suppression)."
+              }
+            ]
+          },
+          {
+            "title": "WHO Classification of Neuroendocrine Neoplasms (Table 57.5)",
+            "children": [
+              { "title": "Well-Differentiated NET Grade 1: <2 mitoses/10 HPF AND Ki-67 index <3%" },
+              { "title": "Well-Differentiated NET Grade 2: 2–20 mitoses/10 HPF OR Ki-67 index 3–20%" },
+              { "title": "Well-Differentiated NET Grade 3: >20 mitoses/10 HPF OR Ki-67 index >20%" },
+              { "title": "Poorly Differentiated Neuroendocrine Carcinoma (NEC — Small or Large cell): >20 mitoses/10 HPF and Ki-67 >20%" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Classification of Endoleaks Following EVAR (Table 61.3)",
+        "children": [
+          {
+            "title": "Type I (High-pressure — requires urgent re-intervention)",
+            "detail": "Inadequate seal at the proximal aortic attachment site (Type Ia) or distal iliac attachment site (Type Ib)."
+          },
+          {
+            "title": "Type II (Commonest)",
+            "detail": "Retrograde collateral blood flow into the aneurysm sac from aortic branches (Inferior mesenteric artery or lumbar arteries)."
+          },
+          {
+            "title": "Type III (High-pressure — requires urgent re-intervention)",
+            "detail": "Structural failure of the stent-graft due to modular component disconnection (Type IIIa) or fabric tear/defect (Type IIIb)."
+          },
+          {
+            "title": "Type IV",
+            "detail": "Blood flow through porous graft fabric (self-limiting)."
+          },
+          {
+            "title": "Type V (Endotension)",
+            "detail": "Continued expansion of the aneurysm sac without any demonstrable radiographic endoleak."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t35",
+    "title": "1. Chapter 45: Skin and Subcutaneous Tissue (Remaining Topics)",
+    "children": [
+      {
+        "title": "Skin Dimensions, Blood Supply & Angiosomes",
+        "children": [
+          {
+            "title": "Dimensions",
+            "detail": "Surface area is 1–2 m², weight 15–20 kg. Epidermis is thickest on the sole of the foot (0.5–1 mm) and thinnest on the eyelid (0.05–0.09 mm)."
+          },
+          {
+            "title": "Angiosomes (Taylor & Palmer)",
+            "detail": "3D composite blocks of skin, subcutaneous tissue, and underlying muscle/bone supplied by a specific named source artery and vein."
+          },
+          {
+            "title": "Choke vessels",
+            "detail": "Neighbouring angiosomes are linked within muscle bellies by reduced-calibre “choke vessels” (which dilate during surgical flap delay or myocutaneous flap harvest, e.g., Latissimus dorsi and Rectus abdominis flaps)."
+          }
+        ]
+      },
+      {
+        "title": "Genetic Syndromes with Cutaneous Manifestations",
+        "children": [
+          {
+            "title": "Neurofibromatosis",
+            "children": [
+              {
+                "title": "Inheritance",
+                "detail": "70% autosomal dominant, 30% sporadic."
+              },
+              {
+                "title": "NF-1 (Von Recklinghausen's disease — Chr 17, 1:4000 births)",
+                "detail": "≥ 6 smooth-bordered (“Coast of California”) café-au-lait spots, cutaneous/subcutaneous neurofibromas, axillary/inguinal freckling (Crowe's sign), iris Lisch nodules, and optic gliomas."
+              },
+              {
+                "title": "NF-2 (Chr 22)",
+                "detail": "Bilateral acoustic neuromas (vestibular schwannomas) and CNS tumours."
+              }
+            ]
+          },
+          {
+            "title": "Gorlin's Syndrome (Naevoid Basal Cell Carcinoma Syndrome)",
+            "detail": "Autosomal dominant mutation in the PTCH1 (“patched”) tumour suppressor gene on Chromosome 9q22–31. 90% develop multiple BCCs at an early age, palmar/plantar pits, odontogenic keratocysts of the jaw, calcified falx cerebri, bifid ribs, macrocephaly, hypertelorism, and medulloblastoma."
+          },
+          {
+            "title": "Ferguson-Smith Syndrome",
+            "detail": "Rare autosomal dominant mutation on Chromosome 9q causing multiple self-healing squamous cell carcinomas unrelated to sun exposure."
+          }
+        ]
+      },
+      {
+        "title": "Inflammatory, Metabolic & Infective Conditions",
+        "children": [
+          {
+            "title": "Hyperhidrosis",
+            "children": [
+              {
+                "title": "Definition",
+                "detail": "Excessive eccrine sweating of palms, soles, axillae, and groins."
+              },
+              {
+                "title": "Stepwise treatment",
+                "detail": "Topical 20% aluminium chloride antiperspirants, iontophoresis, intradermal Botulinum toxin A injections, or Endoscopic Transthoracic Sympathectomy (ETS) (T2–T3 ganglia for palmar/axillary hyperhidrosis)."
+              }
+            ]
+          },
+          {
+            "title": "Lipodystrophy",
+            "children": [
+              {
+                "title": "Definition",
+                "detail": "Localised or generalised loss of subcutaneous fat (complicating insulin injection sites, HIV protease inhibitors, or transplant drugs)."
+              },
+              {
+                "title": "Treatment",
+                "detail": "Autologous fat grafting (lipotransfer) or poly-L-lactic acid fillers."
+              }
+            ]
+          },
+          {
+            "title": "Pyoderma Gangrenosum",
+            "children": [
+              {
+                "title": "Presentation",
+                "detail": "Rapidly enlarging, very painful necrotic cutaneous ulcer with a characteristic violaceous/purple undermined edge and cribriform scar."
+              },
+              {
+                "title": "Mechanism",
+                "detail": "Mediated by neutrophil dysfunction (pathergy phenomenon)."
+              },
+              {
+                "title": "Associations (50%)",
+                "detail": "Inflammatory Bowel Disease (Ulcerative colitis/Crohn's), Rheumatoid arthritis, Non-Hodgkin's lymphoma, or Granulomatosis with polyangiitis."
+              },
+              {
+                "title": "Treatment",
+                "detail": "Medical (high-dose systemic corticosteroids / cyclosporine / infliximab); surgical debridement is contraindicated as pathergy worsens ulceration."
+              }
+            ]
+          },
+          {
+            "title": "Necrotising Fasciitis (Summary Box 45.1)",
+            "children": [
+              {
+                "title": "Organisms",
+                "detail": "Polymicrobial synergistic infection (Group A β-haemolytic Streptococcus + S. aureus, E. coli, Pseudomonas, Bacteroides, Clostridium)."
+              },
+              {
+                "title": "Spread",
+                "detail": "Spreading rapidly along the deep fascial planes while initially sparing overlying skin."
+              },
+              {
+                "title": "Epidemiology",
+                "detail": "80% follow minor trauma/skin breach; 60% occur in lower limbs."
+              },
+              {
+                "title": "Variants",
+                "detail": "Perineal variant = Fournier's gangrene; abdominal wall postoperative variant = Meleney's synergistic gangrene."
+              },
+              {
+                "title": "Classic Signs",
+                "children": [
+                  { "title": "Severe pain out of proportion to clinical signs" },
+                  { "title": "Oedema extending beyond visible erythema" },
+                  { "title": "Woody-hard induration of subcutaneous tissues" },
+                  { "title": "Haemorrhagic bullae" },
+                  { "title": "Skin anaesthesia (thrombosis of perforating nutrient vessels and nerves)" },
+                  { "title": "Soft-tissue crepitus" },
+                  { "title": "Rapid septic shock (30–50% mortality)" }
+                ]
+              },
+              {
+                "title": "Management",
+                "detail": "Immediate fluid resuscitation + high-dose IV broad-spectrum antibiotics (Beta-lactam + Clindamycin + Metronidazole) + emergency radical surgical debridement back to healthy bleeding tissue, followed by relook debridement at 24 hours, VAC dressings, and split-skin grafting."
+              }
+            ]
+          },
+          {
+            "title": "Purpura Fulminans",
+            "children": [
+              {
+                "title": "Cause",
+                "detail": "Acute infectious (Neisseria meningitidis meningococcaemia or varicella in children <7 years or asplenia), neonatal, or idiopathic intravascular thrombosis mediated by endotoxin-induced Protein C deficiency."
+              },
+              {
+                "title": "Features & outcome",
+                "detail": "Causes a petechial rash that coalesces into ecchymoses, haemorrhagic bullae, and sharply demarcated black gangrenous eschars, DIC, and multiorgan failure (40–50% mortality; often requires limb amputations)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Cutaneous Cysts & Rare Tumours",
+        "children": [
+          {
+            "title": "Milia",
+            "detail": "Tiny 1–2 mm hard white subepidermal keratin retention cysts seen in neonates and on chronic sun-damaged/smoker's facial skin in the elderly (Favre–Racouchot syndrome)."
+          },
+          {
+            "title": "Glomus Tumour",
+            "children": [
+              {
+                "title": "Definition",
+                "detail": "Benign hamartoma arising from the neuromyoarterial glomus body (Sucquet–Hoyer arteriovenous shunt canal) responsible for thermoregulation, located most commonly in the subungual corium of the nail bed."
+              },
+              {
+                "title": "Love's triad",
+                "children": [
+                  { "title": "(1) Paroxysmal lancinating digital pain" },
+                  { "title": "(2) Exquisite pinpoint tenderness (elicited with a pinhead — Love's sign, abolished by inflating a tourniquet — Hildreth's sign)" },
+                  { "title": "(3) Hypersensitivity to cold" }
+                ]
+              },
+              {
+                "title": "Treatment",
+                "detail": "Subungual surgical excision."
+              }
+            ]
+          },
+          {
+            "title": "Merkel Cell Carcinoma",
+            "children": [
+              {
+                "title": "Definition",
+                "detail": "Rare, highly aggressive primary neuroendocrine (mechanoreceptor) carcinoma of the skin in elderly white patients (women > men, 4:1; associated with Merkel cell polyomavirus and UVR)."
+              },
+              {
+                "title": "Presentation",
+                "detail": "Rapidly growing, painless, firm, red-purple dome-shaped nodule on sun-exposed head/neck."
+              },
+              {
+                "title": "Treatment",
+                "detail": "Wide local excision (2.5–3.0 cm margin), SLNB, and adjuvant radiotherapy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Congenital Wounds, Pressure Sores, Sinus & Fistula",
+        "children": [
+          {
+            "title": "Cutis Aplasia Congenita",
+            "detail": "Congenital absence of epidermis, dermis (and underlying skull bone in 20%) at the vertex of the scalp."
+          },
+          {
+            "title": "Parry–Romberg Syndrome (Progressive Hemifacial Atrophy)",
+            "children": [
+              {
+                "title": "Definition",
+                "detail": "Unilateral self-limiting atrophy of facial skin, subcutaneous fat, muscle, and bone (linear scleroderma variant; cranial forehead cleft variant is called en coup de sabre)."
+              },
+              {
+                "title": "Reconstruction",
+                "detail": "Reconstructed after burnout (5–10 years) using Coleman autologous lipotransfer or free flaps."
+              }
+            ]
+          },
+          {
+            "title": "Pressure Sores",
+            "children": [
+              {
+                "title": "Definition",
+                "detail": "Cone-shaped ischaemic necrosis over bony prominences (sacrum, ischial tuberosity, greater trochanter, heel) when external tissue pressure exceeds capillary perfusion pressure (>32 mmHg); muscle and fat are more susceptible to ischaemia than skin (“iceberg” cone shape)."
+              },
+              {
+                "title": "Management",
+                "detail": "Pressure-relieving mattresses, 2-hourly turning, nutrition, VAC therapy, and surgical debridement + musculocutaneous flap reconstruction (e.g., Gluteus maximus or Tensor fascia lata flap)."
+              }
+            ]
+          },
+          {
+            "title": "Sinus vs Fistula",
+            "children": [
+              {
+                "title": "Sinus",
+                "detail": "A blind-ending granulation-lined tract connecting a deep cavity to an epithelial surface."
+              },
+              {
+                "title": "Fistula",
+                "detail": "An abnormal communication connecting two epithelialised surfaces."
+              }
+            ]
+          },
+          {
+            "title": "Causes of Persistence of a Sinus/Fistula",
+            "children": [
+              { "title": "(1) Presence of a foreign body or necrotic tissue (suture, hair, bone sequestrum)" },
+              { "title": "(2) Unrelieved distal obstruction" },
+              { "title": "(3) Insufficient/non-dependent drainage" },
+              { "title": "(4) Specific chronic infection (Tuberculosis, Actinomycosis)" },
+              { "title": "(5) Crohn's disease" },
+              { "title": "(6) Epithelialisation of the tract" },
+              { "title": "(7) Malignant change (Marjolin's ulcer)" },
+              { "title": "(8) Irradiation" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t36",
+    "title": "2. Chapter 46: Burns (Remaining Topics)",
+    "children": [
+      {
+        "title": "Admission Referral Criteria to a Specialist Burns Unit (Table 46.1)",
+        "children": [
+          { "title": "Suspected airway or inhalational injury" },
+          { "title": "Any burn likely to require fluid resuscitation (>15% TBSA in adults, >10% TBSA in children)" },
+          { "title": "Any deep burn likely to require surgical excision and grafting" },
+          { "title": "Burns of any significance to special anatomical areas: Face, Hands, Feet, Perineum/Genitalia, or across major joints" },
+          { "title": "Circumferential burns of limbs or chest" },
+          { "title": "Burns at the extremes of age or with significant medical/psychiatric comorbidities" },
+          {
+            "title": "Any suspicion of Non-Accidental Injury (NAI)",
+            "detail": "Delayed presentation, inconsistent history, symmetrical “glove and stocking” forced-immersion scalds with sharp water-line sparing flexion creases, or doughnut-shaped buttock sparing."
+          },
+          { "title": "High-tension electrical burns, chemical burns (especially hydrofluoric acid), or ionising radiation burns" }
+        ]
+      },
+      {
+        "title": "Cold Injuries & Radiation Burns",
+        "children": [
+          {
+            "title": "Acute Industrial Cold Injury vs Frostbite",
+            "detail": "Acute Industrial Cold Injury (liquid nitrogen / LPG contact) vs Frostbite (freezing of extremities with intracellular ice crystal formation and microvascular stasis/thrombosis)."
+          },
+          {
+            "title": "Management of Frostbite",
+            "children": [
+              {
+                "title": "Rewarming",
+                "detail": "Rapid rewarming in a circulating water bath at 40–42°C for 15–30 minutes (never use dry heat or rub the tissue)."
+              },
+              { "title": "Supportive care", "detail": "Analgesia, tetanus prophylaxis." },
+              {
+                "title": "Wound care",
+                "detail": "Strictly conservative wound care for 1–3 months until complete dry mummification and absolute demarcation occur (“Frostbite in January, amputate in July”), unless wet gangrene/sepsis supervenes."
+              }
+            ]
+          },
+          {
+            "title": "Ionising Radiation Burns",
+            "children": [
+              {
+                "title": "Localised high-dose radiation",
+                "detail": "Causes endarteritis obliterans and chronic painful radionecrotic ulcers that cannot support a skin graft and require wide excision + vascularised free flap cover."
+              },
+              {
+                "title": "Whole-body radiation",
+                "detail": "Acute skin desquamation indicates a lethal dose."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

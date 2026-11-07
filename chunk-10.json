@@ -1,0 +1,1491 @@
+[
+  {
+    "id": "surgery-t37",
+    "title": "3. Chapter 47: Plastic & Reconstructive Surgery (Remaining Topics)",
+    "children": [
+      {
+        "title": "Tissue Expansion",
+        "children": [
+          {
+            "title": "Principle",
+            "detail": "A deflated silicone balloon expander is placed subcutaneously adjacent to a defect and serially inflated weekly with normal saline via a filling port. Overlying skin expands via mechanical creep (collagen fibre realignment and expulsion of interstitial water) and biological creep / stress relaxation (mitotic epidermal proliferation and dermal angiogenesis), surrounded by a vascular fibrous capsule."
+          },
+          {
+            "title": "Advantages & Indications",
+            "detail": "Provides sensate skin of identical colour, texture, and hair-bearing quality without a distant donor defect. Ideal for scalp reconstruction (only way to create new hair-bearing scalp), giant congenital melanocytic naevi, burn scar contractures, and two-stage breast reconstruction."
+          }
+        ]
+      },
+      {
+        "title": "Autologous Lipotransfer (Coleman Fat Grafting)",
+        "children": [
+          {
+            "title": "Three steps",
+            "detail": "(1) Low-pressure tumescent liposuction harvest (from abdomen/thigh), (2) Centrifugation (3000 rpm for 3 minutes) to separate oil and blood from viable adipocytes and adipose-derived stromal stem cells, and (3) Micro-droplet reinjection via blunt cannulae into multiple tissue planes (e.g., breast reconstruction contour defects, irradiated scars, Parry–Romberg syndrome). ~20–50% of grafted fat resorbs; rare risk of intravascular fat embolism."
+          }
+        ]
+      },
+      {
+        "title": "Microsurgery, Free Flap Monitoring & Medicinal Leech Therapy",
+        "children": [
+          {
+            "title": "Free Flap Monitoring",
+            "detail": "Keep the patient “Warm, Wet (hyperdynamic normovolaemia), and Comfortable (pain-free to prevent catecholamine-induced vasospasm)”. Monitor hourly in the first 48 hours for colour, temperature, turgor, capillary refill, handheld/implantable Doppler signal, and pinprick bleeding:"
+          },
+          {
+            "title": "Arterial Thrombosis (1/3 of failures)",
+            "detail": "Flap is pale/white, cool, flaccid/empty, absent capillary refill, and no bleeding on pinprick."
+          },
+          {
+            "title": "Venous Thrombosis/Congestion (2/3 of failures)",
+            "detail": "Flap is dark purple/dusky blue, tense/swollen, very brisk capillary refill (<1 s), and rapid dark venous oozing on pinprick."
+          },
+          {
+            "title": "Action",
+            "detail": "Release tight dressings/sutures at bedside and return immediately to theatre for microvascular exploration and revision anastomosis (>60% salvage rate if explored early)."
+          }
+        ]
+      },
+      {
+        "title": "Medicinal Leech Therapy (Hirudo medicinalis)",
+        "children": [
+          {
+            "title": "Indication",
+            "detail": "Salvage of venously congested flaps or distal digital/ear replants where venous outflow is insufficient or no suitable vein exists for microvascular anastomosis (never used for arterial insufficiency or main-pedicle venous thrombosis that can be surgically revised)."
+          },
+          {
+            "title": "Mechanism",
+            "detail": "Leech saliva contains hirudin (potent direct thrombin inhibitor), hyaluronidase, and histamine-like vasodilators; each leech ingests 5 mL of blood and the bite oozes up to 50–150 mL over several hours while neovascular venous channels grow in (takes 7–14 days)."
+          },
+          {
+            "title": "Mandatory Prophylaxis",
+            "detail": "The leech gut harbours the symbiotic Gram-negative bacterium Aeromonas hydrophila, which causes severe flap infection/necrosis; all patients must receive prophylactic Ciprofloxacin (quinolone) or Co-trimoxazole during leech therapy and regular haemoglobin monitoring."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t38",
+    "title": "4. Chapter 53: Oral Cavity Cancer (Remaining Topics)",
+    "children": [
+      {
+        "title": "Sentinel Lymph Node Biopsy (SLNB) in Early Oral Cancer",
+        "children": [
+          {
+            "title": "Used in cT1–T2 N0 oral cavity SCC as an alternative to upfront elective neck dissection. Peritumoral injection of (99m)Tc-nanocolloid + ICG/blue dye identifies the first draining node(s) (including unexpected contralateral drainage); if positive on step-serial sectioning and immunohistochemistry, completion neck dissection is performed."
+          }
+        ]
+      },
+      {
+        "title": "Access Procedures for Oral Cancer Resection",
+        "children": [
+          {
+            "title": "Transoral Resection",
+            "detail": "For anterior T1/T2 lesions."
+          },
+          {
+            "title": "Lip-Split Mandibulotomy",
+            "detail": "Paramedian stepped osteotomy in front of the mental foramen (preserving the inferior alveolar nerve) to swing the hemimandible laterally for posterior tongue/oropharyngeal tumours."
+          },
+          {
+            "title": "Visor Flap / Mandibular Lingual Release (“Drop-down” approach)",
+            "detail": "Subplatysmal apron incision releasing floor-of-mouth muscles from the inner mandible to drop the tongue into the neck without splitting the lip or bone."
+          },
+          {
+            "title": "Weber–Fergusson Incision",
+            "detail": "Divides upper lip philtrum, curves around the ala and lateral nasal wall, and extends infraorbitally to expose the maxilla for Maxillectomy."
+          }
+        ]
+      },
+      {
+        "title": "Virtual Surgical Planning (VSP), Zygomatic Implants & Immunotherapy",
+        "children": [
+          {
+            "title": "VSP",
+            "detail": "Preoperative 3D CT CAD/CAM stereolithographic models and custom 3D-printed cutting guides for precise mandibular resection and fibula/scapula osteotomies."
+          },
+          {
+            "title": "ZIP (Zygomatic Implant Perforator) Flap",
+            "detail": "Immediate placement of long zygomatic dental implants perforating through a radial forearm/ALT soft-tissue free flap to provide immediate fixed dental rehabilitation after maxillectomy without needing a bony free flap."
+          },
+          {
+            "title": "Immunotherapy in Recurrent/Metastatic HNSCC",
+            "detail": "Anti-PD-1 immune checkpoint inhibitors (Pembrolizumab, Nivolumab) prolong overall survival in platinum-refractory or PD-L1-positive recurrent/metastatic oral SCC."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t39",
+    "title": "5. Chapter 54: Disorders of the Salivary Glands (Remaining Topics)",
+    "children": [
+      {
+        "title": "Mucoceles, Necrotising Sialometaplasia & Immunological Salivary Disorders",
+        "children": [
+          {
+            "title": "Extravasation Mucocele",
+            "detail": "Traumatic rupture of a minor salivary gland duct on the lower lip in children/young adults, spilling mucin into connective tissue (lacks an epithelial lining); presents as a painless, translucent bluish submucosal nodule; treated by surgical excision with the underlying minor salivary gland."
+          },
+          {
+            "title": "Acute Necrotising Sialometaplasia",
+            "detail": "Self-limiting ischaemic infarction of minor salivary glands on the hard palate (triggered by local anaesthetic injection, trauma, or bulimia). Presents as a deep crateriform palatal ulcer with rolled margins that clinically and histologically mimics squamous cell carcinoma or mucoepidermoid carcinoma (squamous metaplasia of ducts, but lobular architecture is preserved). Heals spontaneously within 6–10 weeks without surgery."
+          },
+          {
+            "title": "Sjögren’s Syndrome (SjS) (Table 54.1):"
+          },
+          {
+            "title": "Chronic autoimmune lymphocytic destruction of exocrine glands (Female:Male = 10:1, age 40–60)."
+          },
+          {
+            "title": "Primary SjS (Sicca Syndrome)",
+            "detail": "Xerostomia (dry mouth) + Keratoconjunctivitis sicca (dry eyes) with bilateral parotid enlargement, without an associated connective tissue disease."
+          },
+          {
+            "title": "Secondary SjS",
+            "detail": "Sicca symptoms + Rheumatoid arthritis, SLE, or Scleroderma."
+          },
+          {
+            "title": "Diagnosis",
+            "detail": "Anti-SSA (Ro) and Anti-SSB (La) antibodies, Rheumatoid factor, Schirmer’s test, and Labial Minor Salivary Gland Biopsy showing focal lymphocytic sialadenitis (Focus score ≥ 1 [≥ 50 lymphocytes per 4 mm²])."
+          },
+          {
+            "title": "Complication",
+            "detail": "40-fold increased risk of parotid MALT B-cell Non-Hodgkin’s Lymphoma (suspect if a parotid gland enlarges rapidly or becomes hard)."
+          },
+          {
+            "title": "Sarcoidosis & Heerfordt’s Syndrome",
+            "detail": "Non-caseating granulomatous infiltration of the parotid gland; Heerfordt’s Syndrome (Uveoparotid Fever) is the classic triad of bilateral parotid enlargement + anterior uveitis + facial nerve (CN VII) palsy accompanied by low-grade fever."
+          },
+          {
+            "title": "HIV-Associated Salivary Gland Disease (Summary Box 54.4): Occurs in 5–10% of HIV patients; presents with painless bilateral multicystic parotid enlargement due to Benign Lymphoepithelial Cysts (BLEC) and Diffuse Infiltrative Lymphocytosis Syndrome (DILS — CD8⁺ T-cell infiltration), mimicking Sjögren’s syndrome but with negative anti-Ro/La autoantibodies."
+          },
+          {
+            "title": "Recurrent Parotitis of Childhood",
+            "detail": "Rapid recurrent unilateral/bilateral parotid swelling in children aged 3–6 years; sialogram shows characteristic “snowstorm” punctate sialectasis; managed with antibiotics and sialendoscopic washouts (usually resolves spontaneously at puberty)."
+          },
+          {
+            "title": "Sialadenosis (Sialosis)",
+            "detail": "Non-inflammatory, non-neoplastic, painless bilateral symmetrical parotid enlargement caused by autonomic neuropathy and acinar hypertrophy in chronic alcoholism/cirrhosis, diabetes mellitus, malnutrition/bulimia, and drugs (guanethidine, thioridazine)."
+          }
+        ]
+      },
+      {
+        "title": "Salivary Gland & Duct Trauma",
+        "children": [
+          {
+            "title": "Facial Nerve Injury",
+            "detail": "If transected posterior to a vertical line dropped from the lateral canthus of the eye, perform immediate primary epineurial microsurgical repair (or cable nerve graft). Branches injured anterior to this line have rich cross-anastomoses and do not require repair."
+          },
+          {
+            "title": "Stensen’s Duct Injury",
+            "detail": "Repair within 72 hours by primary end-to-end microsurgical anastomosis over a fine Silastic/epidural catheter stent cannulated via the buccal papilla."
+          },
+          {
+            "title": "Submandibular Gland Excision (Operative Steps & Nerve Relations — Summary Box 54.6):"
+          },
+          {
+            "title": "Incision",
+            "detail": "Horizontal skin-crease incision two finger-breadths (3–4 cm) below the lower border of the mandible (to avoid the marginal mandibular nerve)."
+          }
+        ]
+      },
+      {
+        "title": "Three Crucial Nerves Related to the Submandibular Gland",
+        "children": [
+          {
+            "title": "Marginal Mandibular Branch of Facial Nerve",
+            "detail": "Runs in the deep fascia superficial to the facial vein and artery; protected via the Hayes Martin manoeuvre (ligating the facial vein low on the inferior border of the gland and reflecting the tied upper stump superiorly along with the investing fascia). Injury paralyses depressor anguli oris/depressor labii inferioris → drooping/asymmetry of the corner of the mouth on smiling."
+          },
+          {
+            "title": "Lingual Nerve",
+            "detail": "Lies on the hyoglossus muscle deep to the mylohyoid; loops beneath Wharton’s duct (“double-crossing” it) and is attached to the deep lobe of the gland via the submandibular ganglion (which must be carefully divided to free the gland). Injury causes ipsilateral loss of general sensation and taste to the anterior two-thirds of the tongue."
+          },
+          {
+            "title": "Hypoglossal Nerve (CN XII)",
+            "detail": "Runs deep to the gland on the hyoglossus muscle below Wharton’s duct, accompanied by the thin-walled ranine veins. Injury causes ipsilateral tongue hemi-atrophy and deviation of the protruding tongue towards the injured side."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t40",
+    "title": "6. Chapter 55 & 56: Thyroid & Parathyroid Glands (Remaining Topics)",
+    "children": [
+      {
+        "title": "Surgical Anatomy of the Thyroid & Parathyroids",
+        "children": [
+          {
+            "title": "Beahrs’ Triangle (for locating the Recurrent Laryngeal Nerve)",
+            "detail": "Bounded by the Common carotid artery (base/laterally), Inferior thyroid artery (superiorly), and Recurrent laryngeal nerve (inferomedially) in the tracheo-oesophageal groove."
+          },
+          {
+            "title": "Tubercle of Zuckerkandl",
+            "detail": "Posterolateral pyramidal projection of the thyroid lobe; the RLN almost constantly runs immediately medial/posterior to this tubercle in a fissure between it and the trachea before entering the larynx beneath Berry’s ligament."
+          },
+          {
+            "title": "Non-Recurrent Laryngeal Nerve (~1–2% on the Right side)",
+            "detail": "Associated with an anomalous retro-oesophageal right subclavian artery (arteria lusoria); arises directly from the cervical vagus and runs transversely into the larynx."
+          },
+          {
+            "title": "Secondary Hyperparathyroidism & Calciphylaxis (Ch. 56):"
+          },
+          {
+            "title": "Pathogenesis in Chronic Kidney Disease",
+            "detail": "Impaired renal phosphate excretion → hyperphosphataemia stimulates osteocytes to secrete Fibroblast Growth Factor-23 (FGF-23), which inhibits renal 1α-hydroxylase → **low 1,25(OH)_2D_3 (calcitriol)** → reduced gut calcium absorption and hypocalcaemia → continuous chief-cell stimulation and four-gland parathyroid hyperplasia (initially diffuse polyclonal, later nodular monoclonal hyperplasia with downregulation of Vitamin D receptors and Calcium-Sensing Receptors, rendering it medically refractory)."
+          },
+          {
+            "title": "Medical Management",
+            "detail": "Low-phosphate diet, Phosphate binders (Sevelamer, Calcium acetate), Calcitriol/Alfacalcidol, and Cinacalcet (calcimimetic). Renal transplantation is the only definitive cure."
+          },
+          {
+            "title": "Indications for Parathyroidectomy in Secondary HPT (Tables 56.3 & 56.4): Intact PTH >500–800 pg/mL with refractory hypercalcaemia/hyperphosphataemia, largest gland volume >500 mm³ (>1 cm), severe renal osteodystrophy/bone pain, intractable pruritus, erythropoietin-resistant anaemia, or Calciphylaxis. Performed via Subtotal (3(1/2)-gland) Parathyroidectomy or Total Parathyroidectomy with Forearm Autotransplantation + Bilateral Cervical Thymectomy."
+          },
+          {
+            "title": "Casanova Test",
+            "detail": "Used in recurrent hyperparathyroidism after forearm autotransplantation; inflating a tourniquet on the grafted arm or selective brachial venous sampling demonstrating a >20:1 PTH gradient confirms graft-dependent recurrence."
+          },
+          {
+            "title": "Calciphylaxis (Calcific Uraemic Arteriolopathy)",
+            "detail": "Life-threatening syndrome (up to 87% mortality from sepsis) in ~4% of dialysis patients with an elevated Calcium × Phosphate product and deficiency of calcification-inhibitor α_2-Heremans–Schmid glycoprotein (Fetuin-A). Causes medial calcification and thrombosis of dermal/subcutaneous arterioles, presenting with excruciatingly painful violaceous retiform purpuric plaques and black necrotic skin eschars on the thighs, legs, and abdomen. Requires urgent parathyroidectomy, sodium thiosulphate, and meticulous wound care."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t41",
+    "title": "7. Chapter 57: Adrenal Glands & Abdominal Endocrine Disorders (Remaining Topics)",
+    "children": [
+      {
+        "title": "Adrenal Incidentaloma (Algorithm Fig 57.2 & Summary Box 57.1):"
+      },
+      {
+        "title": "Defined as an asymptomatic adrenal mass (≥ 1 cm) discovered incidentally on cross-sectional imaging performed for non-adrenal reasons."
+      },
+      {
+        "title": "Two Questions Must Be Answered in Parallel",
+        "children": [
+          {
+            "title": "Is it Functionally Active? All patients undergo",
+            "detail": "(i) Overnight 1 mg Dexamethasone Suppression Test (cortisol >50 nmol/L indicates autonomous cortisol secretion / Cushing’s), (ii) Plasma free metanephrines or 24-hour urinary fractionated metanephrines (to exclude Phaeochromocytoma), (iii) Plasma Aldosterone-to-Renin Ratio (ARR) (if hypertensive or hypokalaemic, to exclude Conn’s syndrome), and (iv) Sex hormones / steroid precursors (DHEAS, testosterone, 17-OH-progesterone if virilisation or adrenocortical carcinoma is suspected)."
+          },
+          {
+            "title": "Is it Malignant? (Summary Box 57.1):"
+          },
+          {
+            "title": "Benign Adenoma (Lipid-rich)",
+            "detail": "Size <4 cm, homogeneous, Unenhanced CT attenuation ≤ 10 Hounsfield Units (HU), rapid contrast washout (Absolute washout >60%, Relative washout >40% at 15 minutes), and signal drop on out-of-phase chemical-shift MRI."
+          },
+          {
+            "title": "Suspicious for Malignancy",
+            "detail": "Size >4 cm (especially >6 cm), >10 HU density, delayed contrast washout (<60% absolute / <40% relative), no signal loss on chemical-shift MRI, or FDG-PET avidity."
+          },
+          {
+            "title": "Indications for Adrenalectomy in Incidentaloma",
+            "detail": "(i) Any hormonally functioning tumour, and (ii) Any non-functioning tumour ≥ 4 cm or with imaging features suspicious for malignancy (Laparoscopic if <6 cm without local invasion; Open radical adrenalectomy if >6 cm or locally invasive)."
+          }
+        ]
+      },
+      {
+        "title": "Primary Hyperaldosteronism (Conn’s Syndrome)",
+        "children": [
+          {
+            "title": "Pathology",
+            "detail": "30–40% unilateral Aldosterone-Producing Adenoma (APA) (small 1–2 cm golden-yellow “canary tumour” arising in the zona glomerulosa; 40% harbour somatic KCNJ5 potassium-channel mutations) vs 60% Bilateral Idiopathic Adrenal Hyperplasia (and rare Familial Hyperaldosteronism Types I–IV; Type I is Glucocorticoid-Remediable Aldosteronism treated with low-dose dexamethasone)."
+          },
+          {
+            "title": "Clinical Features",
+            "detail": "Commonest cause of secondary/endocrine hypertension; causes drug-resistant hypertension, sodium retention, and hypokalaemic metabolic alkalosis (muscle weakness, cramps, polyuria/polydipsia from nephrogenic diabetes insipidus; note that >50% are normokalaemic at presentation)."
+          }
+        ]
+      },
+      {
+        "title": "Stepwise Diagnosis",
+        "children": [
+          {
+            "title": "Screening",
+            "detail": "Elevated Plasma Aldosterone-to-Renin Ratio (ARR >850 suggestive, >1700 diagnostic) after stopping spironolactone/eplerenone and ACE inhibitors for 2–4 weeks and correcting hypokalaemia."
+          },
+          {
+            "title": "Confirmatory Test",
+            "detail": "Saline infusion test, oral salt-loading test, or fludrocortisone suppression test."
+          },
+          {
+            "title": "Subtype Lateralisation (Unilateral APA vs Bilateral Hyperplasia)",
+            "detail": "High-resolution adrenal CT followed by Adrenal Vein Sampling (AVS — Gold Standard in patients >35 years) or ¹¹C-Metomidate PET-CT."
+          }
+        ]
+      },
+      {
+        "title": "Treatment",
+        "children": [
+          {
+            "title": "Unilateral APA",
+            "detail": "Laparoscopic Adrenalectomy (after preoperative blood pressure and potassium normalization with Spironolactone)."
+          },
+          {
+            "title": "Bilateral Adrenal Hyperplasia",
+            "detail": "Lifelong medical therapy with mineralocorticoid receptor antagonists (Spironolactone or Eplerenone — avoids gynaecomastia)."
+          }
+        ]
+      },
+      {
+        "title": "Cushing’s Syndrome",
+        "children": [
+          {
+            "title": "Etiology",
+            "detail": "ACTH-Dependent (80–85%): Pituitary corticotroph adenoma (Cushing’s Disease — 70–80%) or Ectopic ACTH Syndrome (10%) (small-cell lung cancer, bronchial/thymic/pancreatic NETs); ACTH-Independent (15–20%): Unilateral Adrenocortical Adenoma, Adrenocortical Carcinoma, or Primary Bilateral Macronodular Adrenal Hyperplasia (BMAH)."
+          },
+          {
+            "title": "Clinical Features (Summary Box 57.2): Central truncal obesity, moon-like plethoric face, interscapular “buffalo hump”, supraclavicular fat pads, proximal myopathy (“lemon on sticks”), wide purple abdominal striae, easy bruising, hirsutism, acne, hypertension, diabetes mellitus, osteoporosis, and psychosis/depression."
+          }
+        ]
+      },
+      {
+        "title": "Stepwise Diagnosis",
+        "children": [
+          {
+            "title": "Confirm Hypercortisolism (Requires ≥ 2 abnormal first-line tests)",
+            "detail": "(i) Overnight 1 mg Dexamethasone Suppression Test (8 am cortisol >50 nmol/L), (ii) Late-night salivary cortisol (loss of circadian nadir), and (iii) 24-hour Urinary Free Cortisol (UFC) (>3 × upper limit)."
+          }
+        ]
+      },
+      {
+        "title": "Determine ACTH Dependency (Plasma ACTH)",
+        "children": [
+          {
+            "title": "Suppressed ACTH (<5 pg/mL)",
+            "detail": "Adrenal Cushing’s → perform Adrenal CT/MRI."
+          },
+          {
+            "title": "Normal/Elevated ACTH",
+            "detail": "Pituitary vs Ectopic → perform Pituitary MRI, High-dose (8 mg) DST, and Bilateral Inferior Petrosal Sinus Sampling (BIPSS) (or CT Thorax + ⁶⁸Ga-DOTATATE PET-CT for ectopic ACTH)."
+          }
+        ]
+      },
+      {
+        "title": "Treatment",
+        "children": [
+          {
+            "title": "Preoperative Medical Control",
+            "detail": "Steroidogenesis inhibitors (Metyrapone, Ketoconazole, or IV Etomidate in life-threatening hypercortisolaemic crisis) + DVT and antibiotic prophylaxis."
+          },
+          {
+            "title": "Surgery",
+            "detail": "Trans-sphenoidal hypophysectomy for Cushing’s disease; Laparoscopic Adrenalectomy for unilateral adrenal adenoma."
+          },
+          {
+            "title": "Mandatory Postoperative Corticosteroid Replacement",
+            "detail": "Because chronic hypercortisolism suppresses hypothalamic CRH/pituitary ACTH and causes atrophy of the contralateral adrenal cortex, all patients undergoing unilateral adrenalectomy for Cushing’s require intraoperative and postoperative Hydrocortisone replacement (weaned slowly over 6–12 months once a Short Synacthen Test confirms recovery of the contralateral gland)."
+          },
+          {
+            "title": "Nelson’s Syndrome",
+            "detail": "Occurs in 10% of patients with Cushing’s disease who undergo bilateral adrenalectomy; loss of cortisol negative feedback causes rapid enlargement of the pituitary corticotroph tumour with massive ACTH and POMC/MSH secretion, causing intense cutaneous hyperpigmentation and visual field defects (bitemporal hemianopia)."
+          }
+        ]
+      },
+      {
+        "title": "Adrenocortical Carcinoma (ACC)",
+        "children": [
+          {
+            "title": "Rare (1–2 per million), highly aggressive malignancy; 60% are functional (rapidly progressive Cushing’s syndrome + Virilisation in women due to co-secretion of cortisol and DHEAS/androgens)."
+          },
+          {
+            "title": "Pathology",
+            "detail": "Large (>6–10 cm), invasive tumours; histological malignancy is assessed by the Modified Weiss Score (≥ 3 indicates malignancy) and Ki-67 index (>10% high risk)."
+          },
+          {
+            "title": "Treatment",
+            "detail": "Open En Bloc Radical Adrenalectomy (resecting adjacent kidney, spleen, distal pancreas, or liver wall if invaded to achieve R0 margins) + Adjuvant Mitotane (adrenolytic drug; requires concurrent hydrocortisone replacement) ± EDP (Etoposide, Doxorubicin, Cisplatin) chemotherapy."
+          },
+          {
+            "title": "Pancreatic Neuroendocrine Tumours (P-NETs) (Table 57.4):"
+          }
+        ]
+      },
+      {
+        "title": "1. Insulinoma (Commonest Functioning P-NET — 70–80%)",
+        "children": [
+          {
+            "title": "Rule of 90s",
+            "detail": "90% are benign, 90% are solitary, 90% are <2 cm, and equally distributed across the head, body, and tail of the pancreas; 10% are associated with MEN 1 (often multiple)."
+          },
+          {
+            "title": "Clinical Diagnosis — Whipple’s Triad",
+            "children": [
+              {
+                "title": "Symptoms and signs of neuroglycopenia/hypoglycaemia precipitated by fasting or exercise (confusion, visual disturbances, bizarre behaviour, seizures, coma, sweating, palpitations; patients gain weight because they eat frequently to prevent attacks)."
+              },
+              {
+                "title": "Documented plasma glucose <3.0 mmol/L (<50 mg/dL) at the time of symptoms."
+              },
+              {
+                "title": "Immediate relief of symptoms upon oral or IV administration of glucose."
+              },
+              {
+                "title": "Biochemical Confirmation (Supervised 72-Hour Fast Test — Gold Standard)",
+                "detail": "Concomitant blood glucose <2.5–3.0 mmol/L + inappropriately elevated serum Insulin (>6 μU/mL) + elevated C-Peptide (>0.2 nmol/L) and Proinsulin, with negative sulfonylurea screen (elevated C-peptide rules out factitious exogenous insulin administration, where C-peptide is suppressed)."
+              },
+              {
+                "title": "Localisation",
+                "detail": "Pancreatic protocol CT/MRI + Endoscopic Ultrasonography (EUS — >90% sensitive) + Intra-arterial Calcium Stimulation with Hepatic Venous Sampling (for occult/MEN 1 lesions) or GLP-1 receptor PET-CT."
+              },
+              {
+                "title": "Treatment",
+                "detail": "Preoperative Diazoxide (inhibits insulin release from β-cells) and frequent carbohydrate meals → Laparoscopic or Open Surgical Enucleation (with intraoperative ultrasound to confirm the tumour is >2–3 mm away from the main pancreatic duct; distal pancreatectomy if in the tail or MEN 1)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Gastrinoma (Zollinger–Ellison Syndrome — ZES)",
+        "children": [
+          {
+            "title": "Pathology",
+            "detail": "Gastrin-secreting NET causing massive gastric acid hypersecretion; 60–90% are malignant; 20–25% occur as part of MEN 1. 70–80% are actually located in the submucosa of the first/second part of the Duodenum (small <1 cm and multiple in MEN 1) rather than the pancreas."
+          },
+          {
+            "title": "Passaro’s Gastrinoma Triangle (Houses 90% of Gastrinomas)",
+            "detail": "Bounded superiorly by the junction of the cystic and common bile ducts, inferiorly by the junction of the second and third parts of the duodenum, and medially by the junction of the neck and body of the pancreas."
+          },
+          {
+            "title": "Clinical Features",
+            "detail": "Severe, refractory, multiple peptic ulcers in atypical sites (distal duodenum/jejunum) + chronic secretory diarrhoea and steatorrhoea (high gastric acid inactivates pancreatic lipase and precipitates bile salts; diarrhoea resolves with nasogastric aspiration)."
+          },
+          {
+            "title": "Diagnosis",
+            "detail": "Fasting Serum Gastrin (FSG) >10 × normal (>1000 pg/mL) in the presence of basal gastric pH <2.0. If FSG is borderline (100–1000 pg/mL), perform a Secretin Stimulation Test (provokes a paradoxical rise in serum gastrin >200 pg/mL in gastrinoma). Localised by ⁶⁸Ga-DOTATATE PET-CT (SSTR-PET) and EUS. Always screen for MEN 1 (serum calcium/PTH)."
+          },
+          {
+            "title": "Treatment",
+            "detail": "High-dose Proton Pump Inhibitors (Omeprazole/Pantoprazole) + Surgical resection/duodenotomy with peripancreatic lymph node dissection for sporadic gastrinomas (in MEN 1, parathyroidectomy is performed first, and surgery is reserved for pancreatic tumours >2 cm)."
+          }
+        ]
+      },
+      {
+        "title": "3. Rare Functioning & Non-Functioning P-NETs",
+        "children": [
+          {
+            "title": "VIPoma (Verner–Morrison / WDHA Syndrome)",
+            "detail": "Secretes Vasoactive Intestinal Polypeptide → Watery Diarrhoea (profuse tea-coloured secretory diarrhoea >3–5 L/day), Hypokalaemia, and Achlorhydria (“Pancreatic Cholera”); treated with Octreotide, fluid/electrolyte resuscitation, and distal pancreatectomy."
+          },
+          {
+            "title": "Glucagonoma (α-cell tumour)",
+            "detail": "Causes the “4 D’s”: Dermatitis (pathognomonic Necrolytic Migratory Erythema around perineum/perioral/extremities), Diabetes mellitus, Deep vein thrombosis, and Depression/Weight loss + painful glossitis/stomatitis and normocytic anaemia."
+          },
+          {
+            "title": "Somatostatinoma (δ-cell tumour)",
+            "detail": "Classic triad of Diabetes mellitus + Cholelithiasis (gallstones) + Steatorrhoea/Diarrhoea; duodenal periampullary somatostatinomas contain psammoma bodies and are associated with NF-1."
+          },
+          {
+            "title": "Non-Functioning P-NETs (NF-P-NETs — 60–90% of all P-NETs; Fig 57.16): Express Chromogranin A, Synaptophysin, and Pancreatic Polypeptide (PP) without a hormonal syndrome. Asymptomatic Grade 1 tumours <2 cm can be safely observed with serial EUS/MRI; tumours >2 cm or symptomatic/Grade 2 require surgical resection."
+          },
+          {
+            "title": "Gastrointestinal Neuroendocrine Tumours (GI-NETs / Carcinoid Tumours)"
+          }
+        ]
+      },
+      {
+        "title": "1. Gastric NETs (3 Types arising from Enterochromaffin-like [ECL] cells)",
+        "children": [
+          {
+            "title": "Type I (70–80%)",
+            "detail": "Multiple small (<1 cm), benign polyps associated with chronic autoimmune atrophic gastritis / pernicious anaemia (achlorhydria → high gastric pH → hypergastrinaemia drives ECL hyperplasia); treated conservatively with endoscopic surveillance/polypectomy."
+          },
+          {
+            "title": "Type II (5%)",
+            "detail": "Multiple small polyps secondary to Zollinger–Ellison Syndrome / MEN 1 (low gastric pH + high gastrin)."
+          },
+          {
+            "title": "Type III (15–20%)",
+            "detail": "Sporadic, solitary, large (>2 cm) infiltrative tumour with normal gastrin levels; behaves aggressively like gastric adenocarcinoma → requires radical gastrectomy + lymphadenectomy."
+          }
+        ]
+      },
+      {
+        "title": "2. Small Bowel (Midgut) NETs & Carcinoid Syndrome",
+        "children": [
+          {
+            "title": "Arise from Kulchitsky (enterochromaffin) cells in the terminal ileum (30% are multifocal). Secrete 5-Hydroxytryptamine (Serotonin), Substance P, Kallikrein, and Histamine."
+          },
+          {
+            "title": "Desmoplastic Mesenteric Reaction",
+            "detail": "Nodal metastases at the root of the mesentery release serotonin and growth factors that induce intense retroperitoneal fibrosis, drawing in and kinking bowel loops and constricting the superior mesenteric vessels (“spoke-wheel / sunburst” appearance on CT — Fig 57.18), causing chronic postprandial mesenteric ischaemia and small bowel obstruction."
+          },
+          {
+            "title": "Carcinoid Syndrome (Occurs in 20–30%, ONLY when liver metastases or retroperitoneal/bronchial primaries bypass hepatic first-pass monoamine oxidase degradation of serotonin):"
+          },
+          {
+            "title": "Episodic Cutaneous Flushing (90%) of face/neck, Secretory Watery Diarrhoea (70%), abdominal cramps, Bronchospasm/Wheezing, telangiectasia, pellagra (niacin/tryptophan depletion), and Carcinoid Heart Disease (Hedinger’s Syndrome): Endocardial fibrosis producing Tricuspid Regurgitation and Pulmonary Stenosis (right-sided heart valves; left heart valves are spared because pulmonary endothelial monoamine oxidase inactivates serotonin)."
+          },
+          {
+            "title": "Diagnosis",
+            "detail": "Elevated serum Chromogranin A + elevated 24-hour Urinary 5-HIAA (5-hydroxyindoleacetic acid) + Contrast CT/MRI + ⁶⁸Ga-DOTATOC / DOTATATE PET-CT + Echocardiography."
+          },
+          {
+            "title": "Management (Summary Box 57.3):"
+          },
+          {
+            "title": "Medical / Perioperative Cover",
+            "detail": "Long-acting Somatostatin Analogues (Octreotide LAR or Lanreotide) control flushing/diarrhoea and exert an antiproliferative effect (mandatory IV Octreotide infusion during anaesthesia/surgery to prevent a fatal Carcinoid Crisis — profound hypotension, bronchospasm, and arrhythmias). Second-line systemic therapy for metastatic disease is Peptide Receptor Radionuclide Therapy (PRRT) using ¹⁷⁷Lu-DOTATATE or Everolimus."
+          },
+          {
+            "title": "Surgical",
+            "detail": "Radical resection of the small bowel primary, mesenteric nodal mass (preserving SMA branches), synchronous liver metastasectomy/RFA, and prophylactic cholecystectomy (because long-term Octreotide causes gallstones)."
+          }
+        ]
+      },
+      {
+        "title": "3. Appendiceal NETs (Commonest tumour of the appendix)",
+        "children": [
+          {
+            "title": "Found incidentally at the tip of the appendix in 0.3–0.5% of appendicectomies."
+          },
+          {
+            "title": "Size-Based Surgical Rule",
+            "children": [
+              {
+                "title": "<1 cm",
+                "detail": "Simple Appendicectomy alone is 100% curative (no follow-up needed)."
+              },
+              {
+                "title": "1–2 cm",
+                "detail": "Appendicectomy is sufficient unless high-risk features are present (positive base margin, deep mesoappendiceal invasion >3 mm, Grade 2/3, or lymphovascular invasion), which warrant a right hemicolectomy."
+              },
+              {
+                "title": ">2 cm",
+                "detail": "Perform a formal Oncological Right Hemicolectomy."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t42",
+    "title": "8. Chapter 58, 61 & 62: Breast, Arterial & Venous Disorders (Remaining Topics)",
+    "children": [
+      {
+        "title": "Breast — Additional Entities (Ch. 58):"
+      },
+      {
+        "title": "Poland’s Syndrome",
+        "detail": "Congenital unilateral absence of the sternocostal head of Pectoralis Major, hypoplasia/absence of the breast and nipple (amazia/athelia), deficiency of subcutaneous fat, costal cartilage defects (ribs 2–4), and ipsilateral symbrachydactyly (short, webbed fingers)."
+      },
+      {
+        "title": "Mondor’s Disease [TU]",
+        "detail": "Superficial thrombophlebitis of the thoracoepigastric or lateral thoracic vein of the breast and anterior chest wall (idiopathic or post-biopsy/trauma). Presents with acute linear pain and a palpable, tender, subcutaneous cord-like structure that forms a characteristic vertical skin groove/furrow (“bowstring sign”) when the arm is raised. Self-limiting within 4–6 weeks; treated with reassurance and NSAIDs (after mammogram excludes occult cancer)."
+      },
+      {
+        "title": "Paget’s Disease of the Nipple",
+        "detail": "Eczematous, crusted, weeping erosion of the nipple that destroys the nipple and spreads onto the areola (unlike benign eczema, it is unilateral, destroys the nipple apex first, does not itch severely, and fails to respond to topical steroids). Histologically characterised by large, pale, vacuolated intraepidermal adenocarcinoma cells (Paget cells) derived from underlying DCIS or invasive ductal carcinoma (present in >95%). Diagnosed by wedge/punch biopsy of the nipple + mammography/MRI; treated by central cone excision + radiotherapy (if confined to retroareolar DCIS) or Mastectomy + SLNB."
+      },
+      {
+        "title": "Breast Cancer in Pregnancy",
+        "detail": "Often presents late with aggressive TNBC biology. USG and core biopsy are safe (mammogram with fetal shielding is safe; avoid gadolinium MRI, CT, and bone scans). Surgery (MRM) is safe in all trimesters (BCS is only feasible in the 3rd trimester when radiotherapy can be given postpartum). Chemotherapy (Anthracyclines/Taxanes) is contraindicated in the 1st trimester (teratogenic during organogenesis) but safe in the 2nd and 3rd trimesters (stopped at 34 weeks). Radiotherapy, Tamoxifen, and Trastuzumab are strictly contraindicated throughout pregnancy."
+      },
+      {
+        "title": "Male Breast Cancer",
+        "detail": "Accounts for <0.5–1% of breast cancers; associated with BRCA2 mutations and Klinefelter’s syndrome (47,XXY). Presents in elderly men as a painless, hard subareolar lump with early invasion of the nipple–areola complex, skin ulceration, and pectoralis major fixation (due to scant breast parenchyma). >90% are ER-positive; treated with Modified Radical Mastectomy (or Simple mastectomy + SLNB), adjuvant radiotherapy, chemotherapy, and Tamoxifen for 5–10 years."
+      },
+      {
+        "title": "Breast Angiosarcoma",
+        "detail": "Highly lethal mesenchymal malignancy arising either de novo in young women or secondary to breast-conserving radiotherapy / chronic post-mastectomy lymphoedema (Stewart–Treves syndrome) 5–10 years after treatment; presents as a bruised-looking purple skin plaque/nodule; treated by wide mastectomy."
+      },
+      {
+        "title": "Arterial Disorders — Additional Entities (Ch. 61):"
+      },
+      {
+        "title": "Carotid Artery Stenosis & Endarterectomy (Summary Box 61.2):"
+      },
+      {
+        "title": "Atheromatous plaque at the carotid bifurcation / origin of the Internal Carotid Artery (ICA) embolises platelet-fibrin thrombi (Hollenhorst cholesterol crystals in retinal arteries), causing ipsilateral Amaurosis Fugax (transient monocular blindness — “curtain coming down over one eye”), contralateral hemiparesis/hemisensory TIA or stroke, or dysphasia."
+      },
+      {
+        "title": "Indication for Carotid Endarterectomy (CEA) (NASCET / ECST Trials)",
+        "detail": "Symptomatic patients with 50–99% ICA stenosis on Duplex USG/CTA, ideally performed within 2 weeks of the index TIA/minor stroke (preserving the hypoglossal, vagus, glossopharyngeal, and marginal mandibular nerves and closing the arteriotomy with a patch angioplasty using a temporary intraluminal shunt)."
+      },
+      {
+        "title": "Subclavian Steal Syndrome",
+        "detail": "Proximal occlusion/stenosis of the first part of the subclavian artery proximal to the origin of the vertebral artery. Exercising the ipsilateral arm lowers arm vascular resistance, causing retrograde blood flow down the ipsilateral vertebral artery (“stealing” blood from the basilar/vertebrobasilar cerebral circulation) → arm claudication + vertebrobasilar syncope, vertigo, ataxia, and visual disturbances on arm exercise, accompanied by a >20 mmHg blood pressure discrepancy between the two arms. Treated by subclavian angioplasty and stenting or carotid–subclavian bypass."
+      },
+      {
+        "title": "Popliteal Artery Aneurysm",
+        "children": [
+          {
+            "title": "Commonest peripheral arterial aneurysm (70%); 50% are bilateral and 30–40% have a coexisting Abdominal Aortic Aneurysm."
+          },
+          {
+            "title": "Rarely ruptures; instead, it presents with limb-threatening acute thrombosis or chronic distal thromboembolism (“trash foot”) that progressively occludes the crural run-off vessels (carrying a 50% amputation rate once acute thrombosis occurs)."
+          },
+          {
+            "title": "Indications for Elective Repair",
+            "detail": "Any symptomatic popliteal aneurysm, or any asymptomatic popliteal aneurysm ≥ 2.0 cm in diameter (especially if lined with mural thrombus). Repaired via Medial approach proximal-and-distal ligation + reversed GSV Exclusion Bypass or Posterior approach inlay graft repair."
+          }
+        ]
+      },
+      {
+        "title": "Other Arteritides & Cystic Adventitial Disease",
+        "children": [
+          {
+            "title": "Temporal (Giant Cell) Arteritis",
+            "detail": "Granulomatous arteritis of medium/large cranial branches in patients >50 years causing unilateral throbbing headache, jaw claudication, scalp tenderness, tender pulseless cord-like superficial temporal artery, and ESR >50 mm/h. Immediate high-dose oral/IV Prednisolone must be started before temporal artery biopsy to prevent irreversible blindness from anterior ischaemic optic neuropathy (ophthalmic artery occlusion)."
+          },
+          {
+            "title": "Takayasu’s Arteritis (“Pulseless Disease”)",
+            "detail": "Pan-arteritis of the aortic arch and its major branches in young Asian women (<40 years), leading to absent upper limb pulses, hypertension (renal artery stenosis), and ocular/cerebral ischaemia."
+          },
+          {
+            "title": "Cystic Myxomatous Adventitial Degeneration",
+            "detail": "Accumulation of mucinous synovial-like jelly within the adventitia of the popliteal artery in young non-smoking men, compressing the lumen to cause intermittent claudication (Ishikawa’s sign: pedal pulses disappear on sharp knee flexion); treated by evacuation or interposition vein graft."
+          },
+          {
+            "title": "Venous Disorders — Additional Entities (Ch. 62):"
+          },
+          {
+            "title": "Pelvic Congestion Syndrome (PCS)",
+            "detail": "Chronic non-cyclical dull pelvic ache, dyspareunia, and vulval/perineal/posterior thigh varicosities in multiparous premenopausal women caused by incompetence of the ovarian (gonadal) and internal iliac veins; diagnosed by transvaginal duplex/MR venography and treated by percutaneous transcatheter ovarian vein coil embolisation."
+          },
+          {
+            "title": "Effort Axillary–Subclavian Vein Thrombosis (Paget–Schrötter Syndrome)",
+            "detail": "Primary thrombosis of the axillary/subclavian vein in young athletes/weightlifters following repetitive overhead arm exertion due to venous thoracic outlet compression at the costoclavicular space (between the first rib, subclavius muscle/costoclavicular ligament, and clavicle, or a cervical rib). Presents with an acutely swollen, aching, cyanosed arm and dilated shoulder collaterals. Treated by urgent catheter-directed thrombolysis followed by surgical thoracic outlet decompression (First Rib Resection) and anticoagulation."
+          },
+          {
+            "title": "Venous Trauma & Venous Tumours",
+            "detail": "Major axial venous injuries (especially the popliteal vein and IVC) should be repaired (via lateral venorrhaphy, vein patch, Carrel triangulation end-to-end anastomosis, or autologous panel/spiral saphenous vein graft) rather than ligated to prevent severe venous hypertension and limb loss, accompanied by calf fasciotomy if combined with arterial injury. Leiomyosarcoma of the Inferior Vena Cava is the commonest primary malignant venous tumour (presents with Budd–Chiari syndrome or lower limb oedema; treated by radical resection and prosthetic graft reconstruction)."
+          },
+          {
+            "title": "HONEST VERDICT",
+            "detail": "IS THIS ENOUGH IF YOU HAVEN’T READ THE TEXTBOOK?"
+          }
+        ]
+      },
+      {
+        "title": "1. Why it looks \"short\" on screen, but is actually massive in content",
+        "children": [
+          {
+            "title": "Word & Page Count",
+            "detail": "The file you pasted contains ~16,500 words. When pasted into Microsoft Word (Times New Roman, 12 pt, 1.25 spacing, single column) along with the 12 tables and 30 textbook figures, it comes out to 48 to 55 pages."
+          },
+          {
+            "title": "Why is it 50 pages instead of 210 pages (the length of the 11 textbook chapters)?"
+          },
+          {
+            "title": "Bailey & Love is written in narrative paragraphs with historical anecdotes, case stories, and conversational filler."
+          },
+          {
+            "title": "Your notes strip out 100% of the conversational fluff and convert every paragraph into direct marking-scheme bullet points and side-headings (Definition, Etiopathogenesis, Pathology, Clinical Features, Investigations, Management, Complications)."
+          },
+          {
+            "title": "The Physics of a 3-Hour Surgery Exam",
+            "children": [
+              {
+                "title": "In a 3-hour theory exam, a student can physically handwrite at most 3,500 to 4,000 words total (~400–500 words for a Long Essay, ~150–200 words for a Short Essay, and ~75–100 words for a Short Answer)."
+              },
+              {
+                "title": "Every Long Essay and Short Essay in your notes already contains 400 to 900 words of pure, high-yield points—which is more than you can physically write in the exam hall."
+              },
+              {
+                "title": "If you haven't read the textbook yet and have limited time",
+                "detail": "Trying to read 210 pages of dense 2-column Bailey & Love text for the first time will cause severe information overload, and you will struggle to recall structured headings during the exam. Studying structured, side-headed notes is the fastest and safest way to score distinction marks on a first read."
+              },
+              {
+                "title": "2. What was slightly too brief in your file? (The 8 Gaps We Need to Expand)"
+              },
+              {
+                "title": "When I audited your pasted file line-by-line from the perspective of a first-time reader facing potential 5-mark surprise Short Essays, I found 8 specific areas where the notes were either condensed into 3–4 lines in Part C or needed a fuller explanation so you can understand them on your first read and fill 1.5 pages in the exam:"
+              },
+              {
+                "title": "Triangles of the Neck (Asked in Question Bank 8.1 Short Essay #4: \"Draw and illustrate the triangles of neck...\", which was not included in the thyroid section)."
+              },
+              {
+                "title": "Operative Steps of Thyroidectomy & Intraoperative Nerve Monitoring (Explicitly a core Learning Objective of Chapter 55)."
+              },
+              {
+                "title": "Tuberculous Mastitis & Idiopathic Granulomatous Mastitis (IGM) (Very high-yield Indian exam Short Essays in Chapter 58 that were only 4 lines in Part C)."
+              },
+              {
+                "title": "Operative Steps of Modified Radical Mastectomy (MRM) & Breast Reconstruction (Core surgical steps from Chapter 58)."
+              },
+              {
+                "title": "Adrenal Insufficiency (Addisonian Crisis), Congenital Adrenal Hyperplasia (CAH) & Operative Steps of Laparoscopic Adrenalectomy (Chapter 57 topics that were condensed in Part C)."
+              },
+              {
+                "title": "Acute & Chronic Mesenteric Ischaemia (Intestinal Angina) (Chapter 61 topic condensed in Part C)."
+              },
+              {
+                "title": "Cervical Rib & Thoracic Outlet Syndrome (Covered across Chapters 61 & 62)."
+              },
+              {
+                "title": "Post-Amputation Complications & Amputee Rehabilitation (Explicitly asked in Long Essay 10.1 Q1: \"How is the patient rehabilitated?\")."
+              },
+              {
+                "title": "Below is the 10-Page Zero-Gap Expansion Pack covering these 8 topics in full, easy-to-understand detail. Append this section to the end of your file, and you will not need to open the textbook at all."
+              },
+              {
+                "title": "1. Triangles of the Neck (Anatomy & Surgical Importance)"
+              },
+              {
+                "title": "(Covers Question Bank 8.1 Short Essay #4 [RGU])"
+              },
+              {
+                "title": "Overview",
+                "detail": "The side of the neck is a quadrilateral region divided obliquely by the Sternocleidomastoid (SCM) muscle into a Large Anterior Triangle (in front of SCM) and a Posterior Triangle (behind SCM)."
+              },
+              {
+                "title": "A. Anterior Triangle of the Neck"
+              }
+            ]
+          },
+          {
+            "title": "Boundaries",
+            "children": [
+              {
+                "title": "Anteriorly",
+                "detail": "Anterior median line of the neck (from chin/symphysis menti to suprasternal notch)."
+              },
+              {
+                "title": "Posteriorly",
+                "detail": "Anterior border of the Sternocleidomastoid muscle."
+              },
+              {
+                "title": "Superiorly (Base)",
+                "detail": "Lower border of the body of the mandible and a line extending from the angle of the mandible to the mastoid process."
+              },
+              {
+                "title": "Inferiorly (Apex)",
+                "detail": "Suprasternal notch on the manubrium sterni."
+              },
+              {
+                "title": "Roof",
+                "detail": "Investing layer of deep cervical fascia, platysma, and skin."
+              }
+            ]
+          },
+          {
+            "title": "Subdivisions (Divided by the Digastric muscle and Superior belly of Omohyoid into 4 triangles)",
+            "children": [
+              {
+                "title": "[[TABLE:surgery-tbl-009]]"
+              },
+              {
+                "title": "B. Posterior Triangle of the Neck"
+              }
+            ]
+          },
+          {
+            "title": "Boundaries",
+            "children": [
+              {
+                "title": "Anteriorly",
+                "detail": "Posterior border of the Sternocleidomastoid muscle."
+              },
+              {
+                "title": "Posteriorly",
+                "detail": "Anterior border of the Trapezius muscle."
+              },
+              {
+                "title": "Inferiorly (Base)",
+                "detail": "Middle third of the clavicle."
+              },
+              {
+                "title": "Superiorly (Apex)",
+                "detail": "Meeting point of SCM and Trapezius on the superior nuchal line of the occipital bone."
+              },
+              {
+                "title": "Roof",
+                "detail": "Investing layer of deep cervical fascia (pierced by the 4 cutaneous branches of the cervical plexus at Erb’s point: Lesser occipital, Great auricular, Transverse cervical, and Supraclavicular nerves, plus the External jugular vein)."
+              },
+              {
+                "title": "Floor",
+                "detail": "Prevertebral fascia covering Splenius capitis, Levator scapulae, and Scalenus posterior, medius, and anterior."
+              }
+            ]
+          },
+          {
+            "title": "Subdivisions (Divided by the Inferior belly of Omohyoid into 2 triangles)"
+          },
+          {
+            "title": "Occipital Triangle (Upper, larger part)",
+            "children": [
+              {
+                "title": "Key Contents",
+                "detail": "Spinal Accessory Nerve (CN XI) (runs obliquely across the roof/levator scapulae from the junction of the upper and middle thirds of SCM to the junction of the middle and lower thirds of Trapezius — highly vulnerable during Level V lymph node biopsy; injury causes drooping of the shoulder and inability to abduct the arm above $90^\\circ$), Trunks of the brachial plexus, Transverse cervical vessels, and Level VA posterior triangle lymph nodes."
+              }
+            ]
+          },
+          {
+            "title": "Supraclavicular (Subclavian / Omoclavicular) Triangle (Lower, smaller part)",
+            "children": [
+              {
+                "title": "Key Contents",
+                "detail": "Third part of the Subclavian artery, Subclavian vein, Trunks of the brachial plexus, Suprascapular vessels, and Supraclavicular lymph nodes (Level VB) (including Virchow’s node on the left side at the thoracic duct termination)."
+              },
+              {
+                "title": "2. Operative Steps of Thyroidectomy & Intraoperative Nerve Monitoring"
+              },
+              {
+                "title": "(Covers Chapter 55 Learning Objective",
+                "detail": "\"To describe thyroidectomy\")"
+              },
+              {
+                "title": "Definitions of Thyroid Operations (Summary Box 55.2):"
+              },
+              {
+                "title": "Total Lobectomy (Hemithyroidectomy)",
+                "detail": "Complete removal of one thyroid lobe + isthmusectomy."
+              },
+              {
+                "title": "Total Thyroidectomy",
+                "detail": "$2 \\times \\text{Total Lobectomy} + \\text{Isthmusectomy}$ (and pyramidal lobe if present)."
+              },
+              {
+                "title": "Near-Total Thyroidectomy (Dunhill Procedure)",
+                "detail": "Total lobectomy on one side + isthmusectomy + subtotal lobectomy on the contralateral side."
+              },
+              {
+                "title": "Subtotal Thyroidectomy",
+                "detail": "Bilateral subtotal lobectomy + isthmusectomy (leaving up to $4–8\\text{ g}$ remnant on each side; rarely performed today due to high recurrence rates)."
+              },
+              {
+                "title": "Step-by-Step Operative Technique of Thyroidectomy",
+                "detail": "[REFER FIGURE- Fig 55.19, Page 864]"
+              }
+            ]
+          },
+          {
+            "title": "Positioning & Draping",
+            "children": [
+              {
+                "title": "Supine under general anaesthesia using an electromyographic (EMG) nerve-monitoring endotracheal tube positioned between the vocal cords."
+              },
+              {
+                "title": "Head is placed on a head ring with a sandbag/roll between the scapulae to extend the neck, and the table is tilted $15^\\circ$ head-up (Reverse Trendelenburg to reduce venous engorgement)."
+              }
+            ]
+          },
+          {
+            "title": "Incision & Subplatysmal Flaps",
+            "children": [
+              {
+                "title": "A curvilinear transverse collar incision (Kocher’s incision) is placed in a natural skin crease $1–2\\text{ cm}$ above the suprasternal notch (at the level of the cricoid/upper border of the thyroid isthmus) between the anterior borders of the SCM muscles."
+              },
+              {
+                "title": "Incise skin and platysma; raise subplatysmal flaps superiorly up to the thyroid cartilage notch and inferiorly down to the suprasternal notch (staying superficial to the anterior jugular veins)."
+              }
+            ]
+          },
+          {
+            "title": "Opening the Midline & Mobilising Strap Muscles",
+            "children": [
+              {
+                "title": "Incise the investing layer of deep cervical fascia vertically in the avascular midline raphe between the sternohyoid muscles, and then dissect the deeper sternothyroid muscle off the thyroid capsule laterally until the internal jugular vein, common carotid artery, and vagus nerve (stimulated to confirm nerve monitor function — $V_1$ signal) are identified."
+              }
+            ]
+          },
+          {
+            "title": "Ligation of the Middle Thyroid Vein & Mobilisation of the Upper Pole",
+            "children": [
+              {
+                "title": "Ligate and divide the middle thyroid vein (the first vascular structure encountered laterally) to allow medial rotation of the thyroid lobe."
+              },
+              {
+                "title": "Retract the sternothyroid muscle superolaterally to expose the superior thyroid vascular pedicle. Ligate and divide the superior thyroid artery and vein branches individually right on the thyroid capsule (low ligation) to protect:"
+              },
+              {
+                "title": "The External Branch of the Superior Laryngeal Nerve (EBSLN) (which runs medially towards the cricothyroid muscle in Joll’s sternothyrolaryngeal triangle)."
+              },
+              {
+                "title": "The blood supply to the superior parathyroid gland."
+              }
+            ]
+          },
+          {
+            "title": "Identification of the Recurrent Laryngeal Nerve (RLN) & Parathyroid Preservation",
+            "children": [
+              {
+                "title": "Rotate the thyroid lobe medially and anteriorly. Identify the Recurrent Laryngeal Nerve in Beahrs’ triangle (bounded by the common carotid artery, inferior thyroid artery, and RLN) or just posterior/medial to the tubercle of Zuckerkandl, and trace it up to its entry point into the larynx behind the cricothyroid joint."
+              },
+              {
+                "title": "Identify both the superior and inferior parathyroid glands within their surrounding halo of fat and gently sweep them posteriorly off the thyroid capsule on their vascular pedicles. Do not ligate the main trunk of the inferior thyroid artery; instead, ligate its terminal capsular branches on the surface of the thyroid gland to preserve the end-artery blood supply to the parathyroids."
+              }
+            ]
+          },
+          {
+            "title": "Division of Berry’s Ligament & Delivery of the Gland",
+            "children": [
+              {
+                "title": "Keeping the RLN under direct vision at all times (where it is at greatest risk of traction or thermal injury), carefully divide the condensation of pretracheal fascia (Berry’s ligament) layer-by-layer using fine ties or bipolar cautery."
+              },
+              {
+                "title": "Dissect the thyroid lobe and isthmus (along with any pyramidal lobe) off the anterior surface of the trachea. For a total thyroidectomy, repeat the exact same dissection on the contralateral side."
+              }
+            ]
+          },
+          {
+            "title": "Haemostasis & Closure",
+            "children": [
+              {
+                "title": "Irrigate with warm saline, perform a Valsalva manoeuvre (raising intrathoracic venous pressure to $40\\text{ cmH}_2\\text{O}$) to identify any occult venous bleeding points, and confirm recurrent laryngeal and vagus nerve integrity ($R_2$ and $V_2$ signals)."
+              },
+              {
+                "title": "Approximate the sternohyoid strap muscles loosely in the midline with interrupted absorbable sutures (leave a gap inferiorly so any postoperative haematoma can decompress into the subcutaneous space rather than compressing the trachea). Close platysma and skin (subcuticular absorbable suture)."
+              }
+            ]
+          },
+          {
+            "title": "New Technology in Thyroid Surgery",
+            "children": [
+              {
+                "title": "Intraoperative Neuromonitoring (IONM)",
+                "detail": "Uses surface electrodes on the endotracheal tube to detect vocal cord electromyography when the RLN or vagus nerve is stimulated:"
+              },
+              {
+                "title": "Intermittent IONM",
+                "detail": "Hand-held stimulator probe aids nerve identification in reoperative/malignant cases and prevents bilateral vocal cord palsy (if loss of signal occurs on the first side, staging the contralateral lobectomy prevents bilateral RLN paralysis and tracheostomy)."
+              },
+              {
+                "title": "Continuous IONM",
+                "detail": "An electrode clip placed around the vagus nerve provides real-time alerts of amplitude drop/latency increase caused by excessive traction before irreversible nerve injury occurs."
+              },
+              {
+                "title": "3. Tuberculosis of the Breast & Idiopathic Granulomatous Mastitis (IGM)"
+              },
+              {
+                "title": "(Covers Chapter 58 High-Yield Inflammatory Breast Diseases)"
+              },
+              {
+                "title": "A. Tuberculosis of the Breast (Tubercular Mastitis)"
+              },
+              {
+                "title": "Epidemiology",
+                "detail": "Rare in Western countries ($<0.1%$), but accounts for up to 3–4% of breast lesions in endemic countries like India, typically affecting multiparous, lactating women aged 20–40 years."
+              }
+            ]
+          },
+          {
+            "title": "Modes of Spread to the Breast (5 Routes)",
+            "children": [
+              {
+                "title": "Retrograde lymphatic spread (Commonest)",
+                "detail": "From caseating axillary, internal mammary, or cervical lymph nodes."
+              },
+              {
+                "title": "Direct contiguous extension",
+                "detail": "From tuberculous osteitis/chondritis of an underlying rib or costochondral junction, or empyema necessitans from the pleura."
+              },
+              {
+                "title": "Haematogenous spread",
+                "detail": "In miliary tuberculosis."
+              },
+              {
+                "title": "Ductal infection",
+                "detail": "Direct entry through a cracked/abraded nipple during lactation (rare)."
+              }
+            ]
+          },
+          {
+            "title": "Clinical Forms (Tewari & Shukla / McKeown & Wilkinson Classification)",
+            "children": [
+              {
+                "title": "Nodular (Caseous) Tubercular Mastitis (Commonest)",
+                "detail": "Slow-growing, painless or mildly painful, poorly defined, firm-to-hard lump that closely mimics breast carcinoma; later softens centrally to form a cold abscess that ruptures through the skin into multiple chronic discharging sinuses with undermined edges and bluish surrounding skin. [REFER FIGURE- Fig 58.26, Page 930]"
+              },
+              {
+                "title": "Disseminated (Confluent) Tubercular Mastitis",
+                "detail": "Multiple coalescing caseating tubercles throughout the breast producing numerous sinuses (\"watering-can breast\")."
+              },
+              {
+                "title": "Sclerosing Tubercular Mastitis",
+                "detail": "Dense fibrosis dominates over caseation (more common in older women); causes a stony-hard, shrunken breast with nipple retraction and skin dimpling, indistinguishable clinically from scirrhous carcinoma."
+              }
+            ]
+          },
+          {
+            "title": "Diagnosis",
+            "children": [
+              {
+                "title": "Imaging",
+                "detail": "USG/Mammography + Chest X-ray/CT Thorax (to look for pulmonary/nodal/rib foci)."
+              },
+              {
+                "title": "Pathology & Microbiology",
+                "detail": "Core needle biopsy or wedge biopsy from the sinus wall demonstrates epithelioid cell granulomas with Langhans giant cells and caseous necrosis. Pus/tissue is sent for Ziehl–Neelsen (ZN) staining for Acid-Fast Bacilli (AFB), GeneXpert MTB/RIF (CBNAAT — rapid PCR detecting M. tuberculosis and rifampicin resistance), and Lowenstein–Jensen / MGIT mycobacterial culture (gold standard)."
+              }
+            ]
+          },
+          {
+            "title": "Treatment",
+            "children": [
+              {
+                "title": "Standard 6–9 Months Anti-Tuberculous Therapy (ATT)",
+                "detail": "2 months Intensive Phase (HRZE: Isoniazid, Rifampicin, Pyrazinamide, Ethambutol) followed by 4–7 months Continuation Phase (HRE)."
+              },
+              {
+                "title": "Surgical Intervention",
+                "detail": "Limited to ultrasound-guided aspiration of cold abscesses, curettage/excision of persistent non-healing sinus tracts, or excision of residual fibrotic masses."
+              },
+              {
+                "title": "B. Idiopathic Granulomatous Mastitis (IGM)"
+              },
+              {
+                "title": "Definition & Etiology",
+                "detail": "A rare, benign, chronic inflammatory breast disease of unknown etiology occurring in young parous women within 2–5 years of pregnancy/lactation. Postulated triggers include an autoimmune reaction to extravasated fat/protein-rich luminal milk secretions, hyperprolactinaemia, and infection by lipophilic Corynebacterium kroppenstedtii."
+              },
+              {
+                "title": "Clinical Features",
+                "detail": "Presents as a firm, tender, unilateral peripheral or retroareolar breast mass that frequently develops multiple sterile microabscesses, skin erythema, ulceration, sinus tracts, peau d’orange, nipple retraction, and reactive axillary lymphadenopathy — clinically and radiologically mimicking locally advanced / inflammatory breast carcinoma and tuberculous mastitis."
+              }
+            ]
+          },
+          {
+            "title": "Diagnosis (Diagnosis of Exclusion)",
+            "children": [
+              {
+                "title": "Core Needle Biopsy",
+                "detail": "Shows lobulocentric non-caseating granulomatous inflammation (epithelioid histiocytes, multinucleated giant cells, neutrophils, and lymphocytes centred strictly around breast lobules)."
+              },
+              {
+                "title": "Mandatory Exclusion of Infective Granulomas",
+                "detail": "Negative ZN stain, negative GeneXpert MTB/RIF, negative mycobacterial culture, and negative fungal (PAS/GMS) stains. (In India, empirical ATT must NOT be given unless TB is proven, as it delays treatment and worsens IGM)."
+              }
+            ]
+          },
+          {
+            "title": "Management",
+            "children": [
+              {
+                "title": "Conservative / Expectant + NSAIDs & Antibiotics (Doxycycline or Clarithromycin if Corynebacterium is suspected) + USG-guided aspiration of collections (many mild cases burn out spontaneously over 6–12 months)."
+              },
+              {
+                "title": "Immunosuppressive Therapy (for progressive, painful, or ulcerating disease)",
+                "detail": "Oral Prednisolone ($0.5–1\\text{ mg/kg/day}$ tapered over 2–3 months) or topical steroid cream $\\pm$ weekly low-dose Methotrexate (steroid-sparing agent)."
+              },
+              {
+                "title": "Surgical",
+                "detail": "Wide excision of persistent chronic abscess complexes or Hadfield’s major duct excision if associated with a mammary duct fistula."
+              },
+              {
+                "title": "4. Operative Steps of Modified Radical Mastectomy (MRM)"
+              },
+              {
+                "title": "(Covers Chapter 58 Core Surgical Procedure)"
+              },
+              {
+                "title": "Definition",
+                "detail": "Complete en bloc removal of the entire breast parenchyma (including the nipple–areola complex, skin overlying the tumour, and the axillary tail of Spence), the pectoralis fascia, and Level I and II (with or without Level III) axillary lymph nodes, while preserving the pectoralis major muscle."
+              }
+            ]
+          },
+          {
+            "title": "Anatomical Boundaries of Dissection",
+            "children": [
+              {
+                "title": "Superior",
+                "detail": "Second rib / Subclavius muscle."
+              },
+              {
+                "title": "Inferior",
+                "detail": "Inframammary fold (6th rib / upper rectus sheath)."
+              },
+              {
+                "title": "Medial",
+                "detail": "Lateral border of the sternum."
+              },
+              {
+                "title": "Lateral",
+                "detail": "Anterior border of the Latissimus dorsi muscle."
+              }
+            ]
+          },
+          {
+            "title": "Step-by-Step Operative Technique",
+            "children": [
+              {
+                "title": "Positioning & Incision",
+                "detail": "Supine with the ipsilateral arm abducted to $90^\\circ$ on an arm-board. Make a transverse/oblique elliptical Stewart incision encompassing the nipple–areola complex, the skin overlying the tumour, and any previous core-biopsy scar."
+              },
+              {
+                "title": "Elevation of Skin Flaps",
+                "detail": "Raise superior and inferior skin flaps ($5–7\\text{ mm}$ uniform thickness) in the relatively avascular bloodless plane between the subcutaneous fat and the superficial layer of the premammary fascia (just superficial to the attachments of Cooper’s ligaments) up to the anatomical boundaries of the breast."
+              },
+              {
+                "title": "Excision of the Breast from Medial to Lateral",
+                "detail": "Dissect the breast and pectoralis major fascia cleanly off the underlying pectoralis major muscle fibres from medial to lateral (ligating or cauterising the perforating branches of the internal mammary artery), leaving the breast attached laterally by the axillary tail."
+              }
+            ]
+          },
+          {
+            "title": "Axillary Lymph Node Dissection (Levels I & II $\\pm$ III)",
+            "children": [
+              {
+                "title": "Incise the clavipectoral fascia at the lateral border of pectoralis major; retract pectoralis major and pectoralis minor superomedially (Auchincloss modification; or divide/excise pectoralis minor in Scanlon/Patey modification)."
+              },
+              {
+                "title": "Identify the Axillary Vein superiorly and clear all fibrofatty lymph-node-bearing tissue inferior to the axillary vein from Level II (behind pectoralis minor) and Level I (lateral to pectoralis minor) down to the floor of the axilla (subscapularis and serratus anterior)."
+              }
+            ]
+          },
+          {
+            "title": "Three Vital Nerves to Identify and Preserve in the Axilla",
+            "children": [
+              {
+                "title": "Long Thoracic Nerve of Bell ($C_5, C_6, C_7$)",
+                "detail": "Lies closely applied to the medial chest wall on the serratus anterior muscle (investment fascia must be kept intact; injury causes winging of the scapula)."
+              },
+              {
+                "title": "Thoracodorsal Nerve ($C_6, C_7, C_8$) & Thoracodorsal Vessels",
+                "detail": "Runs vertically on the posterior axillary wall to innervate latissimus dorsi (preserve for shoulder adduction and potential future LD flap reconstruction)."
+              },
+              {
+                "title": "Medial and Lateral Pectoral Nerves",
+                "detail": "Innervate pectoralis major and minor (injury causes pectoral muscle atrophy). (The intercostobrachial nerve [$T_2$] runs transversely across the central axilla; preserved if possible, or divided if encased by nodes, causing numbness of the upper inner arm)."
+              },
+              {
+                "title": "Haemostasis, Drains & Closure",
+                "detail": "Irrigate the wound, place two closed-suction Romovac drains (one in the axilla and one under the pectoral skin flaps), and close the skin in two layers without tension."
+              },
+              {
+                "title": "5. Adrenal Insufficiency, Congenital Adrenal Hyperplasia (CAH), Adrenal Haemorrhage & Laparoscopic Adrenalectomy"
+              },
+              {
+                "title": "(Covers Chapter 57 Remaining Core Topics)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "1. Adrenal Insufficiency & Acute Addisonian Crisis (Table 57.1)",
+        "children": [
+          {
+            "title": "Clinical Features of Chronic Primary Adrenal Insufficiency (Addison’s Disease)",
+            "detail": "Insidious fatigue, weakness, anorexia, weight loss, postural hypotension, salt craving, and buccal/palmar crease/scar hyperpigmentation (high pituitary POMC/ACTH/MSH due to loss of cortisol negative feedback). Biochemistry shows hyponatraemia, hyperkalaemia, hypoglycaemia, low 8 am serum cortisol, high plasma ACTH, and failure of cortisol to rise 30–60 minutes after $250\\text{ }\\mu\\text{g}$ IV/IM Tetracosactide (Short Synacthen Test)."
+          },
+          {
+            "title": "Acute Adrenal (Addisonian) Crisis (Life-Threatening Emergency)",
+            "children": [
+              {
+                "title": "Precipitants",
+                "detail": "Sepsis, surgery, trauma, bilateral adrenal haemorrhage/infarction (Waterhouse–Friderichsen syndrome in meningococcal septicaemia), or abrupt withdrawal of long-term exogenous steroid therapy."
+              },
+              {
+                "title": "Clinical Presentation",
+                "detail": "Refractory hypotensive shock, fever, severe abdominal pain, nausea, and vomiting (mimics an acute surgical abdomen), accompanied by hyponatraemia, hyperkalaemia, and hypoglycaemia."
+              }
+            ]
+          },
+          {
+            "title": "Immediate Management (Do NOT wait for hormone assay results)",
+            "children": [
+              {
+                "title": "Draw blood for random cortisol, ACTH, electrolytes, and glucose."
+              },
+              {
+                "title": "Immediate IV Hydrocortisone $100\\text{ mg}$ stat bolus, followed by $50–100\\text{ mg}$ IV 6-hourly ($200–400\\text{ mg}/24\\text{ h}$; at this high dose, hydrocortisone provides sufficient mineralocorticoid activity, so fludrocortisone is not needed acutely)."
+              },
+              {
+                "title": "Aggressive IV Fluid Resuscitation",
+                "detail": "$2–3\\text{ L}$ of 0.9% Normal Saline with 5% Dextrose in the first 6 hours to correct hypovolaemia, hyponatraemia, and hypoglycaemia."
+              },
+              {
+                "title": "Treat the precipitating infection with broad-spectrum IV antibiotics."
+              },
+              {
+                "title": "Maintenance (once stable)",
+                "detail": "Lifelong oral Hydrocortisone ($15–25\\text{ mg/day}$ in 2–3 divided doses: e.g., $10\\text{ mg}$ morning, $5\\text{ mg}$ midday, $5\\text{ mg}$ early evening) + Fludrocortisone ($0.05–0.2\\text{ mg}$ OD in primary AI), medical alert bracelet, and \"Sick-Day Rules\" (double the oral hydrocortisone dose during intercurrent febrile illness or stress)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Congenital Adrenal Hyperplasia (CAH / Adrenogenital Syndrome)",
+        "children": [
+          {
+            "title": "Pathophysiology",
+            "detail": "Autosomal recessive deficiency of enzymes required for cortisol synthesis from cholesterol (21-Hydroxylase deficiency accounts for 95% of cases; incidence 1 in 5,000 births)."
+          },
+          {
+            "title": "Cortisol deficiency causes uninhibited pituitary ACTH hypersecretion, which drives bilateral adrenal cortical hyperplasia and shunts steroid precursors into the androgen pathway, while mineralocorticoid (aldosterone) synthesis is also impaired in 75% (\"salt-wasting\" form)."
+          },
+          {
+            "title": "Clinical Presentation",
+            "children": [
+              {
+                "title": "Females at birth",
+                "detail": "Ambiguous genitalia (Female pseudohermaphroditism) — clitoromegaly and fused labia resembling a scrotum, with normal internal uterus/ovaries."
+              },
+              {
+                "title": "Males & Females in infancy (2–3 weeks)",
+                "detail": "Salt-wasting Addisonian crisis (vomiting, severe dehydration, hyponatraemia, hyperkalaemia, shock) or precocious puberty, virilisation, hypertension (in $11\\beta$-hydroxylase deficiency), and short adult stature (due to premature androgen-induced epiphyseal closure)."
+              },
+              {
+                "title": "Diagnosis & Treatment",
+                "detail": "Markedly elevated serum 17-Hydroxyprogesterone ($17\\text{-OHP}$) and adrenal androgens. Treated by lifelong Hydrocortisone + Fludrocortisone replacement (to replace deficient hormones and suppress ACTH-driven androgen excess) and reconstructive feminising genitoplasty in girls."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Adrenal Haemorrhage",
+        "children": [
+          {
+            "title": "Caused by severe sepsis, anticoagulation, trauma, antiphospholipid syndrome, or obstetric delivery. Presents with flank/abdominal pain and shock (if bilateral, causes acute adrenal insufficiency). Diagnosed on Contrast CT [REFER FIGURE- Fig 57.9, Page 899]. Managed conservatively with resuscitation, reversal of anticoagulants, steroid cover, and superselective angiographic coil/gelfoam embolisation of the bleeding adrenal artery if active extravasation persists."
+          }
+        ]
+      },
+      {
+        "title": "4. Approaches to Adrenalectomy (Chapter 57)",
+        "children": [
+          {
+            "title": "Gold Standard for Benign & Small ($<6\\text{ cm}$) Tumours: Minimally Invasive Adrenalectomy via either",
+            "children": [
+              {
+                "title": "Lateral Transperitoneal Laparoscopic Adrenalectomy (Gagner)",
+                "detail": "Patient in lateral decubitus position ($60–90^\\circ$) with table break."
+              },
+              {
+                "title": "Right Side (4 ports)",
+                "detail": "Retract right lobe of liver cranially, divide triangular ligament and posterior peritoneum along the lateral border of the Inferior Vena Cava (IVC), identify and clip the short right adrenal vein draining directly into the posterolateral IVC, and mobilise the gland off the upper pole of the kidney and psoas."
+              },
+              {
+                "title": "Left Side (3–4 ports)",
+                "detail": "Mobilise the splenic flexure of the colon and divide the lienorenal ligament so the spleen and tail of the pancreas fall medially, open Gerota’s fascia, identify and clip the longer left adrenal vein draining inferiorly into the left renal vein (along with the inferior phrenic vein tributary), and excise the gland."
+              },
+              {
+                "title": "Posterior Retroperitoneoscopic Adrenalectomy (Walz)",
+                "detail": "Patient placed prone jack-knife; 3 ports inserted below the 12th rib directly into the retroperitoneal space inflated with $\\text{CO}_2$ at $20–25\\text{ mmHg}$. Ideal for bilateral adrenalectomy, small tumours ($<5\\text{ cm}$), and patients with previous extensive upper abdominal surgery/adhesions. [REFER FIGURE- Fig 57.13, Page 904]"
+              },
+              {
+                "title": "Open Adrenalectomy (via subcostal rooftop or thoracoabdominal incision)",
+                "detail": "Mandatory for Adrenocortical Carcinoma, locally invasive tumours, or large phaeochromocytomas ($>8–10\\text{ cm}$)."
+              },
+              {
+                "title": "6. Acute & Chronic Mesenteric Ischaemia"
+              },
+              {
+                "title": "(Covers Chapter 61 Visceral Arterial Occlusive Disorders)"
+              },
+              {
+                "title": "A. Acute Mesenteric Ischaemia (Surgical Emergency; 50–70% Mortality)"
+              }
+            ]
+          },
+          {
+            "title": "Etiology (4 Mechanisms)",
+            "children": [
+              {
+                "title": "Superior Mesenteric Artery (SMA) Embolism (50%)",
+                "detail": "Arises from left atrium in atrial fibrillation or left ventricular mural thrombus post-MI; lodges $3–8\\text{ cm}$ distal to the SMA origin (just beyond the middle colic artery origin, sparing the proximal jejunum)."
+              },
+              {
+                "title": "Acute-on-Chronic SMA Thrombosis (25%)",
+                "detail": "Occurs at the ostium of a pre-existing atherosclerotic SMA plaque (causes pan-intestinal infarction from the duodenojejunal flexure to the splenic flexure)."
+              },
+              {
+                "title": "Non-Occlusive Mesenteric Ischaemia (NOMI — 15%)",
+                "detail": "Severe splanchnic vasoconstriction in critically ill ICU patients on high-dose vasopressors/inotropes or cardiogenic shock."
+              },
+              {
+                "title": "Mesenteric Venous Thrombosis (10%)",
+                "detail": "Superior mesenteric vein thrombosis in thrombophilia, portal hypertension, pancreatitis, or intra-abdominal sepsis."
+              }
+            ]
+          },
+          {
+            "title": "Clinical Features",
+            "children": [
+              {
+                "title": "Classic hallmark early triad",
+                "detail": "(1) Sudden, severe central abdominal pain \"out of proportion to physical signs\" (abdomen is initially soft and non-tender until transmural infarction causes peritonitis), (2) Rapid forceful gut emptying (vomiting and diarrhoea, later blood-stained \"redcurrant jelly\" stool), and (3) Presence of a cardiac embolic source (atrial fibrillation)."
+              },
+              {
+                "title": "Investigations",
+                "detail": "Marked leukocytosis, metabolic acidosis with elevated serum lactate, and ** Biphasic CT Angiography (CTA) of the Abdomen (Gold Standard):** Shows filling defect/cut-off in the SMA, lack of bowel wall enhancement, bowel wall thickening, pneumatosis intestinalis (gas in the bowel wall), and portal venous gas."
+              }
+            ]
+          },
+          {
+            "title": "Management",
+            "children": [
+              {
+                "title": "Immediate fluid resuscitation, IV broad-spectrum antibiotics, nasogastric decompression, and IV Unfractionated Heparin infusion."
+              }
+            ]
+          },
+          {
+            "title": "Emergency Laparotomy",
+            "children": [
+              {
+                "title": "Assess bowel viability from DJ flexure to rectum; resect all frankly gangrenous, perforated bowel (avoid primary anastomosis in shock/oedematous bowel)."
+              },
+              {
+                "title": "Revascularise the SMA",
+                "detail": "Perform SMA Fogarty Balloon Embolectomy (for embolus) or Retrograde Iliac-to-SMA / Aorto-SMA Bypass (or endovascular stenting for ostial thrombosis)."
+              },
+              {
+                "title": "Plan a mandatory \"Second-Look Laparotomy\" at 24–48 hours to reassess borderline bowel segments and restore continuity."
+              },
+              {
+                "title": "B. Chronic Mesenteric Ischaemia (Intestinal Angina)"
+              },
+              {
+                "title": "Pathophysiology",
+                "detail": "Because of rich collateral anastomoses between the three visceral trunks (Coeliac axis, Superior Mesenteric Artery, and Inferior Mesenteric Artery via the pancreaticoduodenal arcades, marginal artery of Drummond, and arc of Riolan), at least two of the three major mesenteric arteries must have severe stenosis/occlusion to produce symptoms. [REFER FIGURE- Fig 61.1, Page 997]"
+              },
+              {
+                "title": "Clinical Triad",
+                "detail": "(1) Postprandial central abdominal pain (\"intestinal angina\") occurring 15–30 minutes after eating and lasting 1–3 hours, (2) \"Food Fear\" (sitophobia) leading to profound weight loss/cachexia, and (3) Altered bowel habit (diarrhoea/steatorrhoea), often with an epigastric bruit in a heavy smoker with generalised atherosclerosis."
+              },
+              {
+                "title": "Diagnosis & Treatment",
+                "detail": "Confirmed by Duplex USG and CT Angiography. First-line treatment is Endovascular Angioplasty and Balloon-Expandable Stenting of the SMA [REFER FIGURE- Fig 61.25, Page 1009] (or open surgical bypass / transaortic endarterectomy if endovascular stenting fails)."
+              },
+              {
+                "title": "7. Cervical Rib, Thoracic Outlet Syndrome (TOS) & Subclavian Steal"
+              },
+              {
+                "title": "(Covers Chapters 61 & 62 Neurovascular Compression Syndromes)"
+              },
+              {
+                "title": "Anatomy & Pathophysiology",
+                "detail": "A Cervical Rib is a congenital anomaly arising from the 7th cervical vertebra ($C_7$) in 0.5–1% of the population (50% bilateral; more common in females). It may be complete (articulating anteriorly with the scalene tubercle of the first rib) or incomplete with a fibrous band. It narrows the interscalene triangle (bounded by Scalenus anterior anteriorly, Scalenus medius posteriorly, and the first rib inferiorly), compressing the Subclavian artery and the Lower Trunk ($C_8, T_1$) of the Brachial Plexus (Note: the Subclavian vein passes in front of scalenus anterior in the costoclavicular space)."
+              }
+            ]
+          },
+          {
+            "title": "Three Clinical Types of Thoracic Outlet Syndrome (TOS)",
+            "children": [
+              {
+                "title": "Neurogenic TOS (90–95% — Commonest)",
+                "detail": "Compression of the $C_8, T_1$ nerve roots / lower trunk causes pain, paraesthesia, and numbness along the ulnar (medial) border of the forearm and hand, with wasting and weakness of the small intrinsic muscles of the hand (thenar, hypothenar, and interossei)."
+              },
+              {
+                "title": "Arterial TOS (1–2%)",
+                "detail": "Bony compression of the subclavian artery over the cervical/first rib causes intimal damage and post-stenotic fusiform dilatation (aneurysm) lined with mural thrombus [REFER FIGURE- Fig 61.24, Page 1009]. Showers of platelet/fibrin microemboli travel into the hand, presenting with unilateral Raynaud’s phenomenon, forearm claudication, splinter haemorrhages, digital ischaemic ulcers, or trash hand/gangrene."
+              },
+              {
+                "title": "Venous TOS (3–5%)",
+                "detail": "Compression of the axillary/subclavian vein in the costoclavicular space between the first rib, subclavius tendon, and clavicle, causing Effort Thrombosis (Paget–Schrötter Syndrome) (swollen, cyanosed, aching arm after overhead exertion). [REFER FIGURE- Fig 62.37, Page 1048]"
+              },
+              {
+                "title": "Investigations",
+                "detail": "Chest & Cervical Spine X-ray (identifies bony cervical rib or elongated $C_7$ transverse process), Nerve Conduction Studies, and Dynamic Duplex USG / CT or MR Angiography with the arms both at rest and in hyperabduction."
+              }
+            ]
+          },
+          {
+            "title": "Management",
+            "children": [
+              {
+                "title": "Neurogenic TOS without muscle wasting",
+                "detail": "Physiotherapy and postural shoulder-girdle strengthening exercises."
+              },
+              {
+                "title": "Arterial TOS (and Neurogenic TOS with muscle wasting)",
+                "detail": "Surgical Thoracic Outlet Decompression (transaxillary or supraclavicular Excision of the Cervical Rib AND First Rib + Scalenectomy), combined with subclavian artery interposition graft repair and distal brachial Fogarty thromboembolectomy if an arterial aneurysm/embolus is present."
+              },
+              {
+                "title": "8. Post-Amputation Complications & Amputee Rehabilitation"
+              },
+              {
+                "title": "(Covers Chapter 61 & Long Essay 10.1 Q1 [KU 22])"
+              }
+            ]
+          },
+          {
+            "title": "Complications of Major Limb Amputation"
+          },
+          {
+            "title": "Early Complications",
+            "children": [
+              {
+                "title": "Reactionary or Secondary Haemorrhage (requires return to theatre for ligation)."
+              },
+              {
+                "title": "Wound Haematoma (predisposes to deep infection; prevented by meticulous haemostasis and suction drain)."
+              },
+              {
+                "title": "Stump Infection / Abscess & Gas Gangrene",
+                "detail": "Gas gangrene (Clostridium perfringens) is a specific hazard of high above-knee amputations due to contamination of ischaemic thigh muscle by spores from the patient’s own perineum/faeces (prevented by povidone-iodine skin prep and prophylactic benzylpenicillin/metronidazole)."
+              },
+              {
+                "title": "Flap Ischaemia, Necrosis & Wound Dehiscence",
+                "detail": "Due to performing amputation at too distal a level without adequate blood supply (often requires revision to a higher level, e.g., BKA to AKA)."
+              },
+              {
+                "title": "Deep Vein Thrombosis & Pulmonary Embolism (mandatory LMWH prophylaxis)."
+              }
+            ]
+          },
+          {
+            "title": "Late Complications",
+            "children": [
+              {
+                "title": "Flexion Contracture of the Proximal Joint",
+                "detail": "Fixed flexion deformity of the knee (in BKA) or hip (in AKA) due to sitting for prolonged periods or muscle imbalance, preventing prosthetic fitting."
+              },
+              {
+                "title": "Stump Pain & Amputation Neuroma",
+                "detail": "A painful, tender bulbous proliferation of regenerating axons at the cut end of a major nerve (e.g., tibial or sciatic nerve; prevented by traction-transection of the nerve high up so it retracts into well-padded muscle)."
+              },
+              {
+                "title": "Phantom Limb Sensation & Phantom Limb Pain",
+                "detail": "Awareness of the missing limb (universal and benign) vs burning/cramping pain felt in the absent foot (treated with firm reassurance, mirror-box therapy, Gabapentin/Pregabalin, or Amitriptyline)."
+              },
+              {
+                "title": "Bony Spur / Osteitis / Sinus & Stump Ulceration (from ill-fitting prosthetic socket or progressive ischaemia)."
+              }
+            ]
+          },
+          {
+            "title": "Stepwise Rehabilitation of the Lower Limb Amputee [KU 22]"
+          },
+          {
+            "title": "Preoperative & Immediate Postoperative Phase",
+            "children": [
+              {
+                "title": "Multidisciplinary team input (surgeon, physiotherapist, prosthetist, occupational therapist, psychologist), adequate analgesia (epidural or perineural stump catheter + opioids), and meticulous protection of the contralateral \"good\" foot (heel offloading to prevent pressure sores)."
+              }
+            ]
+          },
+          {
+            "title": "Stump Conditioning & Prevention of Contractures",
+            "children": [
+              {
+                "title": "Apply a rigid dressing or elastic stump shrinker sock once healed to mould a cylindrical/conical stump and reduce oedema."
+              },
+              {
+                "title": "Strict Physiotherapy from Day 1",
+                "detail": "Avoid placing pillows under the thigh/knee; encourage prone lying (to extend the hip) and active knee extension exercises to prevent flexion contractures, alongside upper-body and core strengthening (for crutches/parallel bars)."
+              }
+            ]
+          },
+          {
+            "title": "Early Ambulation & Prosthetic Fitting",
+            "children": [
+              {
+                "title": "Start standing and balance training between parallel bars using a pneumatic Early Walking Aid / Inflatable Artificial Limb (PPAM aid) [REFER FIGURE- Fig 61.38, Page 1017] as soon as wound healing allows, followed at 6–8 weeks by fitting of a definitive custom-moulded suction-socket or PTB (Patellar Tendon-Bearing) prosthesis."
+              }
+            ]
+          },
+          {
+            "title": "Occupational Therapy & Home Modification",
+            "children": [
+              {
+                "title": "Assess the patient’s home environment (install grab-rails, ramps, stair-lifts, and widen doorways for wheelchair clearance) and provide vocational retraining."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

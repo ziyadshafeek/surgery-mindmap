@@ -1,0 +1,932 @@
+[
+  {
+    "id": "surgery-t17",
+    "title": "Q6.2: Solitary Thyroid Nodule (Discrete Thyroid Swelling) & Preoperative Evaluation",
+    "children": [
+      {
+        "title": "Coverage",
+        "children": [
+          {
+            "title": "KU 24, 23, 20, 15, RGU, TU — Long Essay & Short Answers"
+          }
+        ]
+      },
+      {
+        "title": "Definitions",
+        "children": [
+          {
+            "title": "Isolated (Solitary) Swelling — 70%",
+            "detail": "A discrete palpable nodule in one lobe with an otherwise impalpable thyroid gland."
+          },
+          {
+            "title": "Dominant Swelling — 30%",
+            "detail": "A prominent discrete nodule in a gland with clinical evidence of generalised abnormality / multinodularity elsewhere."
+          }
+        ]
+      },
+      {
+        "title": "Differential Diagnosis (Causes) of a Solitary Thyroid Nodule",
+        "children": [
+          {
+            "title": "Dominant nodule of a Multinodular Goitre",
+            "detail": "~50% of clinically 'solitary' nodules reveal impalpable nodules on USG."
+          },
+          {
+            "title": "Follicular Adenoma — 30–40%"
+          },
+          {
+            "title": "Thyroid Cyst",
+            "detail": "Simple colloid cyst or haemorrhage into a necrotic nodule / adenoma."
+          },
+          {
+            "title": "Thyroid Malignancy — 15% in isolated nodules; 7.5% in dominant nodules",
+            "children": [
+              {
+                "title": "Papillary carcinoma"
+              },
+              {
+                "title": "Follicular carcinoma"
+              },
+              {
+                "title": "Medullary carcinoma"
+              },
+              {
+                "title": "Anaplastic carcinoma"
+              }
+            ]
+          },
+          {
+            "title": "Focal Thyroiditis",
+            "detail": "Hashimoto's or subacute de Quervain's thyroiditis."
+          },
+          {
+            "title": "Autonomous Toxic Adenoma (Plummer's disease)"
+          }
+        ]
+      },
+      {
+        "title": "Risk of Malignancy in Discrete Swellings ('Rule of 12' — Fig 55.13)",
+        "children": [
+          {
+            "title": "Isolated vs dominant nodules — risk twice as high in isolated",
+            "detail": "Isolated nodules: 24% solid / 12% cystic; dominant nodules: 12% solid / 6% cystic."
+          },
+          {
+            "title": "Solid vs cystic nodules — risk twice as high in solid nodules"
+          },
+          {
+            "title": "Sex — risk four times higher in males",
+            "detail": "48% in a solid isolated nodule in a man vs 12% in a woman."
+          }
+        ]
+      },
+      {
+        "title": "Clinical Red Flags for Malignancy",
+        "children": [
+          {
+            "title": "Extremes of age (<20 or >60 years)"
+          },
+          {
+            "title": "Male sex"
+          },
+          {
+            "title": "History of childhood neck irradiation"
+          },
+          {
+            "title": "Family history (MEN 2 / MTC)"
+          },
+          {
+            "title": "Rapid painless growth"
+          },
+          {
+            "title": "Hard / irregular consistency"
+          },
+          {
+            "title": "Fixity (failure to move on swallowing)"
+          },
+          {
+            "title": "Hoarseness of voice / vocal cord palsy (RLN invasion)"
+          },
+          {
+            "title": "Cervical lymphadenopathy"
+          }
+        ]
+      },
+      {
+        "title": "Stepwise Preoperative Investigations (Summary Box 55.1)",
+        "children": [
+          {
+            "title": "1. Thyroid Function Tests (Serum TSH, Free T3, Free T4)",
+            "children": [
+              {
+                "title": "Most patients are euthyroid"
+              },
+              {
+                "title": "If TSH is suppressed (hyperthyroid) — Radioisotope Uptake Scan",
+                "detail": "Perform a Radioisotope Uptake Scan ((99m)Tc or ¹²³I) to differentiate a hyperfunctioning 'Hot' Autonomous Toxic Adenoma (with suppression of the contralateral lobe; malignancy risk <1–5%) from a cold nodule in Graves' disease."
+              }
+            ]
+          },
+          {
+            "title": "2. High-Resolution Ultrasonography of Neck",
+            "children": [
+              {
+                "title": "Gold standard imaging",
+                "detail": "Evaluates nodule size, composition (solid vs cystic), margins, and lymph nodes (Levels II–VI)."
+              },
+              {
+                "title": "Sonographic Features of Malignancy",
+                "children": [
+                  {
+                    "title": "Hypoechogenicity"
+                  },
+                  {
+                    "title": "Microcalcifications (psammoma bodies in PTC)"
+                  },
+                  {
+                    "title": "Irregular / infiltrative margins"
+                  },
+                  {
+                    "title": "'Taller-than-wide' shape"
+                  },
+                  {
+                    "title": "Intranodular hypervascularity"
+                  },
+                  {
+                    "title": "Extrathyroidal extension"
+                  }
+                ]
+              },
+              {
+                "title": "Grading",
+                "detail": "Graded via U-Classification (U1–U5) or ACR TI-RADS (TR1–TR5)."
+              }
+            ]
+          },
+          {
+            "title": "3. Ultrasound-Guided Fine-Needle Aspiration Cytology (FNAC)",
+            "children": [
+              {
+                "title": "Investigation of choice for all indeterminate / suspicious nodules",
+                "detail": "Reported via the UK RCPath Thy Classification (Table 55.2) (or Bethesda System)."
+              },
+              {
+                "title": "Thy1 / Thy1c: Non-diagnostic / Non-diagnostic cystic",
+                "detail": "Repeat USG-guided FNAC."
+              },
+              {
+                "title": "Thy2: Non-neoplastic (Benign colloid nodule / thyroiditis)",
+                "detail": "Reassure & observe (unless compressive)."
+              },
+              {
+                "title": "Thy3 (Thy3a / Thy3f): Follicular neoplasm / atypia",
+                "detail": "Diagnostic Hemithyroidectomy (Total lobectomy + isthmusectomy), because FNAC cannot distinguish benign Follicular Adenoma from Follicular Carcinoma (requires histological proof of capsular and/or vascular invasion)."
+              },
+              {
+                "title": "Thy4: Suspicious of malignancy",
+                "detail": "Diagnostic Hemithyroidectomy or Total Thyroidectomy."
+              },
+              {
+                "title": "Thy5: Diagnostic of malignancy (e.g. Papillary / Medullary carcinoma)",
+                "detail": "Definitive thyroid cancer surgery."
+              }
+            ]
+          },
+          {
+            "title": "4. Optional / Ancillary Investigations",
+            "children": [
+              {
+                "title": "Flexible Nasolaryngoscopy",
+                "detail": "Mandatory preoperatively to document vocal cord mobility."
+              },
+              {
+                "title": "Serum Thyroid Autoantibodies (Anti-TPO, Anti-Tg)",
+                "detail": "And Serum Calcitonin / CEA (if Medullary Thyroid Carcinoma is suspected)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Indications for Surgery in a Solitary Thyroid Nodule (Table 55.4)",
+        "children": [
+          {
+            "title": "Neoplasia on FNAC (Thy3, Thy4, Thy5)"
+          },
+          {
+            "title": "Strong Clinical Suspicion",
+            "detail": "Male sex, extremes of age, hard / fixed mass, RLN palsy, cervical lymphadenopathy, recurrent cyst after aspiration."
+          },
+          {
+            "title": "Toxic Adenoma",
+            "detail": "Hemithyroidectomy is curative."
+          },
+          {
+            "title": "Compressive Symptoms (dysphagia, dyspnoea, stridor)"
+          },
+          {
+            "title": "Cosmesis / Patient Preference"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t18",
+    "title": "Q6.3: Multinodular Goitre (MNG) & Retrosternal Goitre",
+    "children": [
+      {
+        "title": "Coverage",
+        "children": [
+          {
+            "title": "KU 24, 22, 19, 18, RGU, TU — Long Essays, Short Essays & Short Answers"
+          }
+        ]
+      },
+      {
+        "title": "1. Etiopathogenesis & Natural History of Simple Multinodular Goitre",
+        "children": [
+          {
+            "title": "Etiology",
+            "detail": "Driven by chronic or fluctuating TSH stimulation (and local growth factors / immunoglobulins) in response to subnormal circulating thyroid hormone synthesis.",
+            "children": [
+              {
+                "title": "Iodine Deficiency (Endemic Goitre)",
+                "detail": "Daily iodine requirement is 0.1–0.15 mg. Common in mountainous regions (Himalayas, Alps, Andes)."
+              },
+              {
+                "title": "Dyshormonogenesis (Sporadic Goitre)",
+                "detail": "Genetic enzyme defects in iodine trapping, organification, or coupling (e.g. Pendred syndrome)."
+              },
+              {
+                "title": "Dietary & Drug Goitrogens",
+                "detail": "Brassica vegetables (cabbage, kale, turnips contain thiocyanates that inhibit iodide trapping), Cassava, Lithium, Para-aminosalicylic acid (PAS), Carbimazole, and excessive iodides (Wolff–Chaikoff effect)."
+              },
+              {
+                "title": "Physiological Increased Demand",
+                "detail": "Puberty and pregnancy (Female:Male preponderance due to oestrogen receptors on thyrocytes)."
+              }
+            ]
+          },
+          {
+            "title": "5-Stage Natural History of Simple Goitre (Bailey & Love)",
+            "children": [
+              {
+                "title": "Stage 1 — Diffuse Hyperplasia",
+                "detail": "Persistent TSH stimulation causes uniform, diffuse follicular hyperplasia (Diffuse Hyperplastic Goitre — soft, smooth, reversible if TSH stimulus ceases)."
+              },
+              {
+                "title": "Stage 2 — Fluctuating Stimulation",
+                "detail": "Alternating periods of stimulation and involution produce mixed areas of active hyperplastic lobules and inactive colloid-filled lobules (Colloid Goitre)."
+              },
+              {
+                "title": "Stage 3 — Focal Haemorrhage & Necrosis",
+                "detail": "Active hyperplastic lobules outgrow their blood supply → central haemorrhage and necrosis, leaving a surrounding rim of active follicles."
+              },
+              {
+                "title": "Stage 4 — Nodule Formation",
+                "detail": "Necrotic lobules coalesce to form discrete nodules filled with iodine-free colloid or inactive follicles, surrounded by fibrous tissue, cystic degeneration, and calcification."
+              },
+              {
+                "title": "Stage 5 — Multinodular Goitre (MNG)",
+                "detail": "Continual repetition of this cycle produces an asymmetric, bosselated Multinodular Goitre, where most nodules are inactive and hormone synthesis occurs only in the internodular tissue."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Complications of Multinodular Goitre",
+        "children": [
+          {
+            "title": "Tracheal Compression & Displacement",
+            "detail": "Lateral deviation or 'scabbard trachea' from retrosternal extension → dyspnoea and stridor (Kocher's test: slight lateral compression of the thyroid lobes elicits stridor)."
+          },
+          {
+            "title": "Acute Airway Obstruction",
+            "detail": "Sudden haemorrhage into a cyst / nodule impacted in the rigid thoracic inlet."
+          },
+          {
+            "title": "Secondary Thyrotoxicosis (Plummer's Disease)",
+            "detail": "Develops in up to 30% of longstanding MNGs in middle-aged / elderly patients; hyperfunction occurs in internodular tissue or autonomous nodules; predominantly manifests with cardiovascular symptoms (atrial fibrillation, tachycardia, heart failure) without eye signs."
+          },
+          {
+            "title": "Malignant Transformation (<3–5%)",
+            "detail": "Usually Follicular Thyroid Carcinoma (or Papillary carcinoma) in endemic goitres."
+          }
+        ]
+      },
+      {
+        "title": "3. Retrosternal Goitre (Short Note & Long Essay [KU 24, 18])",
+        "children": [
+          {
+            "title": "Definition & Pathogenesis",
+            "detail": "A goitre in which >50% of the thyroid mass lies below the plane of the thoracic inlet. Arises from the lower pole of a multinodular goitre being drawn downwards into the superior mediastinum by negative intrathoracic pressure during inspiration, gravity, and swallowing. Blood supply remains strictly cervical (from the inferior thyroid arteries)."
+          },
+          {
+            "title": "Clinical Features",
+            "children": [
+              {
+                "title": "Often asymptomatic; when symptomatic",
+                "detail": "Causes dyspnoea (worse at night or on lying flat), stridor, dysphagia, and a persistent cough."
+              },
+              {
+                "title": "Superior Vena Cava (SVC) Obstruction Syndrome",
+                "detail": "Dilated non-pulsatile neck and chest wall veins, facial plethora, and Pemberton's Sign (raising both arms straight above the head for 1 minute corks the goitre into the narrow thoracic inlet, causing facial congestion, cyanosis, distended neck veins, and inspiratory stridor)."
+              },
+              {
+                "title": "Examination",
+                "detail": "Lower border of the thyroid swelling cannot be palpated ('cannot get below the swelling'), dullness to percussion over the manubrium, and tracheal deviation."
+              }
+            ]
+          },
+          {
+            "title": "Investigations",
+            "children": [
+              {
+                "title": "TFTS (TSH, Free T3, T4)"
+              },
+              {
+                "title": "CT Scan of Neck & Thorax (Gold Standard)",
+                "detail": "Defines the exact lower limit of extension (anterior vs posterior mediastinum), relationship to the aortic arch, and severity of tracheal compression."
+              }
+            ]
+          },
+          {
+            "title": "Surgical Management of MNG & Retrosternal Goitre",
+            "children": [
+              {
+                "title": "Indications for Surgery",
+                "detail": "Compressive symptoms, retrosternal extension with tracheal narrowing, secondary toxicity, suspicion of malignancy, or cosmetic deformity."
+              },
+              {
+                "title": "Choice of Operation",
+                "detail": "Total Thyroidectomy (followed by lifelong levothyroxine replacement at 1.6 μg/kg/day) is the procedure of choice for bilateral MNG to eliminate recurrence and avoid hazardous reoperative surgery. For asymmetric MNG confined to one lobe, Total Hemithyroidectomy is appropriate. (Subtotal thyroidectomy and Dunhill's procedure [total lobectomy + contralateral subtotal lobectomy] are largely obsolete due to high recurrence rates)."
+              },
+              {
+                "title": "Approach for Retrosternal Goitre — >95% via cervical collar incision",
+                "detail": "More than 95% can be delivered and excised via a standard cervical collar incision (because the arterial supply is in the neck; ligate superior pole vessels and middle thyroid vein first, then use gentle digital mobilisation on the capsule to deliver the retrosternal component upwards)."
+              },
+              {
+                "title": "Median Sternotomy (with cardiothoracic backup) — required in <5%",
+                "detail": "Malignancy, recurrent goitre, posterior mediastinal extension below the aortic arch, or 'iceberg' goitres wider than the thoracic inlet."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t19",
+    "title": "Q6.4: Thyrotoxicosis & Graves’ Disease",
+    "children": [
+      {
+        "title": "Coverage",
+        "children": [
+          {
+            "title": "KU 23, 22, 19, RGU, TU — Long Essay, Short Essays & Short Answers"
+          }
+        ]
+      },
+      {
+        "title": "1. Classification / Clinical Types of Thyrotoxicosis",
+        "children": [
+          {
+            "title": "Diffuse Toxic Goitre (Graves' Disease — Primary Thyrotoxicosis)",
+            "detail": "Autoimmune disorder in young women (20–40 years); diffuse vascular goitre appearing simultaneously with hyperthyroidism; CNS overactivity + extrathyroidal manifestations (ophthalmopathy, pretibial myxoedema, thyroid acropachy)."
+          },
+          {
+            "title": "Toxic Multinodular Goitre (Secondary Thyrotoxicosis / Plummer's Disease)",
+            "detail": "Superimposition of hyperthyroidism on a pre-existing simple nodular goitre in patients >50 years; cardiovascular symptoms predominate (atrial fibrillation, high-output cardiac failure); eye signs are absent."
+          },
+          {
+            "title": "Solitary Toxic Adenoma (Autonomous Nodule)",
+            "detail": "Single hyperfunctioning follicular adenoma producing T3/T4 autonomously, suppressing pituitary TSH and the rest of the thyroid gland."
+          },
+          {
+            "title": "Rare Causes",
+            "children": [
+              {
+                "title": "Jod-Basedow phenomenon (iodine / amiodarone-induced)"
+              },
+              {
+                "title": "Hashitoxicosis"
+              },
+              {
+                "title": "Early de Quervain's thyroiditis"
+              },
+              {
+                "title": "Struma ovarii"
+              },
+              {
+                "title": "Hydatidiform mole / Choriocarcinoma (hCG cross-reacts with TSH receptor)"
+              },
+              {
+                "title": "TSH-secreting pituitary adenoma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Pathogenesis & Pathology of Graves' Disease",
+        "children": [
+          {
+            "title": "Autoantibodies",
+            "detail": "IgG autoantibodies (TSH Receptor Antibodies [TRAb / TSH-RAb / LATS]) bind to and stimulate TSH receptors on follicular cell membranes with a protracted action (16–24 hours vs 1.5–3 hours for normal TSH)."
+          },
+          {
+            "title": "Histology",
+            "detail": "Diffuse acinar hyperplasia and hypertrophy lined by tall columnar epithelium with papillary infoldings and pale, vacuolated colloid showing a characteristic peripheral 'scalloped' appearance."
+          }
+        ]
+      },
+      {
+        "title": "3. Clinical Features",
+        "children": [
+          {
+            "title": "Symptoms",
+            "detail": "Weight loss despite increased appetite, heat intolerance, excessive sweating, palpitations, dyspnoea on exertion, fine tremors, irritability / insomnia, proximal muscle weakness, diarrhoea, and oligomenorrhoea / amenorrhoea."
+          },
+          {
+            "title": "Signs",
+            "children": [
+              {
+                "title": "General",
+                "detail": "Sinus tachycardia or atrial fibrillation, wide pulse pressure (water-hammer pulse), warm moist palms, fine resting tremor of outstretched hands and protruding tongue."
+              },
+              {
+                "title": "Thyroid Gland",
+                "detail": "Diffuse, smooth, symmetrically enlarged, soft-to-firm vascular goitre with a palpable thrill and audible systolic / continuous bruit (best heard at the upper pole, where the superior thyroid artery enters)."
+              },
+              {
+                "title": "Graves' Ophthalmopathy",
+                "detail": "Driven by autoimmune inflammation and glycosaminoglycan deposition in retro-orbital fat and extraocular muscles.",
+                "children": [
+                  {
+                    "title": "Sympathetic Spasm Signs (Lid retraction)",
+                    "children": [
+                      {
+                        "title": "Dalrymple's sign (visible upper scleral rim above the cornea)"
+                      },
+                      {
+                        "title": "Von Graefe's sign (lid lag on downward gaze)"
+                      },
+                      {
+                        "title": "Stellwag's sign (infrequent blinking / staring look)"
+                      },
+                      {
+                        "title": "Joffroy's sign (absence of forehead wrinkling on looking up)"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Infiltrative Signs",
+                    "children": [
+                      {
+                        "title": "True Exophthalmos / Proptosis"
+                      },
+                      {
+                        "title": "Chemosis"
+                      },
+                      {
+                        "title": "Ophthalmoplegia (Moebius' sign — failure of convergence)",
+                        "detail": "Earliest muscle affected is the inferior rectus limiting upward gaze."
+                      },
+                      {
+                        "title": "Optic nerve compression"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Pretibial Myxoedema (Thyroid Dermopathy)",
+                "detail": "Bilateral, symmetrical, non-pitting, violaceous / reddish plaque-like thickening of the skin over the shins and dorsum of the feet due to dermal mucopolysaccharide (hyaluronic acid) deposition; occurs only in Graves' disease."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Investigations",
+        "children": [
+          {
+            "title": "Thyroid Function Tests (Table 55.1)",
+            "detail": "Undetectable / Suppressed TSH (<0.01 mU/L) with elevated Free T4 and Free T3 (in T3-toxicosis, Free T4 is normal while Free T3 is high)."
+          },
+          {
+            "title": "Autoantibodies",
+            "detail": "Elevated TRAb (diagnostic of Graves' disease, >95% sensitive) and Anti-TPO antibodies."
+          },
+          {
+            "title": "Isotope Scan ((99m)Tc or ¹²³I)",
+            "detail": "Shows diffuse homogeneous high uptake in Graves' disease, patchy hot / cold areas in Toxic MNG, and a single 'hot' nodule with complete suppression of the remaining gland in Toxic Adenoma."
+          }
+        ]
+      },
+      {
+        "title": "5. Management of Thyrotoxicosis (Three Modalities)",
+        "children": [
+          {
+            "title": "A. Antithyroid Drugs (ATDs)",
+            "children": [
+              {
+                "title": "Carbimazole",
+                "detail": "30–40 mg/day initially for 8–12 weeks until euthyroid, then titrated down to maintenance 5–15 mg/day or a 'Block and Replace' regimen adding Levothyroxine 100–150 μg/day for 12–18 months."
+              },
+              {
+                "title": "Propylthiouracil (PTU)",
+                "detail": "Preferred in the first trimester of pregnancy and in thyroid storm as it also inhibits peripheral conversion of T4 → T3."
+              },
+              {
+                "title": "Mechanism",
+                "detail": "Inhibits thyroid peroxidase (TPO), blocking iodide oxidation and organification."
+              },
+              {
+                "title": "Disadvantages",
+                "detail": "High relapse rate (>50%) upon stopping; cannot cure autonomous toxic nodules; 0.2% risk of Agranulocytosis (warn patient to stop drug immediately and check FBC if sore throat or fever develops)."
+              },
+              {
+                "title": "β-Blockers (Propranolol 40 mg TDS)",
+                "detail": "Rapidly controls adrenergic symptoms (tachycardia, tremor, anxiety) and inhibits peripheral conversion of T4 → T3."
+              }
+            ]
+          },
+          {
+            "title": "B. Radioactive Iodine Therapy (¹³¹I)",
+            "children": [
+              {
+                "title": "Action",
+                "detail": "Destroys hyperfunctioning thyroid cells via β-particle emission over 6–12 weeks."
+              },
+              {
+                "title": "Indications",
+                "detail": "Relapsed Graves' disease after ATDs, Toxic Adenoma, and elderly / frail patients."
+              },
+              {
+                "title": "Contraindications",
+                "detail": "Pregnancy, lactation (absolute), young children, and active moderate-to-severe Graves' ophthalmopathy (can worsen eye disease unless covered with oral prednisolone)."
+              },
+              {
+                "title": "Outcome",
+                "detail": "Leads to eventual hypothyroidism in 80% of Graves' patients."
+              }
+            ]
+          },
+          {
+            "title": "C. Surgery (Total Thyroidectomy; or Hemithyroidectomy for Solitary Toxic Adenoma)",
+            "children": [
+              {
+                "title": "Indications",
+                "detail": "Large goitre with compressive symptoms, Toxic MNG, severe Graves' ophthalmopathy, relapsed Graves' disease in young women planning pregnancy, suspicion of coexisting malignancy, or drug intolerance / non-compliance."
+              },
+              {
+                "title": "Preoperative Preparation (Mandatory to prevent Thyrotoxic Crisis / Storm)",
+                "children": [
+                  {
+                    "title": "Render biochemically euthyroid with Carbimazole",
+                    "detail": "Until the evening before surgery."
+                  },
+                  {
+                    "title": "β-Blockade (Propranolol 40 mg TDS)",
+                    "detail": "Continued for 7 days postoperatively (as half-life of circulating T4 is 7 days)."
+                  },
+                  {
+                    "title": "Lugol's Iodine (5% iodine + 10% potassium iodide; 10 drops TDS orally for 10 days prior to surgery)",
+                    "detail": "Reduces gland vascularity and friability (Plummer's effect) and transiently blocks hormone release (Wolff–Chaikoff effect)."
+                  }
+                ]
+              },
+              {
+                "title": "Choice of Operation in Graves' Disease (Table 55.5)",
+                "detail": "Total Thyroidectomy is preferred over subtotal thyroidectomy as it provides immediate cure with 0% risk of recurrent toxicity (trading for predictable lifelong thyroxine replacement)."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t20",
+    "title": "Q6.5: Thyroid Malignancies (Papillary, Follicular, Medullary) & Complications of Thyroidectomy",
+    "children": [
+      {
+        "title": "Coverage",
+        "children": [
+          {
+            "title": "KU 25, 21, 20, 18, 17, 16, RGU, TU — Long Essays, Short Essays & Short Answers"
+          }
+        ]
+      },
+      {
+        "title": "1. Classification & Relative Incidence of Primary Thyroid Malignancies (Table 55.6 & 55.7)",
+        "children": [
+          {
+            "title": "Derived from Follicular Epithelium (Differentiated Thyroid Cancer — DTC)",
+            "children": [
+              {
+                "title": "Papillary Thyroid Carcinoma (PTC): 80%"
+              },
+              {
+                "title": "Follicular Thyroid Carcinoma (FTC) & Hürthle Cell Carcinoma: 10%"
+              }
+            ]
+          },
+          {
+            "title": "Derived from Follicular Epithelium (Poorly Differentiated / Undifferentiated)",
+            "children": [
+              {
+                "title": "Anaplastic Thyroid Carcinoma: 5%"
+              }
+            ]
+          },
+          {
+            "title": "Derived from Parafollicular C-Cells (Neuroectodermal / Ultimobranchial body)",
+            "children": [
+              {
+                "title": "Medullary Thyroid Carcinoma (MTC): 2.5%"
+              }
+            ]
+          },
+          {
+            "title": "Derived from Lymphoid Tissue",
+            "children": [
+              {
+                "title": "Primary Thyroid Lymphoma (B-cell non-Hodgkin's lymphoma arising in Hashimoto's thyroiditis): 2.5%"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Papillary Thyroid Carcinoma (PTC) & Management of DTC with Nodal Metastasis (Long Essays KU 17, 18)",
+        "children": [
+          {
+            "title": "Etiology & Genetics",
+            "detail": "Childhood neck irradiation (e.g. Chernobyl disaster), RET/PTC1 and RET/PTC3 rearrangements, and BRAF V600E mutations."
+          },
+          {
+            "title": "Pathology",
+            "children": [
+              {
+                "title": "Often multifocal and non-encapsulated; cystic change is common"
+              },
+              {
+                "title": "Diagnostic Microscopic Hallmarks",
+                "children": [
+                  {
+                    "title": "Papillary fronds with fibrovascular cores"
+                  },
+                  {
+                    "title": "'Orphan Annie eye' nuclei",
+                    "detail": "Optically clear, ground-glass chromatin with nuclear grooves and intranuclear cytoplasmic pseudoinclusions."
+                  },
+                  {
+                    "title": "Psammoma bodies",
+                    "detail": "Concentric laminated calcified spherules."
+                  }
+                ]
+              },
+              {
+                "title": "Lymphatic Spread",
+                "detail": "Strong propensity for cervical lymph node metastasis (central compartment Level VI [Delphian / pretracheal / paratracheal] and lateral jugular chain Levels II, III, IV, V). (Note: An isolated cystic lateral neck node metastasis from an occult <1 cm papillary microcarcinoma was historically misnamed 'Lateral Aberrant Thyroid')."
+              }
+            ]
+          },
+          {
+            "title": "Risk Stratification (AMES / AGES / MACIS Criteria)",
+            "children": [
+              {
+                "title": "Age (<55 years vs ≥ 55 years in AJCC 8th Ed.)"
+              },
+              {
+                "title": "Metastases (distant)"
+              },
+              {
+                "title": "Extent (extrathyroidal invasion)"
+              },
+              {
+                "title": "Size (>4 cm)"
+              },
+              {
+                "title": "Grade"
+              },
+              {
+                "title": "Completeness of resection"
+              }
+            ]
+          },
+          {
+            "title": "Management of Differentiated Thyroid Carcinoma (PTC & FTC)",
+            "children": [
+              {
+                "title": "1. Surgery for Primary Tumour",
+                "children": [
+                  {
+                    "title": "Low-Risk Unifocal Tumour (1–4 cm, cN0, no extrathyroidal extension)",
+                    "detail": "Thyroid Lobectomy + Isthmusectomy. (Tumours <1 cm [Papillary microcarcinoma] can be managed by lobectomy or active surveillance)."
+                  },
+                  {
+                    "title": "High-Risk Tumour (>4 cm, extrathyroidal extension, multifocal / bilateral, or Node-Positive [as in Long Essays KU 17/18])",
+                    "detail": "Total Thyroidectomy (removes all thyroid tissue to enable subsequent Radioiodine ablation and serum Thyroglobulin monitoring)."
+                  }
+                ]
+              },
+              {
+                "title": "2. Management of Cervical Lymph Nodes",
+                "children": [
+                  {
+                    "title": "Clinically / Radiologically Node-Positive (cN1a / cN1b)",
+                    "detail": "Compartment-Oriented Therapeutic Neck Dissection (Central compartment Level VI clearance + Selective / Modified Radical Lateral Neck Dissection of Levels IIa, III, IV, and Vb, preserving the spinal accessory nerve, internal jugular vein, and sternocleidomastoid). 'Berry-picking' of individual nodes is contraindicated."
+                  },
+                  {
+                    "title": "Prophylactic Central Neck Dissection (Level VI)",
+                    "detail": "Reserved for high-risk T3/T4 tumours."
+                  }
+                ]
+              },
+              {
+                "title": "3. Postoperative Radioiodine (¹³¹I) Ablation",
+                "detail": "Given 4–6 weeks post-total thyroidectomy (stimulated by either thyroxine withdrawal or recombinant human TSH [Thyrogen] so TSH >30 mU/L) to ablate residual thyroid remnants and microscopic metastases."
+              },
+              {
+                "title": "4. TSH Suppression Therapy",
+                "detail": "High-dose Levothyroxine to suppress TSH below <0.1 mU/L in high-risk patients (since DTC cells are TSH-dependent)."
+              },
+              {
+                "title": "5. Follow-Up",
+                "detail": "Serial Serum Thyroglobulin (Tg) (and anti-Tg antibodies) + Neck Ultrasonography every 6–12 months."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Medullary Thyroid Carcinoma (MTC) [KU 21, 16]",
+        "children": [
+          {
+            "title": "Origin",
+            "detail": "Arises from parafollicular C-cells (neural crest origin via ultimobranchial body); does NOT concentrate radioiodine and is NOT TSH-dependent."
+          },
+          {
+            "title": "Clinical Forms",
+            "detail": "75–80% Sporadic (unilateral) and 20–25% Familial (autosomal dominant RET proto-oncogene mutation on Chromosome 10; multicentric and bilateral).",
+            "children": [
+              {
+                "title": "Familial MTC (FMTC)"
+              },
+              {
+                "title": "MEN 2A (Sipple's Syndrome)",
+                "detail": "MTC (100%) + Phaeochromocytoma (50%) + Parathyroid hyperplasia (20%)."
+              },
+              {
+                "title": "MEN 2B",
+                "detail": "Aggressive early-onset MTC + Phaeochromocytoma + Mucosal neuromas + Marfanoid habitus."
+              }
+            ]
+          },
+          {
+            "title": "Pathology & Clinical Features",
+            "children": [
+              {
+                "title": "Histology",
+                "detail": "Sheets / nests ('cell balls') of spindle / polygonal cells in an amyloid stroma (formed from procalcitonin polypeptides; stains apple-green birefringence with Congo Red)."
+              },
+              {
+                "title": "Secretions",
+                "detail": "Secretes Calcitonin and Carcinoembryonic Antigen (CEA) (used for diagnosis and postoperative tumour marker surveillance), plus serotonin, prostaglandins, and VIP (causing flushing and secretory diarrhoea in 30%)."
+              },
+              {
+                "title": "Early lymphatic (55–60%) and haematogenous spread"
+              }
+            ]
+          },
+          {
+            "title": "Management",
+            "children": [
+              {
+                "title": "Preoperative checks",
+                "detail": "Exclude Phaeochromocytoma first (check plasma / 24h urinary metanephrines before any neck surgery) and check serum calcium / PTH and RET germline mutation."
+              },
+              {
+                "title": "Surgery",
+                "detail": "Total Thyroidectomy + Bilateral Central Compartment (Level VI) Neck Dissection (+ therapeutic lateral neck dissection if lateral nodes are involved)."
+              },
+              {
+                "title": "Prophylactic Total Thyroidectomy in RET-positive children",
+                "detail": "Within the first year of life for highest-risk MEN 2B codon 918 mutations; before age 5 for MEN 2A codon 634 mutations."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Complications Following Thyroid Surgery & Their Management [KU 25, 18, 17]",
+        "children": [
+          {
+            "title": "1. Reactionary Postoperative Haemorrhage / Tense Neck Haematoma (1–2%, within first 24 hours)",
+            "children": [
+              {
+                "title": "Pathophysiology",
+                "detail": "Bleeding beneath the strap muscles raises central compartment pressure above venous pressure → severe venous and lymphatic laryngeal oedema → acute asphyxiation."
+              },
+              {
+                "title": "Management",
+                "detail": "Immediate bedside opening of the wound (clip / remove skin and strap muscle sutures using a stitch cutter to evacuate the clot and relieve laryngeal congestion) → high-flow oxygen → immediate transfer to theatre for endotracheal intubation and formal haemostasis."
+              }
+            ]
+          },
+          {
+            "title": "2. Nerve Injuries",
+            "children": [
+              {
+                "title": "Recurrent Laryngeal Nerve (RLN) Palsy",
+                "detail": "Most vulnerable at Berry's ligament, the inferior thyroid artery, and the tubercle of Zuckerkandl; permanent rate <1%.",
+                "children": [
+                  {
+                    "title": "Unilateral RLN Palsy",
+                    "detail": "Causes hoarseness and a weak, 'bovine' non-explosive cough. Managed conservatively with speech therapy for 6 months (as most are transient neuropraxia and the opposite cord compensates); if permanent, perform vocal cord medialisation (injection laryngoplasty or thyroplasty)."
+                  },
+                  {
+                    "title": "Bilateral RLN Palsy",
+                    "detail": "Both vocal cords lie in the paramedian position → acute biphasic stridor and airway obstruction upon extubation. Requires immediate re-intubation or emergency tracheostomy, followed later by laser cordotomy / arytenoidectomy."
+                  }
+                ]
+              },
+              {
+                "title": "External Branch of Superior Laryngeal Nerve (EBSLN) Injury",
+                "detail": "Injured during high ligation of the superior thyroid pedicle. Paralyses the cricothyroid muscle (tensor of the vocal cord) → loss of high-pitched voice, easy voice fatiguability, and inability to project / sing ('voice of Amelita Galli-Curci'). Prevented by ligating superior pole vessels individually close to the thyroid capsule."
+              }
+            ]
+          },
+          {
+            "title": "3. Postoperative Hypoparathyroidism / Hypocalcaemia (Transient 10–20%, Permanent <1–2%)",
+            "children": [
+              {
+                "title": "Cause",
+                "detail": "Inadvertent removal or ischaemic devascularisation of the parathyroid glands (supplied by end-arteries from the inferior thyroid artery)."
+              },
+              {
+                "title": "Clinical Features (2–5 days post-op)",
+                "children": [
+                  {
+                    "title": "Circumoral and digital tingling / numbness"
+                  },
+                  {
+                    "title": "Carpopedal spasm (Trousseau's sign)"
+                  },
+                  {
+                    "title": "Facial muscle twitching on tapping over the facial nerve (Chvostek's sign)"
+                  },
+                  {
+                    "title": "Stridor (laryngospasm)"
+                  },
+                  {
+                    "title": "Prolonged QT interval on ECG"
+                  }
+                ]
+              },
+              {
+                "title": "Management",
+                "children": [
+                  {
+                    "title": "Mild asymptomatic hypocalcaemia",
+                    "detail": "Treated with oral Calcium carbonate + Calcitriol (1,25-dihydroxyvitamin D3) (or Alfacalcidol)."
+                  },
+                  {
+                    "title": "Acute symptomatic tetany",
+                    "detail": "Requires slow intravenous 10 mL of 10% Calcium Gluconate over 10 minutes under ECG monitoring, followed by an infusion and correction of hypomagnesaemia."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "4. Thyrotoxic Crisis (Thyroid Storm)",
+            "children": [
+              {
+                "title": "Cause",
+                "detail": "Acute life-threatening exacerbation of hyperthyroidism in an inadequately prepared thyrotoxic patient (or precipitated by infection / trauma)."
+              },
+              {
+                "title": "Features",
+                "detail": "Hyperpyrexia (>40°C), severe tachycardia / atrial fibrillation, high-output cardiac failure, agitation, delirium, coma."
+              },
+              {
+                "title": "Management",
+                "detail": "ICU admission, active cooling (ice packs / paracetamol; avoid aspirin as it displaces T4 from TBG), IV fluids, oxygen, IV Propranolol (1–2 mg) (or oral 40 mg 6-hourly), Propylthiouracil (or Carbimazole 20 mg 6-hourly), Lugol's Iodine (10 drops 8-hourly, started 1 hour after ATD to prevent iodine from being used as substrate for new hormone synthesis), and IV Hydrocortisone (100 mg 6-hourly to block peripheral T4 → T3 conversion and treat relative adrenal insufficiency)."
+              }
+            ]
+          },
+          {
+            "title": "5. Late Complications",
+            "detail": "Hypothyroidism (100% after total thyroidectomy; 30% after lobectomy), wound infection, and hypertrophic / keloid scar."
+          }
+        ]
+      }
+    ]
+  }
+]

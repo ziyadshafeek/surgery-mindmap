@@ -1,0 +1,809 @@
+[
+  {
+    "id": "surgery-t21",
+    "title": "Q6.6: Thyroiditis & Lingual Thyroid",
+    "children": [
+      {
+        "title": "Covers: KU 22, TU"
+      },
+      {
+        "title": "1. Thyroiditis (Classification & Features)",
+        "children": [
+          {
+            "title": "Hashimoto’s Thyroiditis (Chronic Lymphocytic / Autoimmune Thyroiditis)",
+            "children": [
+              {
+                "title": "Commonest cause of hypothyroidism in iodine-sufficient areas",
+                "detail": "Commonest cause of hypothyroidism in iodine-sufficient areas; Female:Male = 10–15:1 (ages 30–50)."
+              },
+              {
+                "title": "Pathology",
+                "detail": "Diffuse Hurthle/Askanazy cell metaplasia, lymphoid follicles with germinal centres, acinar destruction, and fibrosis."
+              },
+              {
+                "title": "Clinical Features",
+                "detail": "Firm, rubbery, diffusely enlarged, bosselated goitre; initially may have transient “Hashitoxicosis” followed by permanent hypothyroidism (myxoedema). Predisposes to Primary Thyroid MALT Lymphoma and PTC."
+              },
+              {
+                "title": "Diagnosis",
+                "detail": "High titres of Anti-TPO (>90%) and Anti-Thyroglobulin antibodies, elevated TSH, and lymphocytic thyroiditis on FNAC."
+              },
+              {
+                "title": "Treatment",
+                "detail": "Lifelong Levothyroxine replacement (surgery only for compressive symptoms or suspected malignancy)."
+              }
+            ]
+          },
+          {
+            "title": "De Quervain’s Thyroiditis (Subacute Granulomatous / Viral Thyroiditis)",
+            "children": [
+              {
+                "title": "Follows an upper respiratory viral infection in young women."
+              },
+              {
+                "title": "Presents with",
+                "detail": "Acute painful, tender thyroid swelling radiating to the jaw/ears, fever, malaise, markedly raised ESR, absent thyroid antibodies, and very low radioiodine uptake despite transient hyperthyroidism (due to release of preformed hormone from disrupted follicles)."
+              },
+              {
+                "title": "Self-limiting; treated with NSAIDs or Prednisolone (10–20 mg/day tapered over 4 weeks)."
+              }
+            ]
+          },
+          {
+            "title": "Riedel’s Thyroiditis (Invasive Fibrous Thyroiditis)",
+            "children": [
+              {
+                "title": "Rare IgG4-related fibroinflammatory disorder",
+                "detail": "Dense woody fibrous tissue replaces the thyroid and invades through the capsule into strap muscles, carotid sheath, RLN, parathyroids, and trachea (associated with retroperitoneal and mediastinal fibrosis)."
+              },
+              {
+                "title": "Mimics anaplastic carcinoma (stony hard, fixed goitre with stridor)."
+              },
+              {
+                "title": "Treatment",
+                "detail": "Core biopsy/wedge isthmusectomy to decompress the trachea, high-dose corticosteroids, Tamoxifen, and levothyroxine."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Lingual Thyroid",
+        "children": [
+          {
+            "title": "Complete failure of descent of the median thyroid anlage",
+            "detail": "Leaves a rounded, reddish-blue mass at the base of the tongue (foramen caecum); in 70% of cases, it is the only functioning thyroid tissue present."
+          },
+          {
+            "title": "Causes dysphagia, dysphonia, bleeding, or airway obstruction (enlarges during puberty/pregnancy)."
+          },
+          {
+            "title": "Confirmed by (99m)Tc / ¹²³I scan."
+          },
+          {
+            "title": "Treated with suppressive Levothyroxine (or ¹³¹I ablation / transoral excision if obstructive)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t22",
+    "title": "Q7.1: Primary Hyperparathyroidism (Parathyroid Adenoma), Sestamibi Scan & Hypocalcaemia",
+    "children": [
+      {
+        "title": "Covers: TU, RGU"
+      },
+      {
+        "title": "1. Surgical Anatomy & Physiology",
+        "children": [
+          {
+            "title": "Four glands (30 mg each, “Portland brick” yellow-brown colour); all four are supplied by the Inferior Thyroid Artery."
+          },
+          {
+            "title": "Superior Parathyroids",
+            "detail": "Develop from the 4th pharyngeal pouch; constant position (80% lie within a 2 cm circle centred 1 cm above the intersection of the inferior thyroid artery and RLN at the cricothyroid junction)."
+          },
+          {
+            "title": "Inferior Parathyroids",
+            "detail": "Develop from the 3rd pharyngeal pouch along with the thymus (longer descent = more variable position; >50% lie near the lower pole of the thyroid or within the thyrothymic tract)."
+          },
+          {
+            "title": "PTH Action: Increases serum Ca²⁺ and decreases serum PO₄³⁻ by:",
+            "children": [
+              {
+                "title": "(i) stimulating osteoclast bone resorption"
+              },
+              {
+                "title": "(ii) increasing distal renal tubular Ca²⁺ reabsorption and proximal tubular phosphate excretion"
+              },
+              {
+                "title": "(iii) activating renal 1α-hydroxylase to convert 25(OH)D → 1,25(OH)₂D₃ (increasing intestinal Ca²⁺ absorption)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Etiology & Pathology of Primary Hyperparathyroidism (PHPT)",
+        "children": [
+          {
+            "title": "Single Parathyroid Adenoma: 80–85% (double adenoma in 2–4%)."
+          },
+          {
+            "title": "Four-Gland Hyperplasia: 15% (associated with MEN 1, MEN 2A, MEN 4, and chronic Lithium therapy)."
+          },
+          {
+            "title": "Parathyroid Carcinoma: 1%",
+            "detail": "Associated with HRPT2/CDC73 gene mutation [loss of parafibromin staining] and Hyperparathyroidism–Jaw Tumour [HPT-JT] syndrome; presents with palpable neck mass and severe hypercalcaemia >3.5 mmol/L."
+          }
+        ]
+      },
+      {
+        "title": "3. Clinical Features",
+        "children": [
+          {
+            "title": "Asymptomatic Hypercalcaemia (70–80% in modern practice)",
+            "detail": "Detected incidentally on routine biochemistry or DEXA scan."
+          },
+          {
+            "title": "Classical Symptomatic Pentad: “Bones, Stones, Abdominal Groans, Psychic Moans, and Fatigue Overtones”",
+            "children": [
+              {
+                "title": "Skeletal",
+                "detail": "Osteopenia/osteoporosis (preferentially affecting cortical bone of the distal third of the radius), subperiosteal bone resorption of phalanges, tapering of distal clavicles, “salt and pepper” skull, and Osteitis fibrosa cystica (Brown tumours)."
+              },
+              {
+                "title": "Renal (commonest symptomatic manifestation — 15–20%)",
+                "detail": "Recurrent calcium oxalate/phosphate renal calculi, nephrocalcinosis, polyuria/polydipsia."
+              },
+              {
+                "title": "Gastrointestinal",
+                "detail": "Peptic ulceration (calcium stimulates gastrin release), acute/chronic pancreatitis, constipation, cholelithiasis."
+              },
+              {
+                "title": "Neuropsychiatric & Cardiovascular",
+                "detail": "Depression, lethargy, confusion, proximal muscle weakness, hypertension, shortened QT interval, and band keratopathy of the cornea."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Diagnosis & Localisation Studies",
+        "children": [
+          {
+            "title": "1. Biochemical Diagnosis (Mandatory First Step — “Imaging never diagnoses PHPT”)",
+            "children": [
+              {
+                "title": "Elevated total and ionised serum Calcium + inappropriately elevated or unsuppressed intact PTH."
+              },
+              {
+                "title": "Low serum Phosphate, elevated serum alkaline phosphatase, normal vitamin D, and 24-hour urinary calcium >400 mg/day",
+                "detail": "24-hour urinary calcium >400 mg/day (with urinary calcium:creatinine clearance ratio >0.02; a ratio <0.01 indicates Familial Hypocalciuric Hypercalcaemia [FHH], where surgery is contraindicated)."
+              }
+            ]
+          },
+          {
+            "title": "2. Preoperative Localisation Studies (To guide Minimally Invasive Parathyroidectomy)",
+            "children": [
+              {
+                "title": "Technetium-99m Sestamibi ((99m)Tc-MIBI) Scintigraphy with SPECT (Short Note [TU])",
+                "children": [
+                  {
+                    "title": "Principle",
+                    "detail": "Sestamibi is a lipophilic cationic radiotracer that concentrates in mitochondria-rich oxyphil cells of hyperfunctioning parathyroid adenomas. On dual-phase imaging (15 min and 2 hours post-injection), normal thyroid tissue washes out the tracer rapidly, whereas a parathyroid adenoma shows delayed retention/persistent hot spot (Sensitivity 79%, PPV 91%)."
+                  }
+                ]
+              },
+              {
+                "title": "High-Resolution Neck Ultrasonography",
+                "detail": "Identifies oval hypoechoic adenomas posterior to the thyroid and evaluates coexisting thyroid nodules (Sensitivity 76%, PPV 93%)."
+              },
+              {
+                "title": "Four-Dimensional Computed Tomography (4D-CT)",
+                "detail": "Uses non-contrast, arterial, and delayed venous phases (4th dimension = time/perfusion); parathyroid adenomas show rapid arterial enhancement and rapid washout compared with lymph nodes or thyroid. Ideal when USG and Sestamibi are discordant or negative."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5. Management",
+        "children": [
+          {
+            "title": "Indications for Surgery: All symptomatic patients, and Asymptomatic patients meeting any of the NIH/Fourth International Workshop Criteria (Table 56.2)",
+            "children": [
+              {
+                "title": "Serum calcium >0.25 mmol/L (>1.0 mg/dL) above the upper limit of normal."
+              },
+              {
+                "title": "Skeletal: DEXA T-score ≤ -2.5 at lumbar spine, hip, or distal 1/3 radius, or vertebral fracture."
+              },
+              {
+                "title": "Renal: eGFR <60 mL/min, 24-hour urinary calcium >400 mg/day, or nephrolithiasis/nephrocalcinosis on imaging."
+              },
+              {
+                "title": "Age <50 years."
+              }
+            ]
+          },
+          {
+            "title": "Surgical Approaches",
+            "children": [
+              {
+                "title": "Concordant USG + Sestamibi (Single Adenoma)",
+                "detail": "Minimally Invasive (Focused) Parathyroidectomy (MIP) through a <3 cm incision. Intraoperative PTH (ioPTH) monitoring using the Miami Criteria (a >50% drop in plasma PTH from the highest pre-excision value at 10 minutes post-excision into the normal range confirms cure, as PTH half-life is 3–5 minutes)."
+              },
+              {
+                "title": "Discordant/Negative Imaging or Familial/Multigland Disease (MEN 1/2A)",
+                "detail": "Bilateral Four-Gland Neck Exploration with either Subtotal (3(1/2)-gland) Parathyroidectomy (leaving half of the most normal inferior gland marked with a non-absorbable clip/suture) or Total Parathyroidectomy with Forearm Autotransplantation (into brachioradialis pockets) + Cervical Thymectomy."
+              }
+            ]
+          },
+          {
+            "title": "Medical Management (for unfit patients or Hypercalcaemic Crisis [Ca²⁺ >3.5 mmol/L])",
+            "children": [
+              {
+                "title": "Acute Crisis",
+                "detail": "Aggressive IV 0.9% Normal Saline hydration (200–500 mL/h) + loop diuretic (Furosemide after volume restoration) + IV Bisphosphonates (Zoledronic acid/Pamidronate) + Calcitonin."
+              },
+              {
+                "title": "Chronic Medical Therapy",
+                "detail": "Cinacalcet (calcimimetic that increases sensitivity of the parathyroid Calcium-Sensing Receptor [CaSR]), Bisphosphonates, or Denosumab."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6. Trousseau’s Sign & Hypocalcaemia [RGU, TU]",
+        "children": [
+          {
+            "title": "Trousseau’s Sign of Latent Tetany",
+            "detail": "Inflating a sphygmomanometer cuff on the upper arm 20 mmHg above systolic blood pressure for 3 minutes induces ischaemia of the ulnar/median nerves, provoking carpopedal spasm (“obstetrician’s hand” / main d’accoucheur): flexion at the wrist and metacarpophalangeal joints, extension of the interphalangeal joints, and adduction of the thumb (94% sensitive and 99% specific for hypocalcaemia)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t23",
+    "title": "Q7.2: Phaeochromocytoma, Neuroblastoma & Multiple Endocrine Neoplasia (MEN) Syndromes",
+    "children": [
+      {
+        "title": "Covers: KU 24, 15, RGU, TU — Short Answers"
+      },
+      {
+        "title": "1. Phaeochromocytoma & Paraganglioma (PPGL) [KU 24, 15, TU]",
+        "children": [
+          {
+            "title": "Definition",
+            "detail": "Neuroectodermal catecholamine-secreting tumours arising from chromaffin cells of the adrenal medulla (Phaeochromocytoma — PCC) or extra-adrenal autonomic ganglia (Paraganglioma — PGL, commonest at the Organ of Zuckerkandl near the inferior mesenteric artery origin)."
+          },
+          {
+            "title": "Traditional “Rule of 10s” (and Modern Genetics)",
+            "detail": "~10% extra-adrenal, 10% bilateral, 10% malignant, 10% in children. Today, 25–30% are hereditary: MEN 2A/2B (RET gene), Von Hippel–Lindau (VHL) disease, Neurofibromatosis type 1 (NF-1), and Hereditary PGL Syndromes (SDHB, SDHD succinate dehydrogenase mutations — SDHB carries a 34–97% risk of malignancy)."
+          },
+          {
+            "title": "Clinical Features",
+            "detail": "Classic paroxysmal triad of episodic throbbing headache, profuse sweating, and palpitations (90% specific in the presence of an adrenal mass), with sustained or paroxysmal hypertension, pallor, anxiety, tremor, and hyperglycaemia. Precipitated by exercise, abdominal palpation, anaesthetic induction, or unopposed β-blockers."
+          },
+          {
+            "title": "Stepwise Diagnosis & Management",
+            "children": [
+              {
+                "title": "Biochemical Confirmation First",
+                "detail": "Elevated Plasma Free Metanephrines (99% sensitive) and/or 24-hour Urinary Fractionated Metanephrines (97% sensitive). (Biopsy of a suspected PCC is strictly contraindicated)."
+              },
+              {
+                "title": "Anatomical & Functional Localisation",
+                "detail": "Contrast CT or MRI abdomen (shows a vascular adrenal mass with central necrosis, bright “light-bulb” T2 hyperintensity on MRI, >10 HU on non-contrast CT)."
+              },
+              {
+                "title": "Functional imaging with ¹²³I-MIBG (meta-iodobenzylguanidine) scintigraphy, ⁶⁸Ga-DOTATATE PET-CT, or ¹⁸F-FDOPA PET for extra-adrenal, bilateral, or metastatic disease."
+              },
+              {
+                "title": "Mandatory Preoperative Pharmacological Preparation (Reduces mortality from 45% to <3%)",
+                "children": [
+                  {
+                    "title": "Step 1 — α-Adrenergic Blockade",
+                    "detail": "Start non-competitive irreversible α-blocker Phenoxybenzamine (10 mg BD, increased by 10–20 mg/day up to 100–160 mg/day for 10–14 days) or selective α₁-blocker Doxazosin alongside high oral salt and fluid intake to expand contracted intravascular volume until orthostatic hypotension and nasal stuffiness are achieved."
+                  },
+                  {
+                    "title": "Step 2 — β-Adrenergic Blockade (Propranolol / Atenolol)",
+                    "detail": "Added ONLY AFTER adequate α-blockade is established to control reflex tachycardia/arrhythmias. (Giving a β-blocker first abolishes β₂-mediated skeletal muscle vasodilation, leaving unopposed α₁-vasoconstriction → fatal hypertensive crisis and pulmonary oedema)."
+                  }
+                ]
+              },
+              {
+                "title": "Surgical Treatment",
+                "detail": "Laparoscopic Adrenalectomy (transperitoneal or posterior retroperitoneoscopic approach) with early ligation of the adrenal vein and minimal tumour manipulation (Open resection for tumours >8–10 cm or locally invasive malignant PCC). Watch for sudden hypotension and hypoglycaemia after adrenal vein ligation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Multiple Endocrine Neoplasia (MEN) Syndromes [KU 24, RGU, TU] (Table surgery-tbl-004)",
+        "children": [
+          {
+            "title": "MEN Type 1 (Wermer’s Syndrome)",
+            "children": [
+              {
+                "title": "Inheritance & Gene",
+                "detail": "Autosomal Dominant; MEN1 tumour suppressor gene (Chromosome 11q13) encoding Menin."
+              },
+              {
+                "title": "Components — “The 3 P’s”",
+                "children": [
+                  {
+                    "title": "Parathyroid Hyperplasia (95%) — earliest & commonest."
+                  },
+                  {
+                    "title": "Pancreatic/Duodenal Islet Cell NETs (30–80%)",
+                    "detail": "Non-functioning P-NETs, Gastrinoma (ZES), Insulinoma, VIPoma, Glucagonoma."
+                  },
+                  {
+                    "title": "Pituitary Adenomas (15–50%)",
+                    "detail": "Prolactinoma (60%), GH (acromegaly), ACTH."
+                  },
+                  {
+                    "title": "Others: Adrenocortical tumours, foregut carcinoids, lipomas, facial angiofibromas."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "MEN Type 2A (Sipple’s Syndrome)",
+            "children": [
+              {
+                "title": "Inheritance & Gene",
+                "detail": "Autosomal Dominant; RET proto-oncogene (Chromosome 10q11) encoding a transmembrane tyrosine kinase receptor (Codon 634 commonest)."
+              },
+              {
+                "title": "Components",
+                "children": [
+                  {
+                    "title": "Medullary Thyroid Carcinoma (90–100%) — main determinant of survival."
+                  },
+                  {
+                    "title": "Phaeochromocytoma (10–70%) — often bilateral."
+                  },
+                  {
+                    "title": "Parathyroid Hyperplasia (20–30%) — mild/asymptomatic."
+                  },
+                  {
+                    "title": "Variants: Familial MTC (FMTC), MEN 2A with cutaneous lichen amyloidosis or Hirschsprung’s disease."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "MEN Type 2B",
+            "children": [
+              {
+                "title": "Inheritance & Gene",
+                "detail": "Autosomal Dominant (50% de novo); RET proto-oncogene (Codon 918 commonest)."
+              },
+              {
+                "title": "Components",
+                "children": [
+                  {
+                    "title": "Medullary Thyroid Carcinoma (100%) — very aggressive, infancy onset."
+                  },
+                  {
+                    "title": "Phaeochromocytoma (50–60%)."
+                  },
+                  {
+                    "title": "Mucosal Neuromas (100%) of lips, tongue, eyelids & Intestinal Ganglioneuromatosis."
+                  },
+                  {
+                    "title": "Marfanoid Habitus."
+                  },
+                  {
+                    "title": "Note: Does NOT develop hyperparathyroidism."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Neuroblastoma [TU]",
+        "children": [
+          {
+            "title": "Commonest extracranial solid malignancy of infancy/childhood (75% present <2 years of age)",
+            "detail": "Arises from neural crest neuroblasts in the adrenal medulla (40%) or sympathetic chain."
+          },
+          {
+            "title": "Clinical Features",
+            "detail": "Large irregular abdominal mass that crosses the midline (unlike Wilms’ tumour), weight loss, periorbital ecchymoses (“raccoon eyes” from orbital metastases), bone pain, Pepper syndrome (massive liver metastases), Hutchinson syndrome (skull/bone metastases), or opsoclonus–myoclonus."
+          },
+          {
+            "title": "Diagnosis & Prognosis",
+            "detail": "Elevated 24-hour urinary VMA / HVA / metanephrines; CT/MRI + ¹²³I-MIBG scan; bone marrow aspirate and biopsy (small round blue cells with Homer-Wright rosettes). MYCN oncogene amplification (present in 25%), age >18 months, and 1p/11q deletion predict poor prognosis. Treated by risk-stratified surgery ± multiagent chemotherapy."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t24",
+    "title": "Q8.1: Triple Assessment, BI-RADS, Benign Breast Diseases (ANDI, Mastalgia, Fibroadenoma, Phyllodes Tumour, Breast Abscess & Nipple Discharge)",
+    "children": [
+      {
+        "title": "Covers: KU 24, 23, 22, 21, 20, 19, 17, 16, RGU, TU — Short Essays & Short Answers"
+      },
+      {
+        "title": "1. Triple Assessment of a Breast Lump [KU 24, 23, 22, 21, 19]",
+        "children": [
+          {
+            "title": "Every patient presenting with a breast symptom/lump is evaluated systematically by combining three modalities (Diagnostic accuracy and Positive Predictive Value >99.9% when concordant)."
+          },
+          {
+            "title": "Clinical Assessment",
+            "detail": "Detailed history (duration, pain, nipple discharge, menstrual/obstetric history, family history) + systematic bimanual Clinical Breast Examination (inspection in 4 postures + palpation of all four quadrants, subareolar region, axillary tail, and regional lymph nodes using the flat pads of the fingers)."
+          },
+          {
+            "title": "Radiological Imaging",
+            "children": [
+              {
+                "title": "Ultrasonography (First-line in women <35–40 years with dense breasts)",
+                "detail": "Distinguishes cystic from solid lesions and evaluates axillary lymph nodes."
+              },
+              {
+                "title": "Mammography (First-line in women ≥ 35–40 years)",
+                "detail": "Two views (Craniocaudal [CC] and Mediolateral Oblique [MLO]) using low-voltage, high-amperage X-rays (~ 1 mGy radiation). Mammographic signs of malignancy: irregular spiculated mass, clustered pleomorphic/branching microcalcifications, and architectural distortion."
+              }
+            ]
+          },
+          {
+            "title": "Pathological Tissue Sampling",
+            "detail": "Image-guided Large-Diameter Core Needle Biopsy (14G Tru-Cut needle) under local anaesthesia (preferred over FNAC as it distinguishes in situ from invasive cancer and allows ER, PR, HER2/neu, and Ki-67 immunohistochemistry)."
+          }
+        ]
+      },
+      {
+        "title": "2. BI-RADS (Breast Imaging Reporting and Data System) Grading (Table 58.1) [KU 17]",
+        "children": [
+          {
+            "title": "BI-RADS 0: Incomplete assessment → Requires additional imaging."
+          },
+          {
+            "title": "BI-RADS 1: Negative / Normal (0% malignancy) → Routine screening."
+          },
+          {
+            "title": "BI-RADS 2: Benign finding (e.g., simple cyst, calcified fibroadenoma; 0% malignancy) → Routine screening."
+          },
+          {
+            "title": "BI-RADS 3: Probably benign (e.g., typical fibroadenoma; ≤ 2% malignancy) → Short-interval (6-month) imaging follow-up."
+          },
+          {
+            "title": "BI-RADS 4: Suspicious abnormality (4a: Low 2–10%; 4b: Moderate 10–50%; 4c: High 50–95% malignancy) → Core needle biopsy indicated."
+          },
+          {
+            "title": "BI-RADS 5: Highly suggestive of malignancy (≥ 95% probability) → Biopsy mandatory."
+          },
+          {
+            "title": "BI-RADS 6: Known biopsy-proven malignancy prior to definitive therapy."
+          }
+        ]
+      },
+      {
+        "title": "3. ANDI (Aberrations of Normal Development and Involution) Concept [KU 22, RGU, TU]",
+        "children": [
+          {
+            "title": "Formulated by Hughes, Mansel & Webster (Cardiff Breast Clinic) to replace confusing historical terms like “fibroadenosis” or “fibrocystic disease”.",
+            "detail": "Most benign breast conditions arise from physiological responses of the Terminal Ductal Lobular Unit (TDLU) to cyclical hormones across three reproductive phases (Table surgery-tbl-005)."
+          },
+          {
+            "title": "1. Early Reproductive / Lobular Development (15–25 years)",
+            "children": [
+              {
+                "title": "Normal Physiological Process: Stromal and lobular development; nipple eversion."
+              },
+              {
+                "title": "Benign Aberration (ANDI): Fibroadenoma, Adolescent hypertrophy, Nipple inversion."
+              },
+              {
+                "title": "Progression to Disease State: Giant fibroadenoma (>5 cm), Gigantomastia, Subareolar abscess / Mammary duct fistula."
+              }
+            ]
+          },
+          {
+            "title": "2. Mature Reproductive / Cyclical Change (25–40 years)",
+            "children": [
+              {
+                "title": "Normal Physiological Process: Cyclical hormonal proliferation and secretion."
+              },
+              {
+                "title": "Benign Aberration (ANDI): Cyclical Mastalgia and diffuse Benign Nodularity (formerly “fibroadenosis”)."
+              },
+              {
+                "title": "Progression to Disease State: Incapacitating mastalgia."
+              }
+            ]
+          },
+          {
+            "title": "3. Involution (35–55 years)",
+            "children": [
+              {
+                "title": "Normal Physiological Process: Lobular involution, stromal replacement, ductal dilation, epithelial turnover."
+              },
+              {
+                "title": "Benign Aberration (ANDI): Macrocysts, Sclerosing adenosis, Duct ectasia, Simple epithelial hyperplasia."
+              },
+              {
+                "title": "Progression to Disease State: Periductal mastitis, Intracystic papilloma, Epithelial hyperplasia with atypia (ADH / ALH — RR for cancer 4–5x)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Mastalgia (Breast Pain) (Table 58.2) [KU 22, TU]",
+        "children": [
+          {
+            "title": "Classification",
+            "children": [
+              {
+                "title": "Cyclical Mastalgia (2/3 of cases)",
+                "detail": "Bilateral diffuse heaviness/pain (worst in upper outer quadrants) starting at ovulation (day 14), peaking premenstrually, and relieved by menses."
+              },
+              {
+                "title": "Non-Cyclical Mastalgia",
+                "detail": "Unilateral, well-localised (“trigger spot”) pain unrelated to menses, occurring pre- or postmenopausally (due to duct ectasia, periductal mastitis, cysts, or sclerosing adenosis)."
+              },
+              {
+                "title": "Extramammary (Referred) Pain",
+                "detail": "Tietze’s syndrome (painful costochondral junction), lateral chest wall muscular pain, angina, or cervical radiculopathy."
+              }
+            ]
+          },
+          {
+            "title": "Management",
+            "children": [
+              {
+                "title": "Perform Triple Assessment to exclude cancer → Firm Reassurance (resolves symptoms in 85% of women) + record a Daily Visual Analogue Scale (VAS) Breast Pain Chart for 1 month."
+              },
+              {
+                "title": "First-Line Conservative Measures",
+                "detail": "Well-fitting supportive sports brassiere, dietary Flaxseed (30 g/day) or Evening Primrose Oil, and Topical NSAID gel (Diclofenac / Piroxicam QDS)."
+              },
+              {
+                "title": "Second-Line Systemic Therapy (for severe pain VAS >3/10)",
+                "children": [
+                  {
+                    "title": "Ormeloxifene (Centchroman) 30 mg twice weekly for 3–6 months (selective oestrogen receptor modulator widely used in India for mastalgia and benign nodularity/fibroadenoma)."
+                  },
+                  {
+                    "title": "Low-dose Tamoxifen (10 mg daily for 3–6 months)."
+                  },
+                  {
+                    "title": "Danazol (100–200 mg daily) or LHRH agonists (Goserelin) for refractory cases."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5. Fibroadenoma (“Breast Mouse”) [RGU, TU]",
+        "children": [
+          {
+            "title": "Arises from hyperplasia of a single lobule (TDLU) in women aged 15–25 years.",
+            "detail": "Firm, smooth, well-circumscribed, painless lump (1–3 cm) that slips readily beneath the examining fingers (“breast mouse”)."
+          },
+          {
+            "title": "Pathology: Benign proliferation of both stromal fibrous tissue and epithelial ducts (pericanalicular vs intracanalicular types)."
+          },
+          {
+            "title": "Management",
+            "detail": "In women <25 years with typical clinical/USG features (BI-RADS 3), conservative observation or medical therapy with Ormeloxifene is safe. Indications for Surgical Excision (Enucleation): Age >30 years, size >5 cm (Giant fibroadenoma — excised via a submammary Gaillard Thomas incision), rapid growth, suspicious USG features, complex histology, or patient anxiety."
+          }
+        ]
+      },
+      {
+        "title": "6. Phyllodes Tumour (Serocystic Disease of Brodie / formerly Cystosarcoma Phyllodes) [KU 24, 23, 20, RGU, TU]",
+        "children": [
+          {
+            "title": "Pathology",
+            "children": [
+              {
+                "title": "A fibroepithelial tumour with leaf-like (Greek: phyllon = leaf) clefts lined by epithelium and a hypercellular mesenchymal spindle-cell stroma. Classified by stromal atypia, margins, and mitotic count into:"
+              },
+              {
+                "title": "Benign (<4 mitoses/10 HPF)."
+              },
+              {
+                "title": "Borderline (4–9 mitoses/10 HPF)."
+              },
+              {
+                "title": "Malignant (≥ 10 mitoses/10 HPF, sarcomatous stromal overgrowth, infiltrative margins)."
+              }
+            ]
+          },
+          {
+            "title": "Clinical Features",
+            "children": [
+              {
+                "title": "Occurs in women aged 35–55 years (10–20 years older than fibroadenoma)."
+              },
+              {
+                "title": "Presents as a rapidly growing, large, painless, bosselated mass with stretched, shiny overlying skin and prominent engorged subcutaneous veins."
+              },
+              {
+                "title": "Despite massive size and occasional pressure necrosis/ulceration of the skin, it remains mobile over the chest wall, does not cause nipple retraction/peau d’orange, and rarely metastasises to axillary lymph nodes (malignant phyllodes spreads haematogenously to the lungs)."
+              }
+            ]
+          },
+          {
+            "title": "Management",
+            "children": [
+              {
+                "title": "Wide Local Excision with a 1–2 cm margin of normal breast tissue (simple enucleation is strictly contraindicated due to high local recurrence)."
+              },
+              {
+                "title": "Simple Mastectomy (without axillary lymph node dissection) is indicated for massive tumours (unfavourable tumour-to-breast ratio), recurrent tumours, or malignant phyllodes tumours, followed by adjuvant radiotherapy for malignant/recurrent cases."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7. Breast Abscess & Antibioma [KU 19, RGU, TU]",
+        "children": [
+          {
+            "title": "Lactational Breast Abscess",
+            "children": [
+              {
+                "title": "Caused by Staphylococcus aureus entering via a cracked nipple or milk stasis (peaks in the first month of primiparous lactation and at weaning)."
+              },
+              {
+                "title": "Management",
+                "detail": "Support the breast, continue 2-hourly breastfeeding/expression, give anti-staphylococcal antibiotics (Flucloxacillin / Co-amoxiclav / Erythromycin), and perform Ultrasound-Guided Needle Aspiration (for abscesses <3 cm) or Ultrasound-Guided Percutaneous Suction Catheter Drainage (for abscesses >3 cm or >30 mL pus) with saline irrigation."
+              },
+              {
+                "title": "(Open incision and drainage is avoided unless skin is necrotic, as it causes ugly scars and milk fistulae)."
+              }
+            ]
+          },
+          {
+            "title": "Non-Lactational (Subareolar) Abscess",
+            "detail": "Occurs in young female smokers due to Periductal Mastitis and squamous metaplasia of major lactiferous ducts; ruptures at the areolar margin to form a Mammary Duct Fistula with transverse slit-like nipple retraction. Treated with antibiotics + metronidazole, smoking cessation, and Hadfield’s Major Duct Excision once acute sepsis settles."
+          },
+          {
+            "title": "Antibioma (Short Note [KU 19])",
+            "children": [
+              {
+                "title": "When a formed breast abscess is inappropriately treated with prolonged courses of antibiotics without draining the pus, the pus becomes sterile and inspissated, surrounded by a thick, dense, fibrous reactive wall."
+              },
+              {
+                "title": "Clinically, it forms a painless, hard, fixed breast lump with skin tethering that closely mimics breast carcinoma. Diagnosed by USG and core biopsy; treated by evacuation or surgical excision."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "8. Evaluation & Management of Abnormal Nipple Discharge [KU 16, RGU, TU]",
+        "children": [
+          {
+            "title": "Pathological Discharge (“The 4 S’s”)",
+            "detail": "Single-duct, Spontaneous, Serous (clear/straw-coloured) or Sanguineous (bloodstained) discharge (Summary Box 58.2)."
+          },
+          {
+            "title": "Causes by Character of Discharge",
+            "children": [
+              {
+                "title": "Bloodstained or Serous (Single Duct)",
+                "detail": "Solitary Intraductal Papilloma (commonest cause — located within 5 cm of the nipple), Ductal Carcinoma in situ (DCIS) / Invasive Ductal Carcinoma, or Duct ectasia."
+              },
+              {
+                "title": "Thick, Multicoloured (Green, Black, Muddy, or Cheesy from Multiple Ducts)",
+                "detail": "Duct Ectasia (benign disorder of involution; dilated subareolar ducts >3 mm filled with inspissated debris)."
+              },
+              {
+                "title": "Purulent Discharge: Periductal Mastitis."
+              },
+              {
+                "title": "Bilateral Milky Discharge (Galactorrhoea)",
+                "detail": "Hyperprolactinaemia (prolactinoma, hypothyroidism, or dopamine-antagonist drugs like metoclopramide, haloperidol, chlorpromazine)."
+              },
+              {
+                "title": "Surface Serosanguineous Exudate: Paget’s Disease of the Nipple or eczema."
+              }
+            ]
+          },
+          {
+            "title": "Evaluation & Management",
+            "children": [
+              {
+                "title": "Triple Assessment",
+                "detail": "Clinical examination (locate the “trigger point” quadrant that expresses discharge on radial pressure), High-Resolution Subareolar Ultrasonography (85% accuracy in visualising intraductal papillomas or dilated ducts) + Mammography, and core biopsy if any mass is present. (Nipple discharge cytology has poor sensitivity and is largely abandoned)."
+              },
+              {
+                "title": "Surgical Treatment (Indicated for persistent single-duct bloody/serous discharge, especially in women >40 years)",
+                "children": [
+                  {
+                    "title": "Single-Duct Discharge: Microdochectomy",
+                    "detail": "Cannulate the offending duct orifice with a lacrimal probe or nylon suture → circumareolar incision → excise a 2–5 cm length of the single terminal lactiferous duct for histology."
+                  },
+                  {
+                    "title": "Multiduct Discharge / Severe Duct Ectasia: Hadfield’s Operation (Radical Subareolar Major Mammary Duct Excision)",
+                    "detail": "Excision of the entire cone of major lactiferous ducts beneath the nipple–areola complex."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "9. Gynaecomastia [KU 17, RGU, TU]",
+        "children": [
+          {
+            "title": "Definition",
+            "detail": "Benign proliferation of glandular ductal and stromal tissue of the male breast (forming a firm, rubbery, mobile subareolar disc >2 cm), resulting from an increased Oestrogen-to-Androgen ratio. Must be differentiated from pseudogynaecomastia (fatty deposition in obesity without a palpable subareolar fibrous disc) and male breast cancer (eccentric, painless, hard, fixed mass with nipple retraction/ulceration)."
+          },
+          {
+            "title": "Etiology",
+            "children": [
+              {
+                "title": "Physiological (Trimodal peaks)",
+                "detail": "Neonatal (transplacental maternal oestrogens), Pubertal (ages 12–15; regresses spontaneously within 1–2 years in 90%), and Senescent (>60 years due to falling free testosterone and peripheral aromatisation of androgens in adipose tissue)."
+              },
+              {
+                "title": "Pathological",
+                "children": [
+                  {
+                    "title": "Drugs (“DISCO”)",
+                    "detail": "Digoxin, Isoniazid, Spironolactone (commonest), Cimetidine, Oestrogens/anti-androgens (Finasteride, Flutamide, Ketoconazole, Calcium channel blockers, Marijuana, Anabolic steroids)."
+                  },
+                  {
+                    "title": "Liver Cirrhosis (impaired hepatic metabolism of oestrogens)."
+                  },
+                  {
+                    "title": "Chronic Renal Failure & Thyrotoxicosis."
+                  },
+                  {
+                    "title": "Testicular Deficiency (Hypogonadism)",
+                    "detail": "Klinefelter’s syndrome (47,XXY) (carries a 20–50-fold increased risk of male breast cancer), mumps orchitis, cryptorchidism."
+                  },
+                  {
+                    "title": "Hormone-Secreting Tumours",
+                    "detail": "Leydig/Sertoli cell testicular tumours, hCG-secreting germ cell tumours, adrenocortical feminising tumours."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Simon’s Classification",
+            "detail": "Grade I: Minor enlargement, no skin excess; Grade IIa: Moderate enlargement, no skin excess; Grade IIb: Moderate enlargement with minor skin excess; Grade III: Gross enlargement with marked ptosis and skin excess (resembling a female breast)."
+          },
+          {
+            "title": "Management",
+            "children": [
+              {
+                "title": "Exclude testicular tumour (palpate testes + scrotal USG), check LFTs, RFTs, TFTs, serum Testosterone, Oestradiol, LH, FSH, β-hCG, and Prolactin, and perform breast USG/mammogram (+ core biopsy if suspicious of cancer)."
+              },
+              {
+                "title": "Medical: Withdraw offending drugs; reassure in pubertal cases; trial of Tamoxifen (10–20 mg daily for 3–6 months) or Danazol gives relief in painful, recent-onset florid gynaecomastia."
+              },
+              {
+                "title": "Surgical (for longstanding fibrotic gynaecomastia >12 months or cosmetic distress)",
+                "detail": "Subcutaneous Mastectomy (Webster’s intra-areolar incision) preserving a 5 mm subareolar button to prevent “saucer deformity”, combined with Liposuction (or concentric skin reduction for Grade III)."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

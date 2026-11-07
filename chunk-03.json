@@ -1,0 +1,814 @@
+[
+  {
+    "id": "surgery-t09",
+    "title": "Q3.2: Flaps & Vascular Grafts",
+    "children": [
+      {
+        "title": "Covers: TU, RGU"
+      },
+      {
+        "title": "1. Flaps",
+        "children": [
+          {
+            "title": "Definition",
+            "detail": "A block of tissue transferred from a donor site to a recipient defect while maintaining its own innate blood supply via a vascular pedicle (or re-established via microvascular anastomosis)."
+          },
+          {
+            "title": "Indications",
+            "children": [
+              {
+                "title": "Covering avascular beds",
+                "detail": "Exposed bone, tendon, cartilage, orthopaedic metalwork, major vessels."
+              },
+              {
+                "title": "Reconstructing composite 3D defects"
+              },
+              {
+                "title": "Providing padding over pressure points (pressure sores)"
+              },
+              {
+                "title": "Transferring functional muscle / sensate skin"
+              }
+            ]
+          },
+          {
+            "title": "The “Five Cs” Classification of Flaps (Bailey & Love)",
+            "children": [
+              {
+                "title": "Circulation (Blood Supply)",
+                "children": [
+                  {
+                    "title": "Random Pattern Flaps",
+                    "detail": "Supplied by the subdermal vascular plexus without a named vessel; limited by length-to-breadth ratio, typically 1:1 to 2:1, up to 3:1 on the face."
+                  },
+                  {
+                    "title": "Axial Pattern Flaps",
+                    "detail": "Contain a specific anatomically named artery and vein running along the long axis of the flap.",
+                    "children": [
+                      {
+                        "title": "Forehead flap based on supratrochlear artery"
+                      },
+                      {
+                        "title": "Groin flap based on superficial circumflex iliac artery"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Composition",
+                "children": [
+                  {
+                    "title": "Cutaneous"
+                  },
+                  {
+                    "title": "Fasciocutaneous (Cormack & Lamberty Types A–D)",
+                    "detail": "e.g. Radial forearm flap."
+                  },
+                  {
+                    "title": "Myocutaneous / Muscle (Mathes & Nahai Types I–V)",
+                    "children": [
+                      {
+                        "title": "Latissimus dorsi [Type V]"
+                      },
+                      {
+                        "title": "Gracilis [Type II]"
+                      },
+                      {
+                        "title": "TRAM [Type III]"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Osseocutaneous",
+                    "detail": "Free fibula flap."
+                  }
+                ]
+              },
+              {
+                "title": "Contiguity (Proximity to Defect)",
+                "children": [
+                  {
+                    "title": "Local (adjacent to defect)"
+                  },
+                  {
+                    "title": "Regional (nearby)",
+                    "detail": "e.g. Pectoralis major flap to neck."
+                  },
+                  {
+                    "title": "Distant",
+                    "detail": "Pedicled groin flap or Microvascular Free Flap such as Anterolateral Thigh [ALT] or DIEP flap."
+                  }
+                ]
+              },
+              {
+                "title": "Contour (Method of Movement for Local Flaps)",
+                "children": [
+                  {
+                    "title": "Advancement Flaps",
+                    "children": [
+                      {
+                        "title": "Rectangular"
+                      },
+                      {
+                        "title": "V-Y advancement",
+                        "detail": "e.g. fingertip amputation."
+                      },
+                      {
+                        "title": "Y-V plasty"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Pivot Flaps",
+                    "children": [
+                      {
+                        "title": "Rotation flap (semicircular arc)"
+                      },
+                      {
+                        "title": "Transposition flap",
+                        "children": [
+                          {
+                            "title": "Rhomboid / Limberg flap"
+                          },
+                          {
+                            "title": "Bilobed flap"
+                          },
+                          {
+                            "title": "Z-plasty"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Interpolation flap (Indian forehead flap)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Conditioning",
+                "detail": "Flap “delay”: surgical division of part of the blood supply 2 weeks prior to transfer to open choke vessels and augment axial survival."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Vascular Grafts",
+        "children": [
+          {
+            "title": "Autologous Vein Grafts",
+            "detail": "Gold standard for small/medium-calibre infrainguinal arterial bypasses (femoropopliteal, femorodistal, coronary, and traumatic vascular repair).",
+            "children": [
+              {
+                "title": "Great Saphenous Vein (GSV)",
+                "children": [
+                  {
+                    "title": "Reversed",
+                    "detail": "So venous valves do not obstruct arterial flow."
+                  },
+                  {
+                    "title": "In situ",
+                    "detail": "After disrupting valves with a valvulotome."
+                  },
+                  {
+                    "title": "Alternatives: Small saphenous vein, cephalic / basilic arm veins"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Synthetic Prosthetic Grafts",
+            "detail": "Used for large-calibre high-flow vessels (aortoiliac bypass, AAA repair) or when autologous vein is unavailable.",
+            "children": [
+              {
+                "title": "Dacron (woven or knitted polyethylene terephthalate)",
+                "detail": "Used for aortic / iliac replacement."
+              },
+              {
+                "title": "ePTFE (expanded polytetrafluoroethylene)",
+                "children": [
+                  {
+                    "title": "Femoropopliteal bypass",
+                    "detail": "With a distal autologous vein collar — Miller cuff or St Mary's boot — to reduce intimal hyperplasia."
+                  },
+                  {
+                    "title": "Arteriovenous grafts for haemodialysis"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t10",
+    "title": "Q4.1: Premalignant Conditions of the Oral Cavity & Leukoplakia",
+    "children": [
+      {
+        "title": "Covers: KU 18, 16, RGU, TU"
+      },
+      {
+        "title": "Potentially Malignant (Premalignant) Oral Lesions",
+        "children": [
+          {
+            "title": "High Risk",
+            "children": [
+              {
+                "title": "Erythroplakia",
+                "detail": "Bright red velvety plaque that cannot be characterised clinically or pathologically as any other condition; carries the highest risk of malignant transformation (>50% harbour severe dysplasia or carcinoma in situ at biopsy)."
+              },
+              {
+                "title": "Speckled Leukoplakia (Erythroleukoplakia)",
+                "detail": "Mixed white nodular patches on an erythematous base; carries a much higher malignant risk than homogeneous leukoplakia."
+              },
+              {
+                "title": "Proliferative Verrucous Leukoplakia (PVL)",
+                "detail": "Multifocal, exophytic, progressive white lesions in elderly women (often non-smokers) with a near 100% eventual malignant transformation rate."
+              },
+              {
+                "title": "Oral Submucous Fibrosis (OSMF)",
+                "detail": "Chronic, insidious progressive juxta-epithelial fibrosis of the oral mucosa caused by areca nut (betel quid / gutka) chewing; causes burning sensation, blanching of mucosa, palpable fibrous bands, and progressive trismus."
+              },
+              {
+                "title": "Chronic Hyperplastic Candidiasis"
+              }
+            ]
+          },
+          {
+            "title": "Intermediate / Low Risk",
+            "children": [
+              {
+                "title": "Homogeneous Leukoplakia (see below)"
+              },
+              {
+                "title": "Oral Lichen Planus",
+                "detail": "Especially the erosive / atrophic type; 1% risk."
+              },
+              {
+                "title": "Syphilitic Glossitis"
+              },
+              {
+                "title": "Sideropenic dysphagia (Plummer–Vinson syndrome)"
+              },
+              {
+                "title": "Discoid lupus erythematosus"
+              },
+              {
+                "title": "Inherited Dyskeratosis congenita"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Oral Leukoplakia (Detailed Note)",
+        "children": [
+          {
+            "title": "WHO Definition",
+            "detail": "A predominantly white patch or plaque of the oral mucosa that cannot be scraped off and cannot be characterised clinically or pathologically as any other definable disease."
+          },
+          {
+            "title": "Etiology (The “6 S's”)",
+            "children": [
+              {
+                "title": "Smoking (tobacco / bidi / reverse smoking)"
+              },
+              {
+                "title": "Spirits (alcohol)"
+              },
+              {
+                "title": "Sharp tooth / ill-fitting dentures"
+              },
+              {
+                "title": "Spices / betel quid (areca nut + slaked lime)"
+              },
+              {
+                "title": "Syphilis"
+              },
+              {
+                "title": "Sepsis"
+              }
+            ]
+          },
+          {
+            "title": "Clinical Types",
+            "children": [
+              {
+                "title": "Homogeneous",
+                "detail": "Flat, thin, uniform white plaque with low malignant potential."
+              },
+              {
+                "title": "Non-homogeneous",
+                "detail": "Nodular, verrucous, or speckled / erythroleukoplakia."
+              }
+            ]
+          },
+          {
+            "title": "Factors Increasing Malignant Transformation Risk (Summary Box 53.2)",
+            "children": [
+              {
+                "title": "Female sex"
+              },
+              {
+                "title": "Lesion size >200 mm²"
+              },
+              {
+                "title": "Non-homogeneous / speckled appearance"
+              },
+              {
+                "title": "High-risk anatomical subsite",
+                "detail": "Floor of mouth and ventral / lateral border of tongue."
+              },
+              {
+                "title": "Presence of multiple lesions"
+              },
+              {
+                "title": "Leukoplakia in a non-smoker"
+              },
+              {
+                "title": "Overall transformation rate: 0.13% to 34%"
+              }
+            ]
+          },
+          {
+            "title": "Management",
+            "children": [
+              {
+                "title": "Cessation of Risk Factors",
+                "detail": "Stop tobacco, betel quid, and alcohol; smooth sharp teeth."
+              },
+              {
+                "title": "Incisional Biopsy",
+                "detail": "Mandatory from the most indurated or red / speckled area to grade dysplasia (mild, moderate, severe) or rule out invasive SCC."
+              },
+              {
+                "title": "Treatment",
+                "children": [
+                  {
+                    "title": "Mild dysplasia",
+                    "detail": "May be observed with serial photography and medical antioxidants (retinoids / lycopene)."
+                  },
+                  {
+                    "title": "Moderate-to-severe dysplasia",
+                    "detail": "Requires surgical excision (scalpel or CO_2 laser ablation) with lifelong surveillance."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t11",
+    "title": "Q4.2: Oral Cavity Squamous Cell Carcinoma (Carcinoma Tongue & Buccal Mucosa)",
+    "children": [
+      {
+        "title": "Covers: KU 20, RGU, TU"
+      },
+      {
+        "title": "Epidemiology & Etiology",
+        "children": [
+          {
+            "title": ">95% of oral cavity cancers are Squamous Cell Carcinomas (OCSCC)"
+          },
+          {
+            "title": "Geographical Variation",
+            "children": [
+              {
+                "title": "Western countries",
+                "detail": "Lateral border of the tongue and floor of the mouth are the commonest sites."
+              },
+              {
+                "title": "India and South Asia",
+                "detail": "Buccogingival sulcus and retromolar trigone account for >40% of cases (“alveolobuccal complex” cancer due to keeping smokeless tobacco / gutka / khaini quid in the gingivobuccal sulcus)."
+              }
+            ]
+          },
+          {
+            "title": "Risk Factors (Summary Box 53.1)",
+            "children": [
+              {
+                "title": "Tobacco (smoking and smokeless)"
+              },
+              {
+                "title": "Alcohol (synergistic with tobacco)"
+              },
+              {
+                "title": "Betel quid (areca nut, catechu, slaked lime)"
+              },
+              {
+                "title": "HPV-16/18",
+                "detail": "Accounts for ~5% of oral cavity SCC vs 50–70% of oropharyngeal SCC."
+              },
+              {
+                "title": "Chronic dental trauma"
+              },
+              {
+                "title": "Immunosuppression"
+              },
+              {
+                "title": "Fanconi anaemia"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Pathology",
+        "children": [
+          {
+            "title": "Site Distribution in Tongue",
+            "children": [
+              {
+                "title": "Lateral border of middle third (45–50%)"
+              },
+              {
+                "title": "Anterior / ventral aspect (20%)"
+              },
+              {
+                "title": "Posterior third / base (20%)"
+              },
+              {
+                "title": "Dorsum / tip (5–10%)"
+              }
+            ]
+          },
+          {
+            "title": "Macroscopic Types",
+            "children": [
+              {
+                "title": "Ulcerative (commonest)",
+                "detail": "Hard indurated base with raised everted edges."
+              },
+              {
+                "title": "Exophytic / Papillary"
+              },
+              {
+                "title": "Infiltrative / Endophytic"
+              },
+              {
+                "title": "Verrucous carcinoma (Ackerman's tumour)",
+                "detail": "Slow-growing, locally invasive, pushing margins, rarely metastasises."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Mode of Spread",
+        "children": [
+          {
+            "title": "Local",
+            "children": [
+              {
+                "title": "Tongue",
+                "detail": "Infiltrates intrinsic / extrinsic tongue muscles (causing ankyloglossia), floor of mouth, lingual / inferior alveolar nerves, and mandible (via direct erosive or infiltrative contact)."
+              },
+              {
+                "title": "Buccal mucosa",
+                "detail": "Invades buccinator, skin of cheek (resulting in an orocutaneous fistula), and pterygoid muscles (causing trismus)."
+              }
+            ]
+          },
+          {
+            "title": "Lymphatic",
+            "children": [
+              {
+                "title": "Drains primarily to Levels I, II, and III",
+                "detail": "Submental, submandibular, and upper / middle jugular nodes."
+              },
+              {
+                "title": "Tongue tip drains to Level IA"
+              },
+              {
+                "title": "Lateral tongue drains to Levels IB and II",
+                "detail": "Known propensity for “skip metastases” directly to Level III or IV and bilateral drainage if the lesion approaches / crosses the midline."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Clinical Features",
+        "children": [
+          {
+            "title": "Early",
+            "children": [
+              {
+                "title": "Painless non-healing ulcer (>2 weeks)"
+              },
+              {
+                "title": "Indurated nodule"
+              },
+              {
+                "title": "Persistent red / white patch"
+              }
+            ]
+          },
+          {
+            "title": "Late (Advanced Disease)",
+            "children": [
+              {
+                "title": "Severe local pain and referred ipsilateral otalgia",
+                "detail": "Mediated via the lingual nerve → chorda tympani / mandibular nerve (V_3) → auriculotemporal nerve."
+              },
+              {
+                "title": "Excessive salivation, foetor oris, bleeding, and dysarthria (“hot potato speech”)"
+              },
+              {
+                "title": "Ankyloglossia",
+                "detail": "Fixation of the tongue to the floor of the mouth; tongue deviates to the ipsilateral side on protrusion."
+              },
+              {
+                "title": "Trismus",
+                "detail": "Indicates invasion of the medial pterygoid muscle / masticator space."
+              },
+              {
+                "title": "Unexplained tooth mobility or palpable hard cervical lymphadenopathy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "AJCC 8th Edition TNM Staging (Key Updates)",
+        "detail": "Incorporates Depth of Invasion (DOI) (measured from the basement membrane of adjacent normal mucosa) into T-staging, and Extranodal Extension (ENE) into N-staging.",
+        "children": [
+          {
+            "title": "T1: Size ≤ 2 cm and DOI ≤ 5 mm"
+          },
+          {
+            "title": "T2: Size ≤ 2 cm with DOI 5–10 mm; OR Size 2–4 cm with DOI ≤ 10 mm"
+          },
+          {
+            "title": "T3: Size >4 cm OR any tumour with DOI >10 mm"
+          },
+          {
+            "title": "T4a (Moderately advanced)",
+            "detail": "Invades through cortical bone of mandible / maxilla, maxillary sinus, inferior alveolar nerve, deep / extrinsic muscles of tongue (genioglossus, hyoglossus, palatoglossus, styloglossus), or skin of face."
+          },
+          {
+            "title": "T4b (Very advanced / Unresectable)",
+            "detail": "Invades masticator space, pterygoid plates, skull base, or encases the internal carotid artery."
+          }
+        ]
+      },
+      {
+        "title": "Investigations & Work-Up",
+        "children": [
+          {
+            "title": "Incisional / Wedge Biopsy",
+            "detail": "From the growing edge of the ulcer (avoid central necrosis) for histopathological confirmation."
+          },
+          {
+            "title": "Imaging",
+            "children": [
+              {
+                "title": "MRI with contrast",
+                "detail": "Gold standard for defining soft-tissue extent, tongue muscle invasion, perineural spread, and marrow invasion."
+              },
+              {
+                "title": "Contrast-Enhanced CT (CECT)",
+                "detail": "Superior for assessing cortical bone invasion of the mandible / maxilla and staging the neck and thorax."
+              },
+              {
+                "title": "Orthopantomogram (OPG)",
+                "detail": "Evaluates dental status prior to radiotherapy and gross mandibular erosion."
+              },
+              {
+                "title": "USG Neck + FNAC of suspicious cervical lymph nodes"
+              }
+            ]
+          },
+          {
+            "title": "Examination Under Anaesthesia (EUA) / Panendoscopy",
+            "detail": "For posterior tumours and to rule out synchronous upper aerodigestive tract primaries (present in 2.5–4.5%)."
+          }
+        ]
+      },
+      {
+        "title": "Management (Primary Surgery ± Adjuvant Therapy)",
+        "children": [
+          {
+            "title": "1. Surgical Excision of Primary Tumour",
+            "children": [
+              {
+                "title": "Excision with a 1 cm circumferential clinical margin of normal tissue"
+              },
+              {
+                "title": "Access",
+                "children": [
+                  {
+                    "title": "Transoral approach for anterior T1/T2 lesions"
+                  },
+                  {
+                    "title": "Lip-split mandibulotomy for posterior oral cavity / tongue base lesions"
+                  }
+                ]
+              },
+              {
+                "title": "Tongue Resection",
+                "detail": "Partial glossectomy / hemiglossectomy / total glossectomy."
+              },
+              {
+                "title": "Management of the Mandible",
+                "children": [
+                  {
+                    "title": "Tumour abuts periosteum without bone invasion",
+                    "detail": "Rim (Marginal) Mandibulectomy (preserving continuity of the lower border)."
+                  },
+                  {
+                    "title": "Gross medullary / cortical bone invasion present",
+                    "detail": "Segmental Mandibulectomy (or hemimandibulectomy)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "2. Management of the Neck",
+            "children": [
+              {
+                "title": "Clinically Node-Negative (cN0) in T1/T2 tumours (especially DOI >3–4 mm)",
+                "detail": "Prophylactic Elective Selective Neck Dissection (Supraomohyoid Neck Dissection: Levels I–III) (or I–IV for oral tongue) significantly improves overall and disease-free survival compared with “watch and wait” (Tata Memorial Hospital / D'Cruz et al. NEJM Trial). Sentinel lymph node biopsy is an alternative in select early T1 lesions."
+              },
+              {
+                "title": "Clinically Node-Positive (cN+)",
+                "detail": "Therapeutic Modified Radical Neck Dissection (Levels I–V)."
+              }
+            ]
+          },
+          {
+            "title": "3. Reconstruction (Following the Reconstructive Ladder)",
+            "children": [
+              {
+                "title": "Small Defects",
+                "detail": "Primary closure or local flaps (Facial Artery Myomucosal [FAMM] flap, nasolabial flap, buccal fat pad)."
+              },
+              {
+                "title": "Moderate Soft-Tissue Defects (Partial Glossectomy / Buccal Mucosa)",
+                "detail": "Radial Forearm Free Flap (RFFF) (thin, pliable, long pedicle)."
+              },
+              {
+                "title": "Large / Subtotal Glossectomy Defects",
+                "detail": "Anterolateral Thigh (ALT) Free Flap or pedicled Pectoralis Major Myocutaneous (PMMC) Flap (provides bulk to contact the palate for speech and swallowing)."
+              },
+              {
+                "title": "Segmental Mandibular Defects",
+                "detail": "Free Fibula Osseocutaneous Flap (gold standard; provides up to 25 cm of bone suitable for dental implants), Deep Circumflex Iliac Artery (DCIA), or Scapula free flap."
+              }
+            ]
+          },
+          {
+            "title": "4. Adjuvant Radiotherapy / Chemoradiotherapy",
+            "children": [
+              {
+                "title": "Adjuvant Radiotherapy (60–66 Gy)",
+                "detail": "Indicated for T3/T4 primary, close margins (1–4.9 mm), multiple positive nodes, N2/N3 disease, Perineural Invasion (PNI), or Lymphovascular Invasion (LVI)."
+              },
+              {
+                "title": "Concurrent Cisplatin-based Chemoradiotherapy",
+                "detail": "Mandatory for Major High-Risk Features: Positive surgical margins (<1 mm) and/or Extranodal Extension (ENE)."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t12",
+    "title": "Q4.3: Dentigerous Cyst & Differential Diagnosis of Tongue Ulcers",
+    "children": [
+      {
+        "title": "Covers: KU 24, 20, 18, TU"
+      },
+      {
+        "title": "1. Dentigerous Cyst (Follicular Odontogenic Cyst) [KU 24, 20, 18]",
+        "children": [
+          {
+            "title": "Definition",
+            "detail": "A benign odontogenic cyst that surrounds the crown of an unerupted (impacted) permanent tooth, attached at the cementoenamel junction, arising from fluid accumulation between the reduced enamel epithelium and the tooth crown."
+          },
+          {
+            "title": "Clinical Features",
+            "children": [
+              {
+                "title": "Second most common odontogenic cyst (after radicular / dental cyst); occurs in young adults (10–30 years)"
+              },
+              {
+                "title": "Most commonly involves the mandibular third molar or maxillary permanent canine"
+              },
+              {
+                "title": "Painless, slow-growing bony swelling expanding the outer cortical plate of the jaw",
+                "detail": "Resulting in egg-shell crackling on palpation; with a missing permanent tooth in the dental arch."
+              }
+            ]
+          },
+          {
+            "title": "Radiology (OPG)",
+            "detail": "Well-defined unilocular radiolucency with a sclerotic margin enveloping the crown of an unerupted tooth, displacing the tooth towards the lower border of the mandible."
+          },
+          {
+            "title": "Complications",
+            "children": [
+              {
+                "title": "Pathological fracture"
+              },
+              {
+                "title": "Secondary infection"
+              },
+              {
+                "title": "Root resorption of adjacent teeth"
+              },
+              {
+                "title": "Potential transformation of the lining into an ameloblastoma or mucoepidermoid carcinoma"
+              }
+            ]
+          },
+          {
+            "title": "Treatment",
+            "children": [
+              {
+                "title": "Small cysts",
+                "detail": "Complete surgical enucleation along with extraction of the unerupted tooth."
+              },
+              {
+                "title": "Large cysts",
+                "detail": "In children or where enucleation risks jaw fracture / nerve injury: initial marsupialisation (decompression) to allow bone regeneration and tooth eruption, followed by delayed enucleation if necessary."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Differential Diagnosis of Tongue Ulcers [TU]",
+        "children": [
+          {
+            "title": "Traumatic",
+            "children": [
+              {
+                "title": "Dental ulcer",
+                "detail": "Caused by a sharp jagged tooth or denture along the lateral border; heals within 2 weeks of removing the cause."
+              }
+            ]
+          },
+          {
+            "title": "Inflammatory / Immunological",
+            "children": [
+              {
+                "title": "Aphthous ulcers",
+                "detail": "Small, painful, recurrent, yellowish floor with erythematous halo."
+              },
+              {
+                "title": "Behçet's syndrome"
+              },
+              {
+                "title": "Lichen planus"
+              }
+            ]
+          },
+          {
+            "title": "Specific Infective",
+            "children": [
+              {
+                "title": "Tuberculous Ulcer",
+                "detail": "Painful, shallow, multiple ulcers at the tip / anterior margin with undermined edges."
+              },
+              {
+                "title": "Syphilitic Ulcer",
+                "children": [
+                  {
+                    "title": "Primary chancre (painless indurated ulcer at the tip)"
+                  },
+                  {
+                    "title": "Secondary (“snail-track” mucous patches)"
+                  },
+                  {
+                    "title": "Tertiary gummatous ulcer (deep punched-out painless ulcer on the midline dorsum)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Neoplastic",
+            "children": [
+              {
+                "title": "Squamous cell carcinoma",
+                "detail": "Painless non-healing ulcer >2 weeks with everted edges and indurated base."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

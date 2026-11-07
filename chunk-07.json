@@ -1,0 +1,931 @@
+[
+  {
+    "id": "surgery-t25",
+    "title": "Q8.2: Carcinoma of the Breast (Risk Factors, Staging, Screening, Early vs Locally Advanced Management, BCT, SLNB & Adjuvant Therapy)",
+    "children": [
+      {
+        "title": "(Covers KU 25, 24, 22, 21, 20, 19, 18, 16, RGU, TU — All 8 Long Essays, Short Essays & Short Answers)"
+      },
+      {
+        "title": "1. Additional History & Risk Factors in a Patient with a Breast Lump (Table 58.3) [KU 25, 21]",
+        "children": [
+          {
+            "title": "History to Elicit",
+            "children": [
+              {
+                "title": "Lump",
+                "detail": "Duration, rate of growth, pain, skin dimpling/ulceration, nipple retraction or bloody discharge, and axillary swelling."
+              },
+              {
+                "title": "Metastatic Symptoms",
+                "detail": "Bone pain (back/femur), persistent cough/haemoptysis/dyspnoea, jaundice/right upper quadrant pain, headache/seizures."
+              }
+            ]
+          },
+          {
+            "title": "Reproductive & Risk Factor History",
+            "children": [
+              {
+                "title": "Non-Modifiable Risk Factors",
+                "detail": "Female sex (100:1), increasing age (median age in India is 48 years vs 60 years in the West), Early menarche (<12 years), Late menopause (>55 years), Family history (1st-degree relative doubles risk), Hereditary mutations (BRCA1 [Chr 17q21; TNBC], BRCA2 [Chr 13q12], TP53 [Li–Fraumeni], PTEN [Cowden]), and prior biopsy showing atypical ductal/lobular hyperplasia (RR 4–5x) or LCIS (RR 8–10x)."
+              },
+              {
+                "title": "Modifiable Risk Factors",
+                "detail": "Nulliparity or first full-term pregnancy >35 years, lack of breastfeeding, postmenopausal obesity (BMI >30), combined Hormone Replacement Therapy (HRT >10 years), alcohol, smoking, and prior mantle chest irradiation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Pathology & Molecular Classification (Table 58.4)",
+        "children": [
+          {
+            "title": "Histological Types",
+            "detail": "Invasive Carcinoma of No Special Type (NST / Invasive Ductal Carcinoma — 80–90%), Invasive Lobular Carcinoma (10% — cells in “Indian-file” linear cords due to loss of E-cadherin; often multifocal/bilateral), and favourable special types (Tubular, Mucinous/Colloid, Medullary, Papillary). Graded by the Modified Scarff–Bloom–Richardson System (Tubule formation + Nuclear pleomorphism + Mitotic count = Score 3–9 → Grades I, II, III)."
+          },
+          {
+            "title": "Molecular Subtypes (Surrogate IHC Classification)",
+            "children": [
+              {
+                "title": "Luminal A",
+                "detail": "ER+ and/or PR+, HER2/neu–, Low Ki-67 (<14%) → Best prognosis; endocrine responsive."
+              },
+              {
+                "title": "Luminal B",
+                "detail": "ER+ and/or PR+, HER2/neu– (or +) with High Ki-67 → Intermediate prognosis; requires chemotherapy + endocrine therapy."
+              },
+              {
+                "title": "HER2/neu-Enriched",
+                "detail": "ER–, PR–, HER2/neu+ (3+ on IHC or FISH amplified) → Aggressive, responds dramatically to anti-HER2 targeted therapy (Trastuzumab + Pertuzumab)."
+              },
+              {
+                "title": "Basal-Like / Triple-Negative Breast Cancer (TNBC)",
+                "detail": "ER–, PR–, HER2/neu– → Aggressive biology, common in young Indian women and BRCA1 carriers; treated with systemic chemotherapy (anthracyclines, taxanes, platinums) and immunotherapy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Clinical Manifestations & Staging of Case Scenarios (AJCC 8th Edition — Table 58.6)",
+        "children": [
+          {
+            "title": "Local Signs Supporting Diagnosis of Carcinoma",
+            "detail": "Stony hard consistency, irregular surface and ill-defined margins, fixity to overlying skin (dimpling due to traction on Cooper’s ligaments, or peau d’orange due to subdermal lymphatic permeation/obstruction), recent circumferential nipple retraction, fixity to pectoralis major (tested by contracting pectoralis major with hands pressing on hips) or chest wall, and hard axillary lymphadenopathy."
+          },
+          {
+            "title": "TNM Summary & Case Scenario Staging",
+            "children": [
+              {
+                "title": "T-Stage",
+                "detail": "Tis (DCIS or Paget’s without mass); T1 (≤ 2 cm); T2 (>2 cm to ≤ 5 cm); T3 (>5 cm); T4a (invasion of chest wall: ribs, intercostal muscles, serratus anterior — note: pectoralis muscle invasion alone does NOT make it T4a); T4b (peau d’orange, skin ulceration, or ipsilateral satellite skin nodules); T4c (T4a + T4b); T4d (Inflammatory Carcinoma — diffuse erythema and peau d’orange involving ≥ 1/3 of the breast skin; dermal lymphatic emboli on biopsy)."
+              },
+              {
+                "title": "N-Stage",
+                "detail": "cN0 (no palpable nodes); cN1 (mobile ipsilateral Level I/II axillary nodes); cN2a (fixed/matted Level I/II axillary nodes); cN2b (internal mammary nodes only); cN3a (infraclavicular Level III nodes); cN3b (axillary + internal mammary nodes); cN3c (supraclavicular nodes)."
+              }
+            ]
+          },
+          {
+            "title": "Application to Exam Scenarios",
+            "children": [
+              {
+                "title": "3 × 2 cm or 4 × 3 cm lump + single mobile axillary node [KU 24, 21]",
+                "detail": "cT2 N1 M0 (Stage IIB — Early Breast Cancer)."
+              },
+              {
+                "title": "3 × 3 cm lump with no nodes [KU 20]",
+                "detail": "cT2 N0 M0 (Stage IIA — Early Breast Cancer)."
+              },
+              {
+                "title": "6 × 5 cm lump adherent to skin [KU 16] or 3 × 3 cm lump with peau d’orange and N1 node [RGU]: cT3 N0 M0 (Stage IIB) or cT4b N1 M0 (Stage IIIB — Locally Advanced Breast Cancer [LABC])."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Diagnostic & Staging Investigations",
+        "children": [
+          {
+            "title": "Triple Assessment",
+            "detail": "Clinical Exam + Bilateral Mammography & Breast/Axillary Ultrasonography + USG-Guided Core Needle Biopsy (14G) of the primary lump for histopathology, grade, and ER, PR, HER2/neu, and Ki-67 status (+ USG-guided FNAC/18G core biopsy of any suspicious axillary node)."
+          },
+          {
+            "title": "Metastatic Staging Work-Up",
+            "children": [
+              {
+                "title": "Early Breast Cancer (Stage I & II",
+                "detail": "T1–T2, N0–N1): Routine baseline FBC, LFTs, RFTs, Serum Alkaline Phosphatase, and Chest X-ray. Cross-sectional metastatic imaging is only done if symptomatic or ALP is elevated."
+              },
+              {
+                "title": "Locally Advanced Breast Cancer (Stage III",
+                "detail": "T3, T4, or N2–N3): Mandatory Contrast-Enhanced CT of Thorax, Abdomen & Pelvis + Isotope Bone Scan (or whole-body ¹⁸F-FDG PET-CT)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5. Screening for Breast Cancer [KU 16]",
+        "children": [
+          {
+            "title": "Population Screening (High-income countries)",
+            "detail": "Mammography every 2–3 years for asymptomatic women aged 50–70 years (reduces breast cancer mortality by 20–25%)."
+          },
+          {
+            "title": "Indian Guidelines (ICMR / MoHFW / ASOMA)",
+            "detail": "Because median age in India is younger (48 years) and population mammography is not cost-effective nationwide, screening comprises Breast Health Awareness + Annual Clinical Breast Examination (CBE) by trained health workers for women aged 30–65 years, combined with opportunistic biennial Mammography after age 40–45."
+          },
+          {
+            "title": "High-Risk Screening (BRCA1/2 carriers or prior chest radiation)",
+            "detail": "Annual Contrast Breast MRI + Mammography starting from age 25–30 years."
+          }
+        ]
+      },
+      {
+        "title": "6. Multimodal Management of Breast Cancer",
+        "children": [
+          {
+            "title": "A. Management of Early Breast Cancer (Stage I, IIA, IIB [T1–T2, N0–N1]):"
+          },
+          {
+            "title": "Primary Surgery followed by Adjuvant Systemic & Radiation Therapy (Note",
+            "detail": "Upfront Neoadjuvant Chemotherapy + Targeted Therapy is preferred even in T2/N1 Early Breast Cancer if it is HER2/neu-positive or Triple-Negative, or to downsize a large T2 tumour to enable Breast Conservation Surgery)."
+          }
+        ]
+      },
+      {
+        "title": "1. Surgical Options for the Breast",
+        "children": [
+          {
+            "title": "Option A — Breast Conservation Therapy (BCT = Breast Conservation Surgery [BCS] + Whole-Breast Radiotherapy)",
+            "children": [
+              {
+                "title": "Evidence",
+                "detail": "NSABP B-06 and Milan trials proved identical 20-year overall survival between BCT and Mastectomy."
+              },
+              {
+                "title": "Technique",
+                "detail": "Wide Local Excision (WLE / Lumpectomy) excising the tumour with a 1 cm macroscopic rim to achieve histologically negative margins (“no ink on tumour” for invasive cancer; ≥ 2 mm margin for DCIS). Specimen is oriented with sutures (Short Superior, Long Lateral), metallic clips are placed in the tumour cavity for radiotherapy boost targeting, and the defect is closed via Level I (Volume Displacement) or Level II (Volume Replacement) Oncoplasty."
+              },
+              {
+                "title": "(Historical Note — QUART Therapy [KU 18]",
+                "detail": "Described by Umberto Veronesi in the Milan I Trial = QUadrantectomy + Axillary lymph node dissection + RadioTherapy)."
+              },
+              {
+                "title": "Contraindications to BCS",
+                "detail": "Multicentric disease (tumours in ≥ 2 quadrants), diffuse malignant microcalcifications on mammogram, persistent positive margins after re-excision, prior chest wall irradiation, active scleroderma/SLE, and first/second trimester pregnancy (if RT must be delayed)."
+              }
+            ]
+          },
+          {
+            "title": "Option B — Mastectomy (with Immediate or Delayed Breast Reconstruction)",
+            "children": [
+              {
+                "title": "Simple (Total) Mastectomy (when combined with SLNB) or Modified Radical Mastectomy (MRM) (when combined with Level I–II/III Axillary Lymph Node Dissection: Patey’s MRM excises pectoralis minor; Auchincloss MRM retracts/preserves pectoralis minor; Scanlon’s MRM divides pectoralis minor at its coracoid insertion and resutures it)."
+              },
+              {
+                "title": "Reconstruction Options",
+                "detail": "Silicone implant (prepectoral or subpectoral) or autologous flaps (Pedicled Latissimus Dorsi flap, TRAM flap, or free microvascular DIEP flap [gold standard])."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Surgical Management of the Axilla",
+        "children": [
+          {
+            "title": "Clinically & Ultrasound Node-Negative (cN0) → Sentinel Lymph Node Biopsy (SLNB) [KU 22, 19]",
+            "children": [
+              {
+                "title": "Principle",
+                "detail": "The sentinel node is the first echelon lymph node(s) (usually in the anterior pectoral group) receiving lymphatic drainage from the tumour."
+              },
+              {
+                "title": "Technique",
+                "detail": "Dual-tracer technique (peritumoral/subareolar injection of Technetium-99m sulfur colloid + Methylene blue / Patent blue dye, or Indocyanine green [ICG] / Fluorescein fluorescence). All “hot” nodes (with >10% of the ex vivo gamma count of the hottest node), “blue” nodes, and palpably suspicious nodes are excised and examined by frozen section or paraffin histology."
+              },
+              {
+                "title": "Management of SLNB Result",
+                "detail": "If SLNB is negative (or has micrometastasis ≤ 2 mm, or 1–2 positive nodes in T1/T2 patients undergoing BCT with whole-breast irradiation as per ACOSOG Z0011 trial), ALND is omitted, sparing the patient from upper limb lymphoedema, intercostobrachial nerve numbness, and shoulder stiffness. If ≥ 3 sentinel nodes are positive, proceed to Level I & II Axillary Lymph Node Dissection (ALND)."
+              },
+              {
+                "title": "Clinically or Biopsy-Proven Node-Positive (cN+) → Level I & II (and Level III if grossly involved) Axillary Lymph Node Dissection (ALND): Preserving the axillary vein, long thoracic nerve of Bell (to serratus anterior — injury causes winging of scapula), and thoracodorsal neurovascular bundle (to latissimus dorsi)."
+              },
+              {
+                "title": "B. Management of Locally Advanced Breast Cancer (LABC — Stage III: T3, T4a–d, N2, N3):"
+              }
+            ]
+          },
+          {
+            "title": "Step 1 — Neoadjuvant Systemic Therapy (NAST / NACT) [TU]",
+            "children": [
+              {
+                "title": "Administer 6–8 cycles of Anthracycline (AC/FEC) + Taxane chemotherapy (+ Trastuzumab & Pertuzumab if HER2+)."
+              },
+              {
+                "title": "Before starting NACT",
+                "detail": "If BCS is contemplated, place a radio-opaque metallic clip (or a 0.5 cm sterile PVC catheter segment in resource-limited settings) into the tumour centre under USG guidance to mark the tumour bed in case of a complete response."
+              },
+              {
+                "title": "Response Assessment (RECIST Criteria after 2 cycles)",
+                "detail": "Complete Response (CR), Partial Response (PR ≥ 30% reduction), Stable Disease (SD), or Progressive Disease (PD)."
+              },
+              {
+                "title": "Step 2 — Locoregional Surgery",
+                "detail": "Modified Radical Mastectomy (MRM) (mandatory for T4d Inflammatory Breast Cancer and persistent T4 skin/chest wall disease) or BCS (in T3/T4b patients who downsize well to NACT)."
+              },
+              {
+                "title": "Step 3 — Adjuvant Locoregional Radiotherapy (Chest wall + supraclavicular fossa + internal mammary nodes) + Adjuvant Endocrine / Targeted Therapy."
+              },
+              {
+                "title": "C. Summary of Adjuvant Systemic & Radiation Therapy:"
+              },
+              {
+                "title": "Adjuvant Radiotherapy (40 Gy in 15 hypofractionated fractions over 3 weeks)",
+                "detail": "Mandatory for all patients after BCS, and post-mastectomy for T3/T4 (≥ 5 cm) tumours, node-positive disease, positive margins, or high-grade/LVI+ tumours."
+              },
+              {
+                "title": "Adjuvant Chemotherapy",
+                "detail": "Indicated for node-positive, TNBC, HER2+, Luminal B, or high-risk ER+/HER2– tumours (guided by the 21-gene Oncotype DX Recurrence Score [>25 benefits from chemo] and Nottingham Prognostic Index [NPI] = [0.2 × Size in cm] + Node stage (1–3) + Grade (1–3))."
+              },
+              {
+                "title": "Adjuvant Targeted Therapy",
+                "detail": "Trastuzumab (Herceptin) ± Pertuzumab for 1 year in all HER2/neu-positive tumours (>5 mm)."
+              }
+            ]
+          },
+          {
+            "title": "Adjuvant Endocrine Therapy (for all ER+ and/or PR+ tumours for 5–10 years)",
+            "children": [
+              {
+                "title": "Premenopausal Women",
+                "detail": "Tamoxifen (20 mg daily for 5–10 years) (Selective Oestrogen Receptor Modulator [SERM]: antagonist in breast, partial agonist in bone [prevents osteoporosis] and endometrium [side effects: hot flushes, endometrial hyperplasia/carcinoma (1%), deep vein thrombosis, and cataracts])."
+              },
+              {
+                "title": "Postmenopausal Women",
+                "detail": "Aromatase Inhibitors (Anastrozole 1 mg, Letrozole 2.5 mg, or Exemestane 25 mg daily) — block peripheral conversion of adrenal androgens to oestrone/oestradiol by inhibiting aromatase in adipose tissue. Superior to Tamoxifen in postmenopausal women; main side effect is osteoporosis/arthralgia (requires baseline DEXA scan + calcium/vitamin D/bisphosphonates)."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t26",
+    "title": "Q9.1: Varicose Veins & Venous Leg Ulcer (Anatomy, Pathophysiology, CEAP, Investigations, Endovenous & Surgical Management)",
+    "children": [
+      {
+        "title": "(Covers KU 24, 23, 22, 20, 19, 16, 15, RGU, TU — Long Essays, Short Essays & Short Answers)"
+      },
+      {
+        "title": "1. Definition & Surgical Anatomy",
+        "children": [
+          {
+            "title": "Definition",
+            "detail": "Dilated (≥ 3 mm), tortuous, elongated subcutaneous veins of the lower limb with valvular incompetence (retrograde reflux ≥ 0.5 seconds)."
+          },
+          {
+            "title": "Two Superficial Venous Axes (Lying within the Saphenous Envelope between the saphenous fascia and deep fascia lata)",
+            "children": [
+              {
+                "title": "Great Saphenous Vein (GSV)",
+                "detail": "Begins at the medial end of the dorsal venous arch, passes anterior to the medial malleolus (accompanied by the saphenous nerve), ascends the medial leg and thigh, and pierces the cribriform fascia at the saphenous opening (2.5 cm below and lateral to the pubic tubercle) to join the common femoral vein at the Saphenofemoral Junction (SFJ)."
+              },
+              {
+                "title": "Six Named Tributaries at the SFJ",
+                "detail": "Lateral (Superficial circumflex iliac, Superficial inferior epigastric), Medial (Superficial external pudendal, Deep external pudendal), and Distal (Anterior Accessory GSV [AAGSV], Posteromedial thigh vein)."
+              },
+              {
+                "title": "Small Saphenous Vein (SSV)",
+                "detail": "Begins at the lateral end of the dorsal venous arch, passes posterior to the lateral malleolus (accompanied by the sural nerve), ascends the posterior midline of the calf, and pierces the popliteal fascia to join the popliteal vein at the Saphenopopliteal Junction (SPJ) (variable termination; may continue cranially as the Giacomini vein)."
+              },
+              {
+                "title": "Perforating Veins",
+                "detail": "Connect superficial to deep veins across the deep fascia with valves directing flow from superficial to deep (e.g., Cockett’s perforators in the lower medial calf, Boyd’s perforator below the knee, Dodd’s/Hunterian perforator in the mid-thigh)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Etiopathogenesis of Venous Hypertension & Ulceration",
+        "children": [
+          {
+            "title": "Normal Calf Muscle Pump",
+            "detail": "Standing resting foot venous pressure is ~90–100 mmHg. During walking, contraction of the calf muscle pump compresses the deep venous sinusoids (raising deep compartment pressure to 200–300 mmHg) and propels blood towards the heart; during relaxation, competent valves prevent reflux and draw blood from superficial veins into deep veins, reducing ambulatory foot venous pressure to ~30 mmHg."
+          },
+          {
+            "title": "Pathophysiology of Varicose Veins & Venous Ulcers",
+            "children": [
+              {
+                "title": "Primary Varicose Veins (90%)",
+                "detail": "Intrinsic vein wall weakness (smooth muscle apoptosis, increased matrix metalloproteinases, reduced elastin-to-collagen ratio) → vein wall dilatation and loss of compliance → secondary valvular incompetence (GSV accounts for 60%, SSV for 20%)."
+              },
+              {
+                "title": "Secondary Varicose Veins (10%)",
+                "detail": "Deep venous obstruction or valvular destruction (Post-Thrombotic Syndrome following DVT), pelvic masses/pregnancy, congenital (Klippel–Trénaunay syndrome — triad of port-wine capillary naevus, varicose veins/lateral embryonic vein, and limb bone/soft-tissue hypertrophy), or arteriovenous fistulae (Parkes-Weber syndrome)."
+              },
+              {
+                "title": "Sustained Ambulatory Venous Hypertension (>60–90 mmHg on walking) → capillary distension and endothelial pore widening → extravasation of erythrocytes (degraded to haemosiderin → brownish pigmentation), fibrinogen (pericapillary fibrin cuffs), and white blood cell trapping with release of reactive oxygen species, proteolytic enzymes, and mast cell degranulation → chronic subcutaneous fibrosis (Lipodermatosclerosis — “inverted champagne bottle leg”), Atrophie blanche, Venous Eczema, and eventually tissue breakdown into a Venous Ulcer."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Clinical Features & CEAP Classification",
+        "children": [
+          {
+            "title": "Symptoms",
+            "detail": "Dull aching, heaviness, throbbing, itching, ankle swelling, and restless legs/night cramps that worsen on prolonged standing (e.g., traffic constable) and improve with leg elevation or walking."
+          },
+          {
+            "title": "Complications of Varicose Veins [KU 24, 19]",
+            "children": [
+              {
+                "title": "Oedema (C3)."
+              },
+              {
+                "title": "Venous Eczema & Haemosiderosis/Pigmentation (C4a)."
+              },
+              {
+                "title": "Lipodermatosclerosis (LDS) & Atrophie Blanche (C4b)."
+              },
+              {
+                "title": "Corona Phlebectatica (Malleolar flare - C4c)."
+              },
+              {
+                "title": "Venous Ulceration (C5 healed / C6 active)",
+                "detail": "Located in the medial gaiter area above the medial malleolus; shallow, gently sloping (shelving) edges, granulating floor with slough/exudate; long-standing ulcers (>10–20 years) can undergo malignant transformation into squamous cell carcinoma (Marjolin’s Ulcer)."
+              },
+              {
+                "title": "Acute Haemorrhage",
+                "detail": "Profuse, painless dark bleeding from rupture of a thin-walled superficial varix (“ankle venous bleeder”); controlled immediately by elevating the leg above the heart and applying direct firm pressure."
+              },
+              {
+                "title": "Superficial Vein Thrombosis (Thrombophlebitis)."
+              },
+              {
+                "title": "Calcification of the vein wall & Equinus ankle deformity (from Achilles contracture in severe LDS)."
+              }
+            ]
+          },
+          {
+            "title": "Saphena Varix (Short Note [KU 16])",
+            "children": [
+              {
+                "title": "A saccular dilatation of the proximal GSV at the saphenofemoral junction (up to golf-ball size). Presents as a soft, compressible groin swelling below and lateral to the pubic tubercle that disappears completely on lying down, has an expansile cough impulse, and exhibits a fluid thrill on tapping the distal GSV in the thigh (Cruveilhier’s sign) with a bluish tint. Must be differentiated from a femoral hernia (which lies below and lateral to the pubic tubercle but is irreducible or reduces with a gurgle, and stays reduced when finger pressure is maintained over the femoral canal)."
+              }
+            ]
+          },
+          {
+            "title": "Clinical Bedside Tests (Historical Exam Questions [KU 15, TU])",
+            "children": [
+              {
+                "title": "Brodie–Trendelenburg Test",
+                "detail": "Elevate the patient’s leg to empty the varicose veins → occlude the SFJ with the thumb (or a tourniquet) just below the saphenous opening → ask the patient to stand:"
+              },
+              {
+                "title": "Test I",
+                "detail": "If veins remain empty on standing and fill rapidly from above downwards within 15 seconds of releasing the thumb, it indicates SFJ incompetence."
+              },
+              {
+                "title": "Test II",
+                "detail": "If veins fill rapidly from below upwards within 30–60 seconds while SFJ occlusion is still maintained, it indicates incompetent perforators (or SPJ incompetence)."
+              },
+              {
+                "title": "Modified Perthes’ Test (for Deep Vein Patency)",
+                "detail": "Apply a tourniquet around the upper thigh tightly enough to occlude the GSV (but not deep veins) with the patient standing, and ask the patient to walk briskly or perform 10 heel-raises:"
+              },
+              {
+                "title": "If varicose veins collapse/empty → deep veins are patent and calf pump is functional."
+              },
+              {
+                "title": "If varicose veins become tensely distended and the patient experiences severe bursting calf pain (Venous Claudication) → deep venous obstruction (contraindication to stripping/ablating superficial veins)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Investigations",
+        "children": [
+          {
+            "title": "Venous Duplex Ultrasonography (Gold Standard Investigation)",
+            "children": [
+              {
+                "title": "Performed with the patient standing using a 7.5–13 MHz linear transducer (combines B-mode anatomical grey-scale imaging with pulsed-wave spectral and colour Doppler)."
+              },
+              {
+                "title": "Establishes",
+                "detail": "(i) Deep vein patency and competence (CFV, femoral, popliteal), (ii) Exact site of junctional incompetence (SFJ — “Mickey Mouse sign” in transverse view; SPJ), (iii) Truncal reflux (≥ 0.5 s) and diameter of the GSV within the “Saphenous eye” and SSV, and (iv) Location of incompetent perforators."
+              },
+              {
+                "title": "Ankle–Brachial Pressure Index (ABPI)",
+                "detail": "Mandatory in all patients with a Venous Leg Ulcer to rule out concomitant peripheral arterial disease (“Mixed arterial–venous ulcer” present in 15–30%). Normal ABPI is 0.9–1.4 (full compression is safe if ABPI >0.8; modified reduced compression 30 mmHg if ABPI 0.5–0.8; compression is strictly contraindicated if ABPI <0.5)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5. Management of Varicose Veins & Venous Leg Ulcers",
+        "children": [
+          {
+            "title": "Step 1 — Conservative Management of Venous Ulcer (Bisgaard’s Regimen & Compression Therapy [KU 24, 20, RGU, TU])"
+          },
+          {
+            "title": "Bisgaard’s Regimen (Four Pillars)",
+            "children": [
+              {
+                "title": "Elevation of the limb above heart level when resting/sleeping to reduce hydrostatic oedema."
+              },
+              {
+                "title": "Wound Toilet & Non-Adherent Dressings (saline cleansing; systemic antibiotics are given only if clinical cellulitis is present)."
+              },
+              {
+                "title": "Active Calf Muscle Pump Exercises (ankle dorsiflexion/plantarflexion exercises and walking) + passive massage of indurated LDS skin from below upwards."
+              }
+            ]
+          },
+          {
+            "title": "Graduated External Compression Therapy (Cornerstone of Ulcer Healing)",
+            "children": [
+              {
+                "title": "Four-Layer Compression Bandaging (1. Orthopaedic wool → 2. Cotton crepe bandage → 3. Elastic bandage → 4. Cohesive bandage), delivering an ankle interface pressure of 35–40 mmHg (changed weekly), or Two-Layer compression hosiery."
+              },
+              {
+                "title": "Pharmacological Adjuncts",
+                "detail": "Pentoxifylline (400 mg TDS) (reduces leukocyte adhesion and blood viscosity; proven to accelerate ulcer healing alongside compression) and Horse chestnut seed extract."
+              }
+            ]
+          },
+          {
+            "title": "Step 2 — Definitive Interventional Treatment of Superficial Venous Reflux (NICE Guidelines & EVRA Trial)",
+            "children": [
+              {
+                "title": "The landmark EVRA Trial (Gohel et al., NEJM 2018) proved that Early Endovenous Ablation (within 2 weeks) of superficial reflux combined with compression significantly accelerates venous ulcer healing (median 56 vs 82 days) and reduces ulcer recurrence compared with compression alone."
+              }
+            ]
+          },
+          {
+            "title": "Treatment Hierarchy (First-Line to Third-Line)"
+          },
+          {
+            "title": "First-Line — Endothermal Ablation (Gold Standard; >95% occlusion rate, performed as a walk-in local anaesthetic day-case)",
+            "children": [
+              {
+                "title": "Endovenous Laser Ablation (EVLA — 1470 nm diode laser) or Radiofrequency Ablation (RFA — ClosureFast catheter at 120°C for 20 s cycles): Percutaneous USG-guided cannulation of the GSV/SSV at the lowest point of reflux → tip positioned 1–2 cm distal to the SFJ/SPJ → perivenous tumescent local anaesthesia infiltrated under USG guidance inside the saphenous fascia (compresses vein onto catheter, empties blood, and acts as a protective thermal heat-sink for the saphenous/sural nerves) → thermal ablation during pullback (60–80 J/cm), combined with concomitant ambulatory stab phlebectomies (hook avulsions) of varicose tributaries."
+              }
+            ]
+          },
+          {
+            "title": "Second-Line — Ultrasound-Guided Foam Sclerotherapy (UGFS) & Non-Thermal Non-Tumescent (NTNT) Techniques",
+            "children": [
+              {
+                "title": "UGFS",
+                "detail": "1–3% Sodium Tetradecyl Sulphate (STS) or Polidocanol mixed with air (1:4 ratio) via Tessari’s two-syringe three-way tap method to create microfoam (displaces blood and maximises endothelial destruction; max volume 10–12 mL per session). Ideal for tortuous veins, recurrent varicosities, and sub-ulcer venous plexuses."
+              },
+              {
+                "title": "NTNT Modalities",
+                "detail": "Mechanochemical Ablation (MOCA / ClariVein) (rotating wire tip + liquid sclerosant) and Endovenous Cyanoacrylate Glue Ablation (VenaSeal)."
+              }
+            ]
+          },
+          {
+            "title": "Third-Line — Open Surgery (Trendelenburg Operation + Stripping + Multiple Stab Avulsions)",
+            "children": [
+              {
+                "title": "Trendelenburg Operation (Flush SFJ Ligation)",
+                "detail": "Oblique groin crease incision → dissect and ligate all 6 named tributaries of the GSV → flush transfixion-ligation of the GSV at its junction with the common femoral vein → retrograde inversion stripping of the GSV down to the knee using a PIN stripper (stripping only to the knee rather than the ankle reduces saphenous nerve injury from 30% to <7%)."
+              },
+              {
+                "title": "SPJ Ligation (with preoperative USG skin marking; main risk is sural nerve and common peroneal nerve injury) and Subfascial Endoscopic Perforator Surgery (SEPS) or USG-guided perforator ablation."
+              },
+              {
+                "title": "Step 3 — Prevention of Ulcer Recurrence",
+                "detail": "Once the ulcer heals, prescribe lifelong Class 2 (18–24 mmHg) below-knee graduated elastic compression stockings (ESCHAR Trial)."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t27",
+    "title": "Q9.2: Deep Vein Thrombosis (DVT) & Pulmonary Embolism (Etiology, Modified Wells Score, Diagnosis, Prophylaxis & Management)",
+    "children": [
+      {
+        "title": "(Covers KU 24, 23, 21, RGU, TU — Short Essays & Short Answers)"
+      },
+      {
+        "title": "1. Etiopathogenesis (Virchow’s Triad & Risk Factors)",
+        "children": [
+          {
+            "title": "Virchow’s Triad (1856)",
+            "children": [
+              {
+                "title": "Venous Stasis / Abnormal Flow",
+                "detail": "Immobility, bedrest, anaesthesia (loss of calf pump), heart failure, pelvic venous compression (May–Thurner syndrome — compression of the left common iliac vein by the overlying right common iliac artery), long-haul flights."
+              },
+              {
+                "title": "Endothelial Injury / Vessel Wall Damage",
+                "detail": "Trauma, hip/knee orthopaedic surgery, pelvic surgery, central venous catheters, prior DVT."
+              },
+              {
+                "title": "Hypercoagulability of Blood",
+                "detail": "Malignancy (Trousseau’s migratory thrombophlebitis), pregnancy/puerperium, high-dose oestrogen OCP/HRT, sepsis, inflammatory bowel disease, nephrotic syndrome, polycythaemia, and Inherited/Acquired Thrombophilias (Table 62.3): Factor V Leiden mutation (activated protein C resistance — commonest inherited thrombophilia), Prothrombin G20210A mutation, Antithrombin III deficiency, Protein C or Protein S deficiency, Antiphospholipid syndrome, and hyperhomocysteinaemia."
+              },
+              {
+                "title": "Pathology",
+                "detail": "Platelet aggregates initiate in the valve pockets of the calf soleal venous sinusoids → coralline fibrin/RBC thrombus builds up and propagates proximally as a loose red tail into the popliteal, femoral, and iliac veins → detachment causes Pulmonary Embolism (PE);"
+              },
+              {
+                "title": "chronic organization causes valvular destruction and Post-Thrombotic Syndrome (PTS)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Clinical Features",
+        "children": [
+          {
+            "title": "Asymptomatic (up to 50%)",
+            "detail": "May present directly with Pulmonary Embolism ( sudden dyspnoea, pleuritic chest pain, haemoptysis, tachycardia, hypoxia, elevated JVP, or syncope/cardiac arrest)."
+          },
+          {
+            "title": "Symptomatic DVT",
+            "detail": "Unilateral calf/leg swelling (>3 cm difference measured 10 cm below the tibial tuberosity), dull aching calf pain, warmth, mild low-grade pyrexia, pitting ankle oedema, dilated superficial collateral veins, and tenderness along the deep venous tract. (Homans’ sign — calf resistance/pain on forceful ankle dorsiflexion — is neither sensitive nor specific and should be avoided)."
+          },
+          {
+            "title": "Severe Limb-Threatening Iliofemoral DVT Variants",
+            "children": [
+              {
+                "title": "Phlegmasia Alba Dolens (“Milk Leg” / “White Leg”)",
+                "detail": "Massive iliofemoral thrombosis with reflex arterial spasm and lymphatic obstruction causing a tensely swollen, painful, pale/white leg."
+              },
+              {
+                "title": "Phlegmasia Cerulea Dolens (“Blue Leg”)",
+                "detail": "Near-total occlusion of all main and collateral venous outflow of the limb → extreme venous hypertension arrests capillary arterial inflow → deeply cyanosed, purple, excruciatingly painful, tensely oedematous limb with absent arterial pulses, rapidly progressing to Venous Gangrene (30–40% mortality; strongly associated with occult malignancy)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Diagnosis & Modified Wells Criteria (Table 62.4) [KU 24, TU]",
+        "children": [
+          {
+            "title": "Modified Wells Clinical Probability Score for DVT",
+            "children": [
+              {
+                "title": "Active cancer (+1), Paralysis/paresis/plaster immobilisation of lower limb (+1), Bedridden >3 days or major surgery within 4 weeks (+1), Localised tenderness along deep venous system (+1), Entire leg swollen (+1), Calf swelling >3 cm compared with asymptomatic side (+1), Pitting oedema confined to symptomatic leg (+1), Collateral superficial non-varicose veins (+1), Previous documented DVT (+1), Intravenous drug abuse (+3); Alternative diagnosis at least as likely as DVT (-2)."
+              },
+              {
+                "title": "Interpretation",
+                "detail": "Score ≤ 0 = Low probability (5%); Score 1–2 = Moderate (17%); Score >2 = High probability (17–53%)."
+              }
+            ]
+          },
+          {
+            "title": "Diagnostic Algorithm",
+            "children": [
+              {
+                "title": "Low Probability Wells Score",
+                "detail": "Check Quantitative Plasma D-Dimer (fibrin degradation product — high negative predictive value >95%; if negative, DVT is excluded; if positive, proceed to Duplex USG)."
+              }
+            ]
+          },
+          {
+            "title": "Moderate/High Probability Wells Score: Proceed directly to Venous Compression Duplex Ultrasonography (Gold Standard Investigation)",
+            "children": [
+              {
+                "title": "Diagnostic Criteria on Duplex",
+                "detail": "Incompressibility of the vein lumen under gentle probe pressure (most reliable sign), echogenic intraluminal thrombus, absence of colour/spectral Doppler flow, and loss of respiratory phasicity and augmentation."
+              },
+              {
+                "title": "Ancillary Imaging",
+                "detail": "CT Venography / MR Venography (for pelvic/iliac/IVC thrombus); CT Pulmonary Angiography (CTPA) (gold standard for suspected Pulmonary Embolism, showing intraluminal filling defects in pulmonary arteries)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Management of Deep Vein Thrombosis"
+      },
+      {
+        "title": "1. Immediate Anticoagulation (Prevents clot propagation and Pulmonary Embolism)",
+        "children": [
+          {
+            "title": "Direct Oral Anticoagulants (DOACs / NOACs — First-Line Recommended)",
+            "detail": "Direct Factor Xa inhibitors (Rivaroxaban 15 mg BD for 21 days then 20 mg OD; or Apixaban 10 mg BD for 7 days then 5 mg BD) or Direct Thrombin inhibitor (Dabigatran). Equally effective as Warfarin with significantly lower major bleeding risk and no need for INR monitoring."
+          },
+          {
+            "title": "Low-Molecular-Weight Heparin (LMWH)",
+            "detail": "Subcutaneous Enoxaparin (1.5 mg/kg once daily or 1 mg/kg BD) or Dalteparin (preferred in pregnancy and active GI malignancy), bridged to oral Warfarin (target INR 2.0–3.0, overlapping for at least 5 days until INR ≥ 2.0 for 24 hours)."
+          },
+          {
+            "title": "Unfractionated Heparin (UFH) IV Infusion",
+            "detail": "Used in severe renal failure (eGFR <30 mL/min) or when rapid reversal may be needed (monitored by APTT 1.5–2.5 × control; antidote: Protamine sulphate). (If Heparin-Induced Thrombocytopenia [HIT] occurs, switch to Fondaparinux or Bivalirudin/Argatroban)."
+          },
+          {
+            "title": "Duration of Anticoagulation",
+            "detail": "3 months for a first provoked DVT (reversible surgical/transient risk factor); 6 months to Lifelong for unprovoked DVT, recurrent VTE, or active malignancy."
+          }
+        ]
+      },
+      {
+        "title": "2. Endovascular Catheter-Directed Thrombolysis (CDT) / Pharmacomechanical Thrombectomy",
+        "children": [
+          {
+            "title": "Indicated in young, fit patients with acute (<14 days) extensive iliofemoral DVT or Phlegmasia cerulea dolens to rapidly restore venous patency, save the limb, and prevent severe Post-Thrombotic Syndrome (followed by iliac vein stenting if May–Thurner compression is uncovered)."
+          }
+        ]
+      },
+      {
+        "title": "3. Inferior Vena Cava (IVC) Filter (Retrievable infrarenal filter via jugular/femoral vein)",
+        "children": [
+          {
+            "title": "Strict Indications",
+            "children": [
+              {
+                "title": "Confirmed acute proximal DVT/PE with an absolute contraindication to anticoagulation (e.g., active major bleeding, recent haemorrhagic stroke, or imminent major surgery)."
+              },
+              {
+                "title": "Recurrent Pulmonary Embolism despite adequate therapeutic anticoagulation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5. VTE Prophylaxis in Surgical Patients (Table 62.6) [TU]",
+        "children": [
+          {
+            "title": "Early ambulation, adequate hydration, Mechanical Prophylaxis (Graduated elastic compression stockings [TED stockings] and Intermittent Pneumatic Compression [IPC] calf devices — contraindicated in severe PAD), and Pharmacological Prophylaxis (Subcutaneous LMWH — Enoxaparin 40 mg OD or unfractionated heparin 5000 U SC BD/TDS) for all moderate- and high-risk surgical patients."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t28",
+    "title": "Q10.1: Chronic Lower Limb Ischaemia, Atherosclerotic Peripheral Arterial Disease (PAD) & Thromboangiitis Obliterans (Buerger’s Disease)",
+    "children": [
+      {
+        "title": "(Covers KU 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, RGU, TU — Long Essays, Short Essays & Short Answers)"
+      },
+      {
+        "title": "1. History Taking & Clinical Features of Chronic Lower Limb Ischaemia [KU 25, 24, 23, 22, 19, 15]",
+        "children": [
+          {
+            "title": "Further History to Elicit in a Claudicant/Gangrene Patient [KU 25]",
+            "children": [
+              {
+                "title": "Pain Characteristics",
+                "detail": "Site of cramping muscle pain (calf, thigh, or buttock), exact claudication distance, relief on standing still within 5 minutes, progression to rest pain (burning pain in the forefoot/toes at night relieved by hanging the foot out of bed), and any history of trauma/ill-fitting footwear preceding toe discoloration."
+              },
+              {
+                "title": "Vascular Risk Factors",
+                "detail": "Smoking history (pack-years, bidi/cigarettes, cannabis), Diabetes Mellitus, Hypertension, Hyperlipidaemia."
+              },
+              {
+                "title": "Systemic Atherosclerosis",
+                "detail": "History of angina/myocardial infarction (present in 50%), TIAs/stroke (25%), and erectile dysfunction (Leriche’s syndrome = Aortoiliac occlusion triad of bilateral buttock/thigh claudication + absent femoral pulses + impotence)."
+              }
+            ]
+          },
+          {
+            "title": "Clinical Stages of Chronic Limb Ischaemia (Fontaine & Rutherford Classifications) [KU 15]",
+            "children": [
+              {
+                "title": "[[TABLE:surgery-tbl-006]]"
+              },
+              {
+                "title": "(Note",
+                "detail": "Fontaine Stages III and IV together constitute Chronic Limb-Threatening Ischaemia [CLTI], defined objectively as ischaemic rest pain or ulceration/gangrene for >2 weeks with Ankle systolic pressure <50 mmHg or Toe pressure <30 mmHg)."
+              }
+            ]
+          },
+          {
+            "title": "Differentiation of Intermittent Claudication Types [TU]",
+            "children": [
+              {
+                "title": "Arterial Claudication",
+                "detail": "Cramp-like calf/thigh pain; never present on taking the first step; brought on by a reproducible walking distance (shortened by walking uphill); relieved within 5 minutes of standing still (does not require sitting or spinal flexion); distal pulses absent/diminished."
+              },
+              {
+                "title": "Neurogenic Claudication (Lumbar Canal Stenosis / Cauda Equina Compression)",
+                "detail": "Pain, numbness, and tingling radiating down the posterior thighs/calves; worsened by lumbar extension (standing upright or walking downhill) and relieved only by sitting down or leaning forward (lumbar flexion — “shopping-cart sign”) for 15–30 minutes; pedal pulses are normal."
+              },
+              {
+                "title": "Venous Claudication",
+                "detail": "Severe bursting pain in the entire calf during walking due to deep venous outflow obstruction (iliofemoral post-thrombotic occlusion); relieved slowly only by sitting down and elevating the leg."
+              }
+            ]
+          },
+          {
+            "title": "Physical Examination Signs of Chronic Ischaemia",
+            "children": [
+              {
+                "title": "Thin, shiny, hairless skin; brittle ridged nails; wasting of calf muscles; painful punched-out ulcers over pressure points/malleoli/between toes; or dry black mummified digital gangrene."
+              },
+              {
+                "title": "Buerger’s Postural Test",
+                "detail": "With the patient supine, elevate both legs to 45° for 1–2 minutes → the ischaemic foot develops marked cadaveric pallor and venous guttering (collapsed superficial veins look like pale trenches; the angle at which pallor appears is Buerger’s vascular angle, <20–30° indicates severe ischaemia). Then ask the patient to sit up and hang the legs over the side of the bed → delayed capillary refill (>5–10 s) followed by a deep purple-red flushing of the foot due to reactive hyperaemia in maximally dilated capillaries (Dependent Rubor / Sunset Foot Sign)."
+              },
+              {
+                "title": "Palpation of Pulses & Auscultation for Bruits",
+                "detail": "Femoral, popliteal, dorsalis pedis, and posterior tibial pulses (see Table 61.1 for localising the level of occlusion; Superficial Femoral Artery [SFA] in the adductor canal of Hunter is the commonest site [70%], causing calf claudication with a palpable femoral pulse and absent popliteal/pedal pulses)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Thromboangiitis Obliterans (TAO / Buerger’s Disease) vs Atherosclerosis [KU 25, 24, 21, 20, 18, RGU, TU]",
+        "children": [
+          {
+            "title": "Definition of Buerger’s Disease",
+            "detail": "A non-atherosclerotic, segmental, pan-inflammatory occlusive vasculitis affecting small- and medium-sized arteries, veins, and nerves of the upper and lower extremities in young male heavy smokers."
+          },
+          {
+            "title": "Etiopathogenesis & Pathology of TAO",
+            "children": [
+              {
+                "title": "Exclusively linked to tobacco use (bidi, cigarettes, chewed tobacco — carbon monoxide, nicotine, and autoimmune hypersensitivity to Type I and III collagen in the vessel wall); common in India, South Asia, and the Middle East; associated with HLA-A9 and HLA-B5."
+              }
+            ]
+          },
+          {
+            "title": "Histopathology",
+            "children": [
+              {
+                "title": "Acute Phase",
+                "detail": "Occlusive, highly cellular inflammatory thrombus containing polymorphonuclear microabscesses and multinucleated giant cells, with pan-arteritis of all three coats (intima, media, and adventitia), WHILE THE INTERNAL ELASTIC LAMINA REMAINS INTACT."
+              },
+              {
+                "title": "Chronic Phase",
+                "detail": "Organised recanalising thrombus and dense perivascular fibrosis that binds the artery, accompanying venae comitantes, and nerve into a single adherent fibrous cord."
+              }
+            ]
+          },
+          {
+            "title": "Clinical Features of TAO (Shionoya’s 5 Diagnostic Criteria)",
+            "children": [
+              {
+                "title": "History of heavy smoking."
+              },
+              {
+                "title": "Onset before the age of 50 years (typically men aged 20–40 years)."
+              },
+              {
+                "title": "Infrapopliteal (distal crural/pedal) arterial occlusions."
+              },
+              {
+                "title": "Either upper limb involvement (positive Allen’s test, digital ulcers) OR Superficial Migratory Thrombophlebitis (present in 30–40%)."
+              },
+              {
+                "title": "Absence of atherosclerotic risk factors other than smoking (no diabetes, no hyperlipidaemia, no hypertension, no proximal embolic source)."
+              },
+              {
+                "title": "Clinical Progression",
+                "detail": "Begins with foot arch (instep) claudication → progresses to calf claudication, Raynaud’s phenomenon, excruciating rest pain, and distal digital ulceration/dry gangrene."
+              }
+            ]
+          },
+          {
+            "title": "Differentiation Between TAO (Buerger’s Disease) and Atherosclerotic PAD",
+            "children": [
+              {
+                "title": "[[TABLE:surgery-tbl-007]]"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Investigations for Chronic Limb Ischaemia (PAD & TAO)",
+        "children": [
+          {
+            "title": "General Blood Tests & Cardiac Work-up",
+            "detail": "FBC (exclude polycythaemia/thrombocythaemia), Fasting blood glucose & HbA_1c, Fasting lipid profile, Renal function (serum creatinine/eGFR), ESR/CRP & autoimmune screen (in young patients to rule out vasculitis), and ECG/Echocardiogram."
+          },
+          {
+            "title": "Bedside Hand-Held Doppler & Pressure Indices [TU]"
+          },
+          {
+            "title": "Ankle–Brachial Pressure Index (ABPI): Ratio of highest ankle systolic pressure (Dorsalis pedis or Posterior tibial) to highest brachial systolic pressure",
+            "children": [
+              {
+                "title": "0.9–1.4: Normal (triphasic waveform)."
+              },
+              {
+                "title": "0.5–0.89: Mild-to-moderate PAD (Intermittent claudication; biphasic/monophasic waveform)."
+              },
+              {
+                "title": "<0.4–0.5 (or absolute ankle pressure <50 mmHg): Severe / Chronic Limb-Threatening Ischaemia (CLTI)."
+              },
+              {
+                "title": ">1.4: Falsely elevated due to incompressible calcified arteries (Mönckeberg’s medial calcific sclerosis) in Diabetes Mellitus and chronic kidney disease."
+              },
+              {
+                "title": "Toe–Brachial Pressure Index (TBI)",
+                "detail": "Digital arteries are spared from calcification; TBI <0.6 confirms significant PAD, and absolute hallux toe pressure <30 mmHg indicates CLTI / failure of ulcer healing."
+              }
+            ]
+          },
+          {
+            "title": "Vascular Imaging (To Map Inflow, Lesion Length, and Distal Run-Off)",
+            "children": [
+              {
+                "title": "Duplex Doppler Ultrasonography [KU 17]",
+                "detail": "First-line non-invasive test; combines B-mode anatomy with colour/pulsed-wave Doppler (a Peak Systolic Velocity [PSV] ratio >2.0 across a lesion indicates >50% stenosis)."
+              },
+              {
+                "title": "CT Angiography (CTA) or MR Angiography (MRA)",
+                "detail": "Provides complete 3D roadmap from the abdominal aorta to the pedal arch."
+              },
+              {
+                "title": "Digital Subtraction Angiography (DSA)",
+                "detail": "Performed via percutaneous retrograde femoral Seldinger puncture when concurrent endovascular angioplasty/stenting is planned."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Management of Chronic Lower Limb Ischaemia",
+        "children": [
+          {
+            "title": "A. Best Medical Therapy & Risk Factor Modification (Mandatory for ALL Patients):"
+          },
+          {
+            "title": "Complete, Permanent Cessation of Smoking (In Buerger’s disease, total abstinence from all forms of tobacco is the only measure that halts disease progression and prevents major amputation)."
+          },
+          {
+            "title": "Supervised Exercise Programme (for claudicants",
+            "detail": "walking to near-maximal pain for 30–60 minutes, 3 × /week for 3 months — stimulates collateral vessel development and muscle oxidative enzymes)."
+          },
+          {
+            "title": "Antiplatelet Therapy",
+            "detail": "Clopidogrel 75 mg daily (preferred by guidelines) or Aspirin 75–150 mg daily (or low-dose Rivaroxaban 2.5 mg BD + Aspirin)."
+          },
+          {
+            "title": "High-Intensity Statin Therapy (Atorvastatin 40–80 mg daily)",
+            "detail": "Stabilises plaques and reduces cardiovascular mortality regardless of baseline cholesterol."
+          },
+          {
+            "title": "Strict Glycaemic (HbA_1c <7%) and Blood Pressure Control, foot care education, and Cilostazol (100 mg BD — phosphodiesterase-III inhibitor; improves walking distance in claudicants; contraindicated in heart failure)."
+          },
+          {
+            "title": "B. Revascularisation (Indicated for CLTI [Rest Pain, Ulceration, Gangrene] or Disabling Lifestyle-Limiting Claudication):"
+          },
+          {
+            "title": "(Note",
+            "detail": "In Buerger’s disease, direct surgical bypass is rarely feasible due to lack of distal target run-off vessels; medical prostacyclin analogue Iloprost IV infusion, pain control, Chemical/Surgical Lumbar Sympathectomy, or omental transposition may aid ulcer healing)."
+          }
+        ]
+      },
+      {
+        "title": "1. Endovascular Revascularisation",
+        "children": [
+          {
+            "title": "Percutaneous Transluminal Balloon Angioplasty (PTA) ± Stenting (using drug-coated balloons or bare-metal/drug-eluting stents via intraluminal or subintimal angioplasty): Ideal for short focal stenoses/occlusions (<10 cm) and high-risk/frail patients."
+          }
+        ]
+      },
+      {
+        "title": "2. Open Surgical Revascularisation",
+        "children": [
+          {
+            "title": "Aortoiliac Occlusive Disease",
+            "detail": "Aortobifemoral Bypass using a bifurcated knitted Dacron graft (90% 5-year patency). In unilateral iliac occlusion or unfit patients, perform an extra-anatomical Femorofemoral Crossover Bypass or Axillobifemoral Bypass."
+          },
+          {
+            "title": "Common Femoral Artery Disease",
+            "detail": "Femoral Endarterectomy with Vein/Bovine Pericardial Patch Angioplasty (+ profundaplasty)."
+          },
+          {
+            "title": "Superficial Femoral / Popliteal / Crural Disease",
+            "detail": "Femoropopliteal or Femorodistal (Femorotibial) Bypass using autologous Great Saphenous Vein (GSV) (either reversed or in situ after disrupting valves with a valvulotome; 60–70% 5-year patency). If vein is unavailable, use an ePTFE graft with an autologous distal vein cuff (Miller cuff or St Mary’s boot)."
+          },
+          {
+            "title": "C. Management of Gangrene & Amputation (when unreconstructable or after revascularisation improves proximal blood supply):"
+          },
+          {
+            "title": "Wait for a clear line of demarcation in dry gangrene (or perform urgent debridement/amputation after revascularisation in wet/infected gangrene) → local ray/transmetatarsal amputation or major below-knee/above-knee amputation."
+          }
+        ]
+      }
+    ]
+  }
+]

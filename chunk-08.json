@@ -1,0 +1,394 @@
+[
+  {
+    "id": "surgery-t29",
+    "title": "Q10.2: Gangrene (Types, Diabetic Foot & Gas Gangrene), Acute Limb Ischaemia, Amputation & Lumbar Sympathectomy",
+    "children": [
+      {"title": "Covers: KU 24, 22, 18, 16, RGU, TU — Long Essays, Short Essays & Short Answers"},
+      {
+        "title": "1. Definition & Clinical Types of Gangrene [KU 24, 18, TU]",
+        "children": [
+          {"title": "Definition", "detail": "Macroscopic death (necrosis) of tissue with superadded putrefaction, turning black due to the breakdown of haemoglobin into iron sulphide by hydrogen sulphide from bacteria/tissues."},
+          {
+            "title": "Dry vs Wet Gangrene — comparison table",
+            "children": [
+              {"title": "Mechanism", "children": [
+                {"title": "Dry", "detail": "Gradual arterial occlusion with unimpeded venous and lymphatic drainage (desiccation/mummification of tissues)."},
+                {"title": "Wet (Moist)", "detail": "Sudden both arterial and venous occlusion + superadded bacterial infection and putrefaction in oedematous tissues."}
+              ]},
+              {"title": "Common Causes", "children": [
+                {"title": "Dry", "detail": "Chronic atherosclerosis, Buerger's disease, Ergot poisoning, Raynaud's."},
+                {"title": "Wet (Moist)", "detail": "Diabetic foot, venous gangrene, strangulated hernia/volvulus, acute trauma, gas gangrene."}
+              ]},
+              {"title": "Clinical Appearance", "children": [
+                {"title": "Dry", "detail": "Dry, shrivelled, wrinkled, mummified black tissue; slow proximal spread."},
+                {"title": "Wet (Moist)", "detail": "Swollen, boggy, putrid, foul-smelling, blistered tissue with spreading cellulitis and crepitus; rapid proximal spread."}
+              ]},
+              {"title": "Line of Demarcation", "children": [
+                {"title": "Dry", "detail": "Sharp, clear-cut line of demarcation forms between living and dead tissue (heals by separation via granulation tissue)."},
+                {"title": "Wet (Moist)", "detail": "Ill-defined / vague line of demarcation without spontaneous arrest."}
+              ]},
+              {"title": "Systemic Toxicity & Treatment", "children": [
+                {"title": "Dry", "detail": "Minimal systemic sepsis; improve proximal blood supply and await demarcation before conservative amputation."},
+                {"title": "Wet (Moist)", "detail": "Severe life-threatening septicaemia/toxaemia; requires emergency surgical debridement or amputation under broad-spectrum IV antibiotic cover."}
+              ]}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. Diabetic Foot Ulcer & Diabetic Gangrene [KU 22, 16, TU]",
+        "children": [
+          {
+            "title": "Triad of Pathogenesis",
+            "children": [
+              {"title": "Diabetic Peripheral Sensorimotor & Autonomic Neuropathy", "detail": "Loss of protective pain/pressure sensation (\"glove and stocking\"), intrinsic foot muscle atrophy (claw toes, prominent metatarsal heads, high-arch cavus foot), and anhidrosis (dry fissured skin) + Charcot's neuropathic joint arthropathy (\"rocker-bottom foot\")."},
+              {"title": "Ischaemia (Macrovascular & Microvascular)", "detail": "Atherosclerosis characteristically affecting the infrapopliteal crural arteries (tibial and peroneal) with relative sparing of the pedal arteries (dorsalis pedis and plantar arch — allowing distal pedal bypass), plus Mönckeberg's medial calcification and capillary basement membrane thickening."},
+              {"title": "Impaired Immunity & Polymicrobial Infection", "detail": "Hyperglycaemia impairs neutrophil chemotaxis and phagocytosis; polymicrobial aerobic (S. aureus, Streptococci, E. coli, Pseudomonas) and anaerobic (Bacteroides, Peptostreptococcus) infection spreads rapidly along plantar fascial compartments, causing wet gangrene and osteomyelitis."}
+            ]
+          },
+          {"title": "Investigations", "detail": "Blood glucose, HbA_1c, FBC, CRP, RFTs, wound pus culture (deep tissue biopsy), X-ray of the foot (for osteomyelitis and subcutaneous gas), and Doppler ABPI, TBI, and Duplex USG / CT or MR Angiography."},
+          {
+            "title": "Management",
+            "children": [
+              {"title": "Resuscitation & Glycaemic Control", "detail": "IV fluids and soluble insulin infusion (sliding scale)."},
+              {"title": "Broad-Spectrum Parenteral Antibiotics", "detail": "Covering Gram-positive, Gram-negative, and anaerobic organisms (e.g., Piperacillin–Tazobactam or Meropenem + Metronidazole + Linezolid/Vancomycin)."},
+              {"title": "Urgent Surgical Drainage & Debridement (\"Puss and Slough Must Go\")", "detail": "Radical excision of all necrotic slough, laying open infected plantar fascial spaces, and local digital (ray) or transmetatarsal amputation (leaving the wound open to granulate). If spreading life-threatening wet gangrene/sepsis is present, perform an emergency guillotine or definitive Below-Knee Amputation."},
+              {"title": "Revascularisation", "detail": "Endovascular tibial angioplasty or Femorodistal (Femoropedal) vein bypass once acute sepsis is controlled."},
+              {"title": "Wound Care & Rehabilitation", "detail": "Negative-pressure wound therapy (VAC), split-skin grafting, off-loading footwear (total contact cast / bespoke diabetic microcellular rubber [MCR] footwear), and lifelong foot care education."}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3. Gas Gangrene (Clostridial Myonecrosis) [KU 18]",
+        "children": [
+          {
+            "title": "Etiopathogenesis",
+            "children": [
+              {"title": "Organisms", "detail": "Rapidly progressive, life-threatening myonecrosis caused by anaerobic, Gram-positive, spore-forming bacilli of the genus Clostridium — most commonly Clostridium perfringens (C. welchii — 80%), C. septicum, C. novyi, and C. histolyticum."},
+              {"title": "Wound", "detail": "Occurs in deep, devitalised, hypoxic wounds contaminated with soil or faeces (compound fractures, war wounds, crushed muscle, or high above-knee amputations in ischaemic limbs)."},
+              {"title": "Exotoxins & Gas", "detail": "Organisms produce potent exotoxins (Alpha-toxin [Lecithinase-C], which hydrolyses cell membrane phospholipids causing massive myonecrosis and intravascular haemolysis, plus collagenase, hyaluronidase, and leukocidin) and ferment muscle carbohydrates to produce gas (H_2, CO_2, N_2)."}
+            ]
+          },
+          {
+            "title": "Clinical Features (Incubation period: 12–48 hours)",
+            "children": [
+              {"title": "Local", "detail": "Sudden severe, lancinating pain and tense swelling of the wound; thin, foul-smelling, brownish \"dishwater\" serosanguineous exudate with gas bubbles; overlying skin becomes bronze/tawny then greenish-black with haemorrhagic bullae; palpable surgical emphysema (crepitus) over the muscle bellies. Exposed muscle looks pale/brick-red (like boiled meat), does not bleed on cutting, and does not contract on pinching."},
+              {"title": "Systemic", "detail": "Profound toxaemia, disproportionately severe tachycardia, hypotension, haemolytic jaundice, haemoglobinuria, acute renal failure, and septic shock (mental alertness is often eerily preserved until late)."}
+            ]
+          },
+          {
+            "title": "Investigations",
+            "children": [
+              {"title": "Gram Stain of Wound Exudate", "detail": "Large Gram-positive rods with no polymorphonuclear leukocytes (destroyed by toxins); anaerobic culture on Robertson's cooked meat medium (Nagler's reaction positive for lecithinase)."},
+              {"title": "Plain Radiograph", "detail": "Feathery linear streaks of gas dissecting within muscle bundles."}
+            ]
+          },
+          {
+            "title": "Management (Surgical Emergency)",
+            "children": [
+              {"title": "Resuscitation & High-Dose IV Antibiotics", "detail": "Crystalline Benzylpenicillin (Penicillin G — 2 to 4 million units IV 4-hourly) + Clindamycin (600–900 mg IV 8-hourly) (Clindamycin directly inhibits clostridial toxin synthesis) + Metronidazole."},
+              {"title": "Emergency Radical Surgical Debridement", "detail": "Excision of all dead, non-contractile, non-bleeding muscle across all involved compartments, or Emergency Guillotine Amputation (leaving the stump wide open)."},
+              {"title": "Hyperbaric Oxygen Therapy (HBOT)", "detail": "100% O2 at 2.5–3.0 atmospheres halts alpha-toxin production and kills obligate anaerobes."}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4. Acute Limb Ischaemia (ALI) & Arterial Emboli [TU]",
+        "children": [
+          {"title": "Etiology", "detail": "Arterial Embolism (80% cardiac in origin: left atrial thrombus in atrial fibrillation, mural thrombus post-myocardial infarction, prosthetic valves, infective endocarditis; or proximal aneurysm — lodges at arterial bifurcations, commonest being the Common Femoral Artery bifurcation, followed by the trifurcation of the popliteal artery and aortic saddle embolus) vs Acute-on-Chronic In-situ Thrombosis."},
+          {
+            "title": "Clinical Features (\"The 6 P's\")",
+            "children": [
+              {"title": "Pain"},
+              {"title": "Pallor"},
+              {"title": "Pulselessness"},
+              {"title": "Poikilothermia (perishingly cold)"},
+              {"title": "Paraesthesia"},
+              {"title": "Paralysis", "detail": "Onset of sensory loss and muscle paralysis indicates impending irreversible muscle/nerve death within 6 hours — Rutherford Class IIb [Immediately Threatened] vs Class III [Irreversible: profound anaesthesia, rigor/paralysis, and inaudible arterial and venous Doppler signals] — Table 61.2."}
+            ]
+          },
+          {
+            "title": "Management",
+            "children": [
+              {"title": "Immediate", "detail": "IV Unfractionated Heparin bolus (5000 U IV) to prevent proximal and distal thrombus propagation + IV opiate analgesia + oxygen."},
+              {"title": "Rutherford Class IIa (Marginally Threatened — no motor loss)", "detail": "Urgent CTA/DSA + Catheter-Directed Intra-Arterial Thrombolysis (with recombinant Tissue Plasminogen Activator [rt-PA / Alteplase])."},
+              {"title": "Rutherford Class IIb (Immediately Threatened — sensory/motor deficit)", "detail": "Emergency Surgical Fogarty Balloon Catheter Embolectomy via a transverse femoral arteriotomy (or emergency bypass if underlying chronic thrombosis) + Four-Compartment Calf Fasciotomy (to prevent Reperfusion Compartment Syndrome [KU 24])."},
+              {"title": "Rutherford Class III (Irreversible / Dead Limb)", "detail": "Primary Major Amputation (revascularising a dead, paralysed limb causes fatal hyperkalaemia, acidosis, and myoglobinuric renal failure — Haimovici's myonephropathic metabolic syndrome)."}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5. Amputation (Indications, Guillotine & Below-Knee Amputation) [TU]",
+        "children": [
+          {
+            "title": "Indications (\"The 3 D's\" — Summary Box 61.3)",
+            "children": [
+              {"title": "Dead Limb", "detail": "Irreversible gangrene (atherosclerosis, diabetes, embolism, frostbite)."},
+              {"title": "Deadly Limb", "detail": "Life-threatening wet gangrene, gas gangrene, spreading necrotising fasciitis, osteosarcoma, or massive crush injury."},
+              {"title": "Dead Loss (Nuisance) Limb", "detail": "Intractable rest pain with unreconstructable CLTI, severe unrecoverable trauma, or flail/paralysed/contracted limb."}
+            ]
+          },
+          {"title": "Guillotine Amputation", "detail": "An emergency, rapid, circular open amputation where skin, subcutaneous tissue, muscles, and bone are divided at the exact same level and left completely unsutured to allow free drainage of pus and gas (indicated in fulminant gas gangrene or overwhelming wet diabetic foot sepsis; followed later by formal revision/higher definitive closure once sepsis resolves)."},
+          {"title": "Below-Knee Amputation (Burgess Long Posterior Flap or Skew Flap)", "detail": "Preserves the knee joint (drastically reducing the energy expenditure of walking with a prosthesis); ideal tibial stump length is 10–12 cm below the tibial tuberosity (never <8 cm), with the fibula divided 2 cm shorter than the tibia and the anterior tibial crest bevelled at 45°."}
+        ]
+      },
+      {
+        "title": "6. Lumbar Sympathectomy [KU 22, RGU]",
+        "children": [
+          {"title": "Principle", "detail": "Ablation of the L2, L3, and L4 lumbar sympathetic ganglia abolishes sympathetic vasoconstrictor tone specifically to the cutaneous arterioles of the foot and lower leg (opening cutaneous arteriovenous shunts and increasing skin blood flow to aid healing of superficial ischaemic ulcers and relieve rest pain; it does NOT improve intermittent claudication because skeletal muscle vessels are regulated by local metabolites, not sympathetic nerves)."},
+          {"title": "Indications", "detail": "Non-reconstructable distal small-vessel occlusive disease (Buerger's disease, severe Raynaud's phenomenon) with rest pain or minor superficial digital ulceration (where ABPI >0.3), plantar hyperhidrosis, and Complex Regional Pain Syndrome (causalgia)."},
+          {
+            "title": "Techniques",
+            "children": [
+              {"title": "Chemical Lumbar Sympathectomy (Preferred today)", "detail": "Percutaneous CT- or fluoroscopy-guided injection of 5 mL of 6–10% Phenol in water (or absolute alcohol) anterolateral to the L2–L4 vertebral bodies."},
+              {"title": "Surgical Lumbar Sympathectomy", "detail": "Extraperitoneal approach via a transverse flank incision (pushing the peritoneum and ureter medially to expose the sympathetic chain lying in the groove between the psoas major muscle and vertebral bodies; on the right it lies behind the IVC, on the left beside the aorta). Excision of L2, L3, and L4 ganglia (preserving the L1 ganglion bilaterally in young men to prevent retrograde ejaculation)."}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t30",
+    "title": "Q10.3: Aortic Aneurysm, False/Cirsoid Aneurysm, Arteriovenous Fistula & Raynaud's Syndrome",
+    "children": [
+      {"title": "Covers: KU 24, 18, RGU, TU — Short Answers"},
+      {
+        "title": "1. Abdominal Aortic Aneurysm (AAA) [KU 24]",
+        "children": [
+          {"title": "Definition", "detail": "A permanent localised dilatation of the abdominal aorta to ≥ 1.5 times its normal diameter (≥ 3.0 cm) involving all three layers of the arterial wall (True aneurysm). 95% are infrarenal and degenerative/atherosclerotic (associated with smoking, male sex [4:1], age >65 years, hypertension, and matrix metalloproteinase degradation of medial elastin)."},
+          {
+            "title": "Clinical Presentations",
+            "children": [
+              {"title": "Asymptomatic (75%)", "detail": "Discovered incidentally on imaging or as a painless expansile epigastric/umbilical pulsation (pulsates both anteriorly and laterally on bimanual palpation)."},
+              {"title": "Symptomatic Non-Ruptured", "detail": "Back, flank, or abdominal pain (due to rapid sac expansion or an Inflammatory AAA with dense white retroperitoneal fibrosis), or trash foot (distal microembolisation of mural thrombus)."},
+              {"title": "Ruptured AAA (Surgical Emergency; 80% overall mortality)", "detail": "Classic triad of sudden severe abdominal/lumbar back pain + hypotension/shock + pulsatile abdominal mass (80% rupture posterolaterally into the retroperitoneum, allowing a brief window of tamponade; 20% rupture anteriorly into the free peritoneal cavity)."}
+            ]
+          },
+          {"title": "Investigations", "detail": "Abdominal Ultrasonography (for screening men at age 65 and surveillance of small AAAs) and CT Angiography (CTA) (gold standard for planning open vs endovascular repair; defines neck length/angulation and iliac access)."},
+          {
+            "title": "Management",
+            "children": [
+              {"title": "Asymptomatic AAA <5.5 cm", "detail": "Best medical therapy (smoking cessation, statin, antiplatelet, BP control) + serial USG surveillance (annual if 3.0–4.4 cm; 3-monthly if 4.5–5.4 cm)."},
+              {
+                "title": "Indications for Elective Repair",
+                "detail": "Diameter ≥ 5.5 cm in men (≥ 5.0 cm in women), rapid growth >1 cm/year, or any symptomatic aneurysm.",
+                "children": [
+                  {"title": "Open Surgical Inlay Repair", "detail": "Midline laparotomy → infrarenal aortic and iliac cross-clamping → longitudinal opening of the aneurysm sac → oversewing lumbar and IMA back-bleeding → suturing a tube or bifurcated Dacron graft end-to-end inside the sac → closing the native sac over the graft (to prevent aortoduodenal fistula)."},
+                  {"title": "Endovascular Aneurysm Repair (EVAR)", "detail": "Deployment of a modular stent-graft (Dacron/ePTFE supported by nitinol stents) via the femoral arteries to exclude the aneurysm sac (lower 30-day mortality than open repair, but requires lifelong surveillance for Endoleaks Types I–V — Table 61.3)."}
+                ]
+              },
+              {"title": "Management of Ruptured AAA (Summary Box 61.5)", "detail": "Permissive hypotension (restrict IV fluids to keep systolic BP 70–100 mmHg so as not to blow off the retroperitoneal clot), crossmatch blood, urgent CTA if stable, and immediate transfer to theatre for emergency EVAR or Open clamping & repair."}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2. False Aneurysm (Pseudoaneurysm) & Cirsoid Aneurysm [TU]",
+        "children": [
+          {"title": "False Aneurysm (Pseudoaneurysm)", "detail": "A pulsating haematoma communicating with the arterial lumen through a breach in the arterial wall; its sac wall does not contain the three arterial layers (intima, media, adventitia) but is lined only by compressed perivascular fibrous tissue and organised laminated clot. Caused by penetrating trauma, arterial catheterisation (femoral artery puncture), or anastomotic disruption. Treated by USG-guided percutaneous thrombin injection (if <3 cm with a narrow neck) or open surgical evacuation and suture repair."},
+          {"title": "Cirsoid Aneurysm", "detail": "A congenital high-flow arteriovenous malformation (AVM) occurring most commonly in the subcutaneous tissue of the scalp (superficial temporal and occipital vessels). Presents as a warm, compressible, tortuous \"bag of pulsating worms\" beneath the scalp with a palpable thrill, continuous machinery bruit, headache, and risk of torrential haemorrhage on ulceration. Treated by preoperative superselective transcatheter arterial embolisation followed by complete surgical excision."}
+        ]
+      },
+      {
+        "title": "3. Arteriovenous Fistula (AVF) [KU 18, RGU]",
+        "children": [
+          {
+            "title": "Definition & Causes",
+            "detail": "An abnormal direct communication between a high-pressure artery and a low-pressure vein bypassing the capillary bed.",
+            "children": [
+              {"title": "Congenital", "detail": "Cirsoid aneurysm, Parkes-Weber syndrome."},
+              {"title": "Traumatic", "detail": "Penetrating stab/gunshot injury or iatrogenic catheterisation."},
+              {"title": "Surgically Created (Therapeutic)", "detail": "Brescia–Cimino radiocephalic or brachiocephalic AV fistula for haemodialysis access in end-stage renal disease."}
+            ]
+          },
+          {
+            "title": "Structural & Physiological Effects",
+            "children": [
+              {"title": "Local", "detail": "Veins become dilated, tortuous, and thick-walled (\"arterialisation\"); pulsatile mass with a palpable systolic–diastolic thrill and a continuous \"machinery murmur\" (Gibson's murmur); distal limb ischaemia (\"steal syndrome\") and venous hypertension/ulceration."},
+              {"title": "Systemic", "detail": "Decreased total peripheral resistance → increased venous return, tachycardia, wide pulse pressure, cardiomegaly, and high-output left ventricular failure."}
+            ]
+          },
+          {"title": "Nicoladoni–Branham's Sign", "detail": "Digital compression of the feeding artery proximal to a large AVF causes an immediate reflex bradycardia and normalization of pulse pressure (as sudden elimination of the low-resistance shunt raises systemic arterial pressure, stimulating carotid sinus baroreceptors)."},
+          {"title": "Management", "detail": "Duplex USG + DSA/CTA. Traumatic/congenital AVFs are treated by endovascular coil/glue embolisation, covered stent-graft placement across the arterial defect, or open surgical quadruple ligation/excision with arterial reconstruction (simple proximal arterial ligation alone is contraindicated as collateral steal causes distal gangrene)."}
+        ]
+      },
+      {
+        "title": "4. Raynaud's Disease vs Raynaud's Syndrome (Raynaud's Phenomenon) [KU 24, RGU, TU]",
+        "children": [
+          {
+            "title": "Definition",
+            "detail": "Episodic vasospasm of the digital arteries and cutaneous arterioles of the hands (and feet) triggered by exposure to cold or emotional stress, producing a classic triphasic colour sequence.",
+            "children": [
+              {"title": "Local Syncope (White / Blanching)", "detail": "Intense digital arteriolar spasm empties the capillary bed → digits turn dead-white, cold, and numb."},
+              {"title": "Local Asphyxia (Blue / Dusky Cyanosis)", "detail": "Sluggish accumulation of deoxygenated blood in paralysed dilated capillaries and venules → digits become swollen and bluish-purple."},
+              {"title": "Reactive Hyperaemia (Red / Engorgement)", "detail": "Relaxation of arteriolar spasm floods the dilated capillary bed with oxygenated blood → digits become bright red with throbbing pain and paraesthesia."}
+            ]
+          },
+          {
+            "title": "Distinction",
+            "children": [
+              {"title": "Raynaud's Disease (Primary / Idiopathic)", "detail": "Occurs in young women (15–30 years), bilateral and symmetrical, normal peripheral pulses, no underlying systemic disease, and almost never causes digital gangrene (only rare micronodular pulp scars)."},
+              {"title": "Raynaud's Syndrome (Secondary)", "detail": "Secondary to connective tissue/autoimmune diseases (Systemic Sclerosis / CREST syndrome [90%], SLE, Rheumatoid arthritis), occupational vibrating tools (\"Vibration White Finger\"), Thoracic Outlet Syndrome (cervical rib), Buerger's disease, β-blockers/ergot, or cryoglobulinaemia. Often unilateral/asymmetric and frequently progresses to severe digital ischaemic ulceration, pulp necrosis, and gangrene."}
+            ]
+          },
+          {
+            "title": "Management",
+            "children": [
+              {"title": "Conservative", "detail": "Strict avoidance of cold (electrically heated mittens/gloves), absolute cessation of smoking, and stopping vibrating tools or β-blockers; treat underlying autoimmune disease."},
+              {"title": "Medical", "detail": "Oral Calcium Channel Blockers (Nifedipine 10–20 mg TDS or Amlodipine) (first-line vasodilator), topical nitrates, Sildenafil (PDE-5 inhibitor), or Intravenous Iloprost (prostacyclin analogue) infusion for severe digital ulceration/critical ischaemia."},
+              {"title": "Surgical", "detail": "Digital sympathectomy (periarterial adventitial stripping) or conservative amputation of demarcated necrotic fingertips (cervicodorsal sympathectomy provides only transient relief in Raynaud's and has largely been abandoned)."}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t31",
+    "title": "1. Skin & Subcutaneous Tissue PYQs",
+    "children": [
+      {
+        "title": "Pyogenic Granuloma (Lobular Capillary Haemangioma) [TU]",
+        "children": [
+          {"title": "Pathology", "detail": "Acquired benign vascular lesion sharing histological characteristics with capillary haemangiomas (not truly pyogenic or granulomatous)."},
+          {"title": "Clinical Features", "detail": "Rapidly growing, small (0.5–1.5 cm), raised, pedunculated, soft bright-red nodular lesion following trivial trauma; shows superficial ulceration and bleeds profusely on slightest touch. Common on fingers, lips, face, and gingiva."},
+          {"title": "Treatment", "detail": "Excision with a minimal margin (or curettage with cauterisation of the feeding base to prevent recurrence)."}
+        ]
+      },
+      {
+        "title": "Kaposi's Sarcoma [RGU, TU]",
+        "children": [
+          {"title": "Etiology", "detail": "Malignant proliferative tumour of vascular endothelial cells causally linked to Human Herpesvirus-8 (HHV-8 / KSHV)."},
+          {
+            "title": "Clinical Variants",
+            "children": [
+              {"title": "(i) Classic", "detail": "Elderly Ashkenazi Jewish/Mediterranean men."},
+              {"title": "(ii) Endemic", "detail": "African."},
+              {"title": "(iii) Iatrogenic", "detail": "Post-transplant immunosuppression."},
+              {"title": "(iv) Epidemic / AIDS-defining", "detail": "HIV infection."}
+            ]
+          },
+          {"title": "Clinical Features & Treatment", "detail": "Starts as multifocal red-brown/violaceous indurated skin plaques on extremities or oral mucosa that become nodular and ulcerate. Treated with Antiretroviral therapy (HAART), local radiotherapy, intralesional vinblastine, or systemic liposomal doxorubicin."}
+        ]
+      },
+      {
+        "title": "Hidradenitis Suppurativa [TU]",
+        "children": [
+          {"title": "Pathophysiology", "detail": "Chronic, relapsing inflammatory disease of apocrine sweat gland-bearing skin (axillae, groins, perineum, inframammary folds). Characterised by follicular occlusion, folliculitis, and secondary bacterial infection (Staphylococcus aureus, Propionibacterium acnes), culminating in painful deep abscesses, interconnected epithelialised sinus tracts, and bridged \"rope-like\" scarring."},
+          {"title": "Risk Factors", "detail": "Female:Male = 4:1; begins after puberty and improves at menopause; strongly associated with obesity, smoking, and androgen excess (Hurley Stages I, II, and III)."},
+          {
+            "title": "Management",
+            "children": [
+              {"title": "General", "detail": "Weight loss, smoking cessation, loose aerated clothing, antiseptic washes/tea-tree oil."},
+              {"title": "Medical", "detail": "Long-term oral tetracyclines (Doxycycline) or Clindamycin + Rifampicin, antiandrogens, retinoids, or biologics (Adalimumab)."},
+              {"title": "Surgical (for severe/refractory disease)", "detail": "Radical wide excision of all affected apocrine-bearing skin and subcutaneous tissue followed by split-skin grafting or flap reconstruction to prevent contractures."}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Erysipelas [TU]",
+        "children": [
+          {"title": "Definition", "detail": "An acute, sharply demarcated superficial bacterial infection of the upper dermis and superficial cutaneous lymphatics caused by Group A β-haemolytic Streptococcus pyogenes."},
+          {"title": "Clinical Features", "detail": "Usually follows a minor skin breach on the face (butterfly distribution) or lower limb. Presents with a fiery-red, hot, oedematous, indurated plaque with a raised, palpable, sharply advancing margin (Milian's ear sign: involves the pinna, which lacks deeper subcutaneous tissue, unlike cellulitis), accompanied by high fever, rigors, and leukocytosis."},
+          {"title": "Treatment", "detail": "Swab any portal of entry; prompt oral or IV Penicillin (Benzylpenicillin / Amoxicillin) or macrolide."}
+        ]
+      },
+      {
+        "title": "Xeroderma Pigmentosum [RGU]",
+        "children": [
+          {"title": "Genetics & Pathophysiology", "detail": "Rare autosomal recessive disorder caused by defective nucleotide excision repair (NER) of UV-induced DNA pyrimidine dimers."},
+          {"title": "Clinical Features", "detail": "Extreme photosensitivity from infancy, severe freckling, xerosis, poikiloderma, ocular photophobia/keratitis, premature skin ageing, and a >2000-fold increased risk of multiple cutaneous malignancies (BCC, SCC, and Malignant Melanoma) appearing before age 10."},
+          {"title": "Prognosis & Management", "detail": "60% mortality by age 20 from metastatic skin cancer. Managed by total UV avoidance, protective clothing/sunscreens, oral retinoids, and early excision of skin tumours."}
+        ]
+      },
+      {
+        "title": "Desmoid Tumour (Aggressive Fibromatosis) [RGU, TU]",
+        "children": [
+          {"title": "Pathology", "detail": "Locally invasive, non-metastasising fibroblastic proliferation arising from musculoaponeurotic structures. Histologically benign (spindle cells in abundant collagen without atypia) but locally malignant due to infiltrative margins and high local recurrence."},
+          {"title": "Etiology", "detail": "Associated with pregnancy, prior surgical scars/trauma, oestrogen exposure, and Gardner's Syndrome / Familial Adenomatous Polyposis (APC gene mutation on Chr 5q22)."},
+          {"title": "Sites", "detail": "Abdominal wall (especially infraumbilical rectus sheath in multiparous women), intra-abdominal (mesenteric fibromatosis in FAP), and extra-abdominal (shoulder girdle/pelvis)."},
+          {"title": "Management", "detail": "Active surveillance first, medical therapy (NSAIDs [Sulindac], Tamoxifen, Sorafenib/Imatinib, or low-dose chemotherapy), or wide local excision with mesh reconstruction if symptomatic/progressive."}
+        ]
+      },
+      {
+        "title": "Collar-Stud Abscess [TU]",
+        "children": [
+          {"title": "Pathology", "detail": "A bilocular cold abscess arising from caseating tuberculous lymphadenitis (typically in the jugulodigastric or posterior triangle nodes of the neck)."},
+          {"title": "Mechanism", "detail": "Caseous pus is initially confined beneath the investing layer of deep cervical fascia (forming the deep loculus). Over time, it erodes through a small pinpoint perforation in the deep fascia to form a second fluctuating collection in the superficial subcutaneous space just beneath the skin (the superficial loculus), connected by a narrow track resembling a collar-stud."},
+          {"title": "Management", "detail": "6–9 months of Anti-Tuberculous Therapy (ATT) + non-dependent zygomatic/oblique aspiration (or incision, curettage of both superficial and deep cavities, enlarging the fascial defect, and primary watertight closure without a drain to prevent a chronic tuberculous sinus)."}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surgery-t32",
+    "title": "2. Oral Cavity PYQs",
+    "children": [
+      {
+        "title": "Cleft Lip & Palate (Types & Timing of Repair) [RGU, TU]",
+        "children": [
+          {"title": "Embryology", "detail": "Cleft lip results from failure of fusion of the frontonasal (median nasal) process with the maxillary processes during the 5th–6th week of gestation. Cleft palate results from failure of fusion of the palatal shelves of the maxillary processes during the 7th–10th week."},
+          {
+            "title": "Classification",
+            "children": [
+              {"title": "Cleft Lip", "detail": "Unilateral (Left > Right; Incomplete vs Complete extending into the nostril floor and alveolus up to the incisive foramen [primary palate]) or Bilateral (with a protruding premaxilla/prolabium)."},
+              {"title": "Cleft Palate", "detail": "Complete or Incomplete (bifid uvula, submucous cleft palate, soft palate only, or hard + soft palate [secondary palate])."}
+            ]
+          },
+          {
+            "title": "Timing & Technique of Surgical Repair",
+            "children": [
+              {"title": "Cleft Lip Repair", "detail": "Performed at 3 to 6 months of age following Millard's \"Rule of 10s\" (Weight >10 lbs [4.5 kg], Age >10 weeks, Haemoglobin >10 g/dL, and WBC <10,000/mm³). Technique: Millard's Rotation–Advancement Repair (or Tennison–Randall triangular flap)."},
+              {"title": "Cleft Palate Repair (Palatoplasty)", "detail": "Performed at 9 to 12 months of age (before speech development begins, while allowing early maxillary growth). Technique: Von Langenbeck bipedicled mucoperiosteal flap, Wardill–Kilner–Veau V-Y pushback, or Furlow's double-opposing Z-plasty."},
+              {"title": "Secondary Alveolar Bone Grafting", "detail": "Using cancellous iliac crest bone at 8–10 years (prior to permanent canine eruption)."}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Cancrum Oris (Noma) [RGU]",
+        "children": [
+          {"title": "Who it affects", "detail": "An acute, fulminating, gangrenous infective stomatitis affecting severely malnourished, debilitated children (often following measles, malaria, or gastroenteritis) in low-income regions."},
+          {"title": "Cause & Course", "detail": "Caused by a synergistic polymicrobial infection of Fusobacterium necrophorum, Borrelia vincentii, and anaerobes. Begins as a gingival ulcer that rapidly necroses through the full thickness of the cheek and jaws, sloughing off soft tissue and bone to leave grotesque facial defects and severe trismus."},
+          {"title": "Treatment", "detail": "Urgent fluid/nutritional resuscitation, IV Penicillin + Metronidazole, wound debridement, and delayed free/pedicled flap reconstruction."}
+        ]
+      },
+      {
+        "title": "Tongue-Tie (Ankyloglossia) [RGU]",
+        "children": [
+          {"title": "Definition", "detail": "Congenital anomaly characterised by an abnormally short, thick, fibrotic lingual frenulum tethering the ventral tip of the tongue to the floor of the mouth."},
+          {"title": "Clinical Features", "detail": "Infant cannot protrude the tongue tip beyond the lower incisors; on attempted protrusion, the tip is pulled down, creating a heart-shaped (notched) tongue; causes maternal nipple pain/difficulty latching during breastfeeding and later impairs pronunciation of lingual consonants (d, l, n, r, t, th)."},
+          {"title": "Treatment", "detail": "Simple division (Frenotomy) in infants with breastfeeding difficulty, or formal Frenuloplasty (horizontal division under general anaesthesia with vertical closure or Z-plasty) after age 1–2 years if speech is impaired."}
+        ]
+      },
+      {
+        "title": "Epulis [RGU]",
+        "children": [
+          {"title": "Definition", "detail": "Any benign localised swelling arising from the gingiva (gums) or periodontal membrane (Greek: epi = upon, oulon = gum)."},
+          {
+            "title": "Classification (4 Types)",
+            "children": [
+              {"title": "Fibrous Epulis (Commonest)", "detail": "Firm, pink, pedunculated fibroma arising from the interdental papilla due to chronic irritation/calculus."},
+              {"title": "Granulomatous (Pyogenic / Pregnancy) Epulis", "detail": "Soft, bright-red, vascular gingival mass that bleeds easily; Pregnancy epulis appears in the 1st/2nd trimester due to hormonal gingivitis and regresses postpartum."},
+              {"title": "Giant Cell (Myeloid) Epulis (Peripheral Giant Cell Granuloma)", "detail": "Dark-red/plum-coloured vascular sessile swelling arising from the periosteum/periodontal ligament containing multinucleated osteoclast-like giant cells (always check serum calcium/PTH to exclude a brown tumour of hyperparathyroidism)."},
+              {"title": "Carcinomatous Epulis", "detail": "Squamous cell carcinoma of the gingiva/alveolus."}
+            ]
+          },
+          {"title": "Treatment", "detail": "Excision of the epulis along with curettage of its periosteal base and extraction of any involved/irritating tooth root."}
+        ]
+      },
+      {
+        "title": "Dental Cyst (Radicular / Periapical Cyst) vs Dental Abscess [TU]",
+        "children": [
+          {"title": "Dental (Radicular) Cyst", "detail": "Commonest odontogenic cyst. Arises from epithelial cell rests of Malassez in the periodontal ligament stimulated by chronic periapical inflammation beneath a non-vital, carious, dead permanent tooth. Forms a slow-growing, painless jaw swelling lined by stratified squamous epithelium; OPG shows a round radiolucency with a sclerotic rim at the root apex of a carious tooth. Treated by endodontic root canal/tooth extraction + enucleation of the cyst."},
+          {"title": "Acute Dental (Alveolar) Abscess", "detail": "Suppurative infection of the dental pulp and periapical tissues tracking through cortical bone; presents with severe throbbing toothache (exacerbated by hot/cold and percussion), fever, trismus, and brawny swelling of the cheek/floor of mouth (Ludwig's angina if bilateral submandibular/sublingual spaces are involved). Treated with antibiotics (Amoxicillin + Metronidazole), drainage (via root canal, tooth extraction, or intraoral incision), and airway protection."}
+        ]
+      }
+    ]
+  }
+]
